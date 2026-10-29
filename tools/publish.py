@@ -13,9 +13,9 @@ import shutil
 import subprocess
 
 MEDIA = {'.png', '.jpg', '.jpeg', '.gif', '.webp', '.avif', '.svg', '.ico', '.mp4',
-         '.webm', '.mp3', '.ogg', '.wav', '.woff', '.woff2', '.ttf', '.otf'}
+         '.webm', '.mp3', '.ogg', '.wav', '.woff', '.woff2', '.ttf', '.otf', '.eot', '.bmp'}
 PUBLIC = ('application/images', 'application/themes', 'application/fonts',
-          'application/media', 'application/modules', 'forums/styles', 'forums/images')
+          'application/media', 'application/modules', 'forums/styles', 'forums/images', 'forums/ext')
 BATCH_BYTES = 600 * 1024 * 1024
 MAX_FILE_BYTES = 100 * 1024 * 1024
 
