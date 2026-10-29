@@ -1,0 +1,142 @@
+{
+  "Model": 4788400,
+  "Textures": {},
+  "Textures2": null,
+  "TextureFiles": null,
+  "ModelFiles": null,
+  "Item": null,
+  "Creature": {
+    "CreatureGeosetData": null,
+    "CreatureGeosetDataID": 0,
+    "CreatureModelAlpha": 255,
+    "Texture": 0,
+    "CreatureCustomizations": null,
+    "ParticleColor": null
+  },
+  "Character": null,
+  "ItemEffects": null,
+  "Equipment": null,
+  "ComponentTextures": null,
+  "ComponentModels": null,
+  "StateKits": [
+    {
+      "proceduralEffects": [
+        {
+          "ProcEffectType": 1,
+          "Value": [
+            2982655,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "ProcEffectType": 14,
+          "Value": [
+            0.75,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      "modelAttachEffects": [
+        {
+          "Offset": [
+            -0.33,
+            0,
+            0
+          ],
+          "OffsetVariation": [
+            0,
+            0,
+            0
+          ],
+          "AttachmentID": 19,
+          "Yaw": 0,
+          "Pitch": 0,
+          "Roll": 0,
+          "Scale1": 1,
+          "Scale2": 1,
+          "Texture": 0,
+          "AnimID": -1,
+          "AnimName": "Anim -1",
+          "StartAnimID": -1,
+          "StartAnimName": "Anim -1",
+          "EndAnimID": -1,
+          "EndAnimName": "Anim -1",
+          "AnimKitID": 0,
+          "Flags": 4,
+          "ModelType": 0,
+          "InvType": 0,
+          "Model": 166237,
+          "Positioner": -1
+        },
+        {
+          "Offset": [
+            -1.5,
+            0,
+            -1
+          ],
+          "OffsetVariation": [
+            0,
+            0,
+            0
+          ],
+          "AttachmentID": 20,
+          "Yaw": 0,
+          "Pitch": 1.5707964,
+          "Roll": 0,
+          "Scale1": 1,
+          "Scale2": 1,
+          "Texture": 0,
+          "AnimID": -1,
+          "AnimName": "Anim -1",
+          "StartAnimID": -1,
+          "StartAnimName": "Anim -1",
+          "EndAnimID": -1,
+          "EndAnimName": "Anim -1",
+          "AnimKitID": 0,
+          "Flags": 4,
+          "ModelType": 0,
+          "InvType": 0,
+          "Model": 166237,
+          "Positioner": -1
+        },
+        {
+          "Offset": [
+            0.1,
+            0,
+            -1.45
+          ],
+          "OffsetVariation": [
+            0,
+            0,
+            0
+          ],
+          "AttachmentID": 20,
+          "Yaw": 0,
+          "Pitch": 0,
+          "Roll": 0,
+          "Scale1": 1,
+          "Scale2": 1,
+          "Texture": 0,
+          "AnimID": -1,
+          "AnimName": "Anim -1",
+          "StartAnimID": -1,
+          "StartAnimName": "Anim -1",
+          "EndAnimID": -1,
+          "EndAnimName": "Anim -1",
+          "AnimKitID": 0,
+          "Flags": 4,
+          "ModelType": 0,
+          "InvType": 0,
+          "Model": 166237,
+          "Positioner": -1
+        }
+      ]
+    }
+  ],
+  "Decor": null,
+  "Scale": 0.4
+}

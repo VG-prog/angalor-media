@@ -1,0 +1,526 @@
+{
+  "Model": 0,
+  "Textures": {
+    "2": 141404
+  },
+  "Textures2": null,
+  "TextureFiles": null,
+  "ModelFiles": {
+    "17266": [
+      {
+        "FileDataId": 141374,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 10,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141375,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 10,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141376,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 11,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141377,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 11,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141378,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 3,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141379,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 3,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141380,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 7,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141381,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 7,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141382,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 9,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141383,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 9,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141384,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 1,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141385,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 1,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141386,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 4,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141387,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 4,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141388,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 2,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141389,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 2,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141390,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 5,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141391,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 5,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141392,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 6,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141393,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 6,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141394,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 8,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 141395,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 8,
+        "ExtraData": -1
+      }
+    ]
+  },
+  "Item": {
+    "Flags": 0,
+    "InventoryType": 1,
+    "ItemClass": 0,
+    "ItemSubClass": 0,
+    "HideGeosetMale": [
+      {
+        "RaceId": 1,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 2,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 3,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 4,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 5,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 7,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 8,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 9,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 10,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 11,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 12,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 13,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 14,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 15,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 18,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 3,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 9,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 12,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 13,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 14,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 15,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 18,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 16,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 17,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 19,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 20,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 21,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 16,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 17,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 19,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 20,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 21,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      }
+    ],
+    "HideGeosetFemale": [
+      {
+        "RaceId": 1,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 2,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 3,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 4,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 5,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 7,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 8,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 9,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 10,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 11,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 12,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 13,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 14,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 15,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 18,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 3,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 9,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 12,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 13,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 14,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 15,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 18,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 16,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 17,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 19,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 20,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 21,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 16,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 17,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 19,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 20,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 21,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      }
+    ],
+    "GeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AttachGeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GeosetGroupOverride": 0,
+    "ItemVisual": 0,
+    "ParticleColor": null
+  },
+  "Creature": null,
+  "Character": null,
+  "ItemEffects": null,
+  "Equipment": null,
+  "ComponentTextures": null,
+  "ComponentModels": {
+    "0": 17266
+  },
+  "StateKits": null,
+  "Decor": null,
+  "Scale": 1
+}
