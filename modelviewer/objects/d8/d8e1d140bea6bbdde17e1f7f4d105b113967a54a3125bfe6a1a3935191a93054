@@ -1,0 +1,59 @@
+{
+  "Model": 0,
+  "Textures": null,
+  "Textures2": null,
+  "TextureFiles": null,
+  "ModelFiles": null,
+  "Item": null,
+  "Creature": null,
+  "Character": null,
+  "ItemEffects": [
+    {
+      "Slot": 1,
+      "SubClass": -1,
+      "Model": 165992,
+      "kit": null,
+      "Scale": 1
+    },
+    {
+      "Slot": 2,
+      "SubClass": -1,
+      "Model": 165992,
+      "kit": null,
+      "Scale": 1
+    },
+    {
+      "Slot": 3,
+      "SubClass": -1,
+      "Model": 165992,
+      "kit": null,
+      "Scale": 1
+    },
+    {
+      "Slot": 4,
+      "SubClass": -1,
+      "Model": 165992,
+      "kit": null,
+      "Scale": 1
+    },
+    {
+      "Slot": 5,
+      "SubClass": -1,
+      "Model": 165992,
+      "kit": null,
+      "Scale": 1
+    }
+  ],
+  "Equipment": {
+    "0": 165992,
+    "1": 165992,
+    "2": 165992,
+    "3": 165992,
+    "4": 165992
+  },
+  "ComponentTextures": null,
+  "ComponentModels": null,
+  "StateKits": null,
+  "Decor": null,
+  "Scale": 1
+}
