@@ -97,7 +97,8 @@ def main() -> None:
         if not source.exists():
             continue
         for file in sorted(source.rglob('*')):
-            if file.is_file() and file.suffix.lower() in MEDIA:
+            if file.is_file() and (file.suffix.lower() in MEDIA or
+                                   relative == 'application/images' and file.suffix.lower() == '.json'):
                 put(file, 'web/' + file.relative_to(args.web_root).as_posix())
         print(json.dumps({'copied': relative, 'files': len(records)}), flush=True)
 
