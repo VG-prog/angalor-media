@@ -1,0 +1,511 @@
+{
+  "Model": 0,
+  "Textures": {
+    "2": 347857
+  },
+  "Textures2": null,
+  "TextureFiles": null,
+  "ModelFiles": {
+    "2134": [
+      {
+        "FileDataId": 347743,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 10,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347744,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 10,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347745,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 11,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347746,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 11,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347747,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 3,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347748,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 3,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347749,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 7,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347750,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 7,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347751,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 9,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347752,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 9,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347753,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 1,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347754,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 1,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347755,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 4,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347756,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 4,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347757,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 2,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347758,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 2,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347759,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 5,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347760,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 5,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347761,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 6,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347762,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 6,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347763,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 8,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 347764,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 8,
+        "ExtraData": -1
+      }
+    ]
+  },
+  "Item": {
+    "Flags": 0,
+    "InventoryType": 1,
+    "ItemClass": 4,
+    "ItemSubClass": 1,
+    "HideGeosetMale": [
+      {
+        "RaceId": 1,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 2,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 3,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 4,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 5,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 7,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 8,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 9,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 10,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 11,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 12,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 13,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 14,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 15,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 18,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 7,
+        "GeosetGroup": 2,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 2,
+        "GeosetGroup": 3,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 1,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 2,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 3,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 5,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 6,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 7,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 9,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 11,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 12,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 13,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 14,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 15,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 18,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 16,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 17,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 19,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 20,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 21,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 16,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 17,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 19,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 20,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 21,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      }
+    ],
+    "HideGeosetFemale": [
+      {
+        "RaceId": 1,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 2,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 3,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 4,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 5,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 7,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 8,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 10,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 11,
+        "GeosetGroup": 0,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 7,
+        "GeosetGroup": 2,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 2,
+        "GeosetGroup": 3,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 3,
+        "GeosetGroup": 3,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 4,
+        "GeosetGroup": 3,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 10,
+        "GeosetGroup": 3,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 1,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 2,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 3,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 5,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 6,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 7,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      },
+      {
+        "RaceId": 11,
+        "GeosetGroup": 7,
+        "RaceBitSelection": 0
+      }
+    ],
+    "GeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AttachGeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GeosetGroupOverride": 0,
+    "ItemVisual": 0,
+    "ParticleColor": null
+  },
+  "Creature": null,
+  "Character": null,
+  "ItemEffects": null,
+  "Equipment": null,
+  "ComponentTextures": null,
+  "ComponentModels": {
+    "0": 2134
+  },
+  "StateKits": null,
+  "Decor": null,
+  "Scale": 1
+}

@@ -1,0 +1,43 @@
+{
+  "Model": 126426,
+  "Textures": {
+    "11": 126430
+  },
+  "Textures2": null,
+  "TextureFiles": null,
+  "ModelFiles": null,
+  "Item": null,
+  "Creature": {
+    "CreatureGeosetData": null,
+    "CreatureGeosetDataID": 0,
+    "CreatureModelAlpha": 255,
+    "Texture": 0,
+    "CreatureCustomizations": null,
+    "ParticleColor": {
+      "Id": 290,
+      "Start": [
+        4282158243,
+        4289580760,
+        4278224249
+      ],
+      "Mid": [
+        4291879913,
+        4294967295,
+        4280731779
+      ],
+      "End": [
+        4294967295,
+        4294967295,
+        4293130212
+      ]
+    }
+  },
+  "Character": null,
+  "ItemEffects": null,
+  "Equipment": null,
+  "ComponentTextures": null,
+  "ComponentModels": null,
+  "StateKits": null,
+  "Decor": null,
+  "Scale": 0.6
+}
