@@ -1,0 +1,106 @@
+{
+  "Model": 0,
+  "Textures": null,
+  "Textures2": null,
+  "TextureFiles": {
+    "24934": [
+      {
+        "FileDataId": 151188,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      },
+      {
+        "FileDataId": 151189,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "44318": [
+      {
+        "FileDataId": 162782,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      },
+      {
+        "FileDataId": 162783,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "33641": [
+      {
+        "FileDataId": 160131,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      },
+      {
+        "FileDataId": 160132,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "32168": [
+      {
+        "FileDataId": 157412,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ]
+  },
+  "ModelFiles": null,
+  "Item": {
+    "Flags": 0,
+    "InventoryType": 4,
+    "ItemClass": 0,
+    "ItemSubClass": 0,
+    "HideGeosetMale": null,
+    "HideGeosetFemale": null,
+    "GeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AttachGeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GeosetGroupOverride": 0,
+    "ItemVisual": 0,
+    "ParticleColor": null
+  },
+  "Creature": null,
+  "Character": null,
+  "ItemEffects": null,
+  "Equipment": null,
+  "ComponentTextures": {
+    "0": 24934,
+    "3": 44318,
+    "4": 33641,
+    "5": 32168
+  },
+  "ComponentModels": null,
+  "StateKits": null,
+  "Decor": null,
+  "Scale": 1
+}

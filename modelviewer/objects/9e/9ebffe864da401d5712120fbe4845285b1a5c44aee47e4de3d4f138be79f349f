@@ -1,0 +1,119 @@
+{
+  "Model": 0,
+  "Textures": null,
+  "Textures2": null,
+  "TextureFiles": {
+    "27078": [
+      {
+        "FileDataId": 152251,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "27243": [
+      {
+        "FileDataId": 150574,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "44956": [
+      {
+        "FileDataId": 164576,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      },
+      {
+        "FileDataId": 164577,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "45421": [
+      {
+        "FileDataId": 161891,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      },
+      {
+        "FileDataId": 161892,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "33690": [
+      {
+        "FileDataId": 159275,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "30026": [
+      {
+        "FileDataId": 156668,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ]
+  },
+  "ModelFiles": null,
+  "Item": {
+    "Flags": 0,
+    "InventoryType": 20,
+    "ItemClass": 4,
+    "ItemSubClass": 0,
+    "HideGeosetMale": null,
+    "HideGeosetFemale": null,
+    "GeosetGroup": [
+      1,
+      0,
+      1,
+      0,
+      0,
+      0
+    ],
+    "AttachGeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GeosetGroupOverride": 0,
+    "ItemVisual": 0,
+    "ParticleColor": null
+  },
+  "Creature": null,
+  "Character": null,
+  "ItemEffects": null,
+  "Equipment": null,
+  "ComponentTextures": {
+    "0": 27078,
+    "1": 27243,
+    "3": 44956,
+    "4": 45421,
+    "5": 33690,
+    "6": 30026
+  },
+  "ComponentModels": null,
+  "StateKits": null,
+  "Decor": null,
+  "Scale": 1
+}

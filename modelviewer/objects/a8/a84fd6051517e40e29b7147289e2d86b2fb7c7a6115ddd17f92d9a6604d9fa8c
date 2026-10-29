@@ -1,0 +1,60 @@
+{
+  "Model": 0,
+  "Textures": null,
+  "Textures2": null,
+  "TextureFiles": null,
+  "ModelFiles": null,
+  "Item": {
+    "Flags": 0,
+    "InventoryType": 0,
+    "ItemClass": 0,
+    "ItemSubClass": 0,
+    "HideGeosetMale": null,
+    "HideGeosetFemale": null,
+    "GeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AttachGeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GeosetGroupOverride": 0,
+    "ItemVisual": 130,
+    "ParticleColor": {
+      "Id": 354,
+      "Start": [
+        0,
+        0,
+        0
+      ],
+      "Mid": [
+        0,
+        0,
+        0
+      ],
+      "End": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "Creature": null,
+  "Character": null,
+  "ItemEffects": null,
+  "Equipment": null,
+  "ComponentTextures": null,
+  "ComponentModels": null,
+  "StateKits": null,
+  "Decor": null,
+  "Scale": 1
+}

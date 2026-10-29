@@ -1,0 +1,204 @@
+{
+  "Model": 0,
+  "Textures": {
+    "2": 294402
+  },
+  "Textures2": null,
+  "TextureFiles": null,
+  "ModelFiles": {
+    "6706": [
+      {
+        "FileDataId": 294403,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 10,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294404,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 10,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294405,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 11,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294406,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 11,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294407,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 3,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294408,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 3,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294409,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 7,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294410,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 7,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294411,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 9,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294412,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 9,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294413,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 1,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294414,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 1,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294415,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 4,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294416,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 4,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294417,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 2,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294418,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 2,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294419,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 5,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294420,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 5,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294421,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 6,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294422,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 6,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294423,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 8,
+        "ExtraData": -1
+      },
+      {
+        "FileDataId": 294424,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 8,
+        "ExtraData": -1
+      }
+    ]
+  },
+  "Item": {
+    "Flags": 0,
+    "InventoryType": 1,
+    "ItemClass": 4,
+    "ItemSubClass": 2,
+    "HideGeosetMale": null,
+    "HideGeosetFemale": null,
+    "GeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AttachGeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GeosetGroupOverride": 0,
+    "ItemVisual": 0,
+    "ParticleColor": null
+  },
+  "Creature": null,
+  "Character": null,
+  "ItemEffects": null,
+  "Equipment": null,
+  "ComponentTextures": null,
+  "ComponentModels": {
+    "0": 6706
+  },
+  "StateKits": null,
+  "Decor": null,
+  "Scale": 1
+}

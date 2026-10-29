@@ -1,0 +1,302 @@
+{
+  "Options": [
+    {
+      "Id": 105,
+      "Name": "Skin Color",
+      "OrderIndex": 1,
+      "Choices": [
+        {
+          "Id": 17903,
+          "Name": "",
+          "OrderIndex": 0,
+          "CustReqId": 12,
+          "Elements": [
+            {
+              "Id": 73346,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 1,
+                "MaterialResourcesID": 488475
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 17904,
+          "Name": "",
+          "OrderIndex": 1,
+          "CustReqId": 12,
+          "Elements": [
+            {
+              "Id": 73347,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 1,
+                "MaterialResourcesID": 488476
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 17905,
+          "Name": "",
+          "OrderIndex": 2,
+          "CustReqId": 12,
+          "Elements": [
+            {
+              "Id": 73348,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 1,
+                "MaterialResourcesID": 488477
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "TextureFiles": {
+    "488475": [
+      {
+        "FileDataId": 119373,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "488476": [
+      {
+        "FileDataId": 119374,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "488477": [
+      {
+        "FileDataId": 119375,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ]
+  },
+  "Materials": [
+    {
+      "TextureType": 1,
+      "Width": 512,
+      "Height": 512,
+      "Flags": 0,
+      "Unk_34615_1": -1
+    },
+    {
+      "TextureType": 6,
+      "Width": 256,
+      "Height": 256,
+      "Flags": 0,
+      "Unk_34615_1": -1
+    },
+    {
+      "TextureType": 8,
+      "Width": 256,
+      "Height": 256,
+      "Flags": 0,
+      "Unk_34615_1": -1
+    }
+  ],
+  "TextureLayers": [
+    {
+      "TextureType": 1,
+      "Layer": 0,
+      "BlendMode": 1,
+      "ChrModelTextureTargetID": 1,
+      "TextureSection": -1
+    },
+    {
+      "TextureType": 8,
+      "Layer": 1,
+      "BlendMode": 1,
+      "ChrModelTextureTargetID": 2,
+      "TextureSection": -1
+    },
+    {
+      "TextureType": 6,
+      "Layer": 2,
+      "BlendMode": 1,
+      "ChrModelTextureTargetID": 10,
+      "TextureSection": -1
+    },
+    {
+      "TextureType": 1,
+      "Layer": 3,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 5,
+      "TextureSection": 9
+    },
+    {
+      "TextureType": 1,
+      "Layer": 4,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 4,
+      "TextureSection": 10
+    },
+    {
+      "TextureType": 1,
+      "Layer": 5,
+      "BlendMode": 9,
+      "ChrModelTextureTargetID": 16,
+      "TextureSection": 12
+    },
+    {
+      "TextureType": 1,
+      "Layer": 6,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 13,
+      "TextureSection": 5
+    },
+    {
+      "TextureType": 1,
+      "Layer": 7,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 14,
+      "TextureSection": 3
+    },
+    {
+      "TextureType": 1,
+      "Layer": 8,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 11,
+      "TextureSection": 10
+    },
+    {
+      "TextureType": 1,
+      "Layer": 9,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 12,
+      "TextureSection": 9
+    },
+    {
+      "TextureType": 1,
+      "Layer": 10,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 7,
+      "TextureSection": 10
+    },
+    {
+      "TextureType": 1,
+      "Layer": 11,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 8,
+      "TextureSection": 9
+    }
+  ],
+  "TextureSections": [
+    {
+      "SectionType": 0,
+      "X": 0,
+      "Y": 0,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 1,
+      "X": 0,
+      "Y": 0.25,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 2,
+      "X": 0,
+      "Y": 0.5,
+      "Width": 0.5,
+      "Height": 0.125
+    },
+    {
+      "SectionType": 3,
+      "X": 0.5,
+      "Y": 0,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 4,
+      "X": 0.5,
+      "Y": 0.25,
+      "Width": 0.5,
+      "Height": 0.125
+    },
+    {
+      "SectionType": 5,
+      "X": 0.5,
+      "Y": 0.375,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 6,
+      "X": 0.5,
+      "Y": 0.625,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 7,
+      "X": 0.5,
+      "Y": 0.875,
+      "Width": 0.5,
+      "Height": 0.125
+    },
+    {
+      "SectionType": 9,
+      "X": 0,
+      "Y": 0.625,
+      "Width": 0.5,
+      "Height": 0.125
+    },
+    {
+      "SectionType": 10,
+      "X": 0,
+      "Y": 0.75,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 12,
+      "X": 0,
+      "Y": 0,
+      "Width": 1,
+      "Height": 1
+    },
+    {
+      "SectionType": 13,
+      "X": 0,
+      "Y": 0,
+      "Width": 1,
+      "Height": 1
+    }
+  ],
+  "HairStyleOptionId": 0
+}

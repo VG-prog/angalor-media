@@ -1,0 +1,6520 @@
+{
+  "Options": [
+    {
+      "Id": 176,
+      "Name": "Skin Color",
+      "OrderIndex": 1,
+      "Choices": [
+        {
+          "Id": 18184,
+          "Name": "",
+          "OrderIndex": 0,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74690,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 1,
+                "MaterialResourcesID": 5081
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74691,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 13,
+                "MaterialResourcesID": 5067
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74692,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 14,
+                "MaterialResourcesID": 5075
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18185,
+          "Name": "",
+          "OrderIndex": 1,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74693,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 1,
+                "MaterialResourcesID": 5082
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74694,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 13,
+                "MaterialResourcesID": 5068
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74695,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 14,
+                "MaterialResourcesID": 5076
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18186,
+          "Name": "",
+          "OrderIndex": 2,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74696,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 1,
+                "MaterialResourcesID": 5083
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74697,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 13,
+                "MaterialResourcesID": 5069
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74698,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 14,
+                "MaterialResourcesID": 5077
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18187,
+          "Name": "",
+          "OrderIndex": 3,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74699,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 1,
+                "MaterialResourcesID": 5084
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74700,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 13,
+                "MaterialResourcesID": 5070
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74701,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 14,
+                "MaterialResourcesID": 5078
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18188,
+          "Name": "",
+          "OrderIndex": 4,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74702,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 1,
+                "MaterialResourcesID": 5085
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74703,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 13,
+                "MaterialResourcesID": 5072
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74704,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 14,
+                "MaterialResourcesID": 5079
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18189,
+          "Name": "",
+          "OrderIndex": 5,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74705,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 1,
+                "MaterialResourcesID": 5086
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74706,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 13,
+                "MaterialResourcesID": 5074
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74707,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 14,
+                "MaterialResourcesID": 5080
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 177,
+      "Name": "Face",
+      "OrderIndex": 2,
+      "Choices": [
+        {
+          "Id": 18190,
+          "Name": "",
+          "OrderIndex": 0,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74708,
+              "VariationIndex": 0,
+              "VariationChoiceID": 18184,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5009
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74709,
+              "VariationIndex": 0,
+              "VariationChoiceID": 18184,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5039
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74710,
+              "VariationIndex": 1,
+              "VariationChoiceID": 18185,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5010
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74711,
+              "VariationIndex": 1,
+              "VariationChoiceID": 18185,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5040
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74712,
+              "VariationIndex": 2,
+              "VariationChoiceID": 18186,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5011
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74713,
+              "VariationIndex": 2,
+              "VariationChoiceID": 18186,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5041
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74714,
+              "VariationIndex": 3,
+              "VariationChoiceID": 18187,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5012
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74715,
+              "VariationIndex": 3,
+              "VariationChoiceID": 18187,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5042
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74716,
+              "VariationIndex": 4,
+              "VariationChoiceID": 18188,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5013
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74717,
+              "VariationIndex": 4,
+              "VariationChoiceID": 18188,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5043
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74718,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18189,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5014
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74719,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18189,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5044
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18191,
+          "Name": "",
+          "OrderIndex": 1,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74720,
+              "VariationIndex": 0,
+              "VariationChoiceID": 18184,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5015
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74721,
+              "VariationIndex": 0,
+              "VariationChoiceID": 18184,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5045
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74722,
+              "VariationIndex": 1,
+              "VariationChoiceID": 18185,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5016
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74723,
+              "VariationIndex": 1,
+              "VariationChoiceID": 18185,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5046
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74724,
+              "VariationIndex": 2,
+              "VariationChoiceID": 18186,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5017
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74725,
+              "VariationIndex": 2,
+              "VariationChoiceID": 18186,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5047
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74726,
+              "VariationIndex": 3,
+              "VariationChoiceID": 18187,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5018
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74727,
+              "VariationIndex": 3,
+              "VariationChoiceID": 18187,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5048
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74728,
+              "VariationIndex": 4,
+              "VariationChoiceID": 18188,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5019
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74729,
+              "VariationIndex": 4,
+              "VariationChoiceID": 18188,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5049
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74730,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18189,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5020
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74731,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18189,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5050
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18192,
+          "Name": "",
+          "OrderIndex": 2,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74732,
+              "VariationIndex": 0,
+              "VariationChoiceID": 18184,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5021
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74733,
+              "VariationIndex": 0,
+              "VariationChoiceID": 18184,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5051
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74734,
+              "VariationIndex": 1,
+              "VariationChoiceID": 18185,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5022
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74735,
+              "VariationIndex": 1,
+              "VariationChoiceID": 18185,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5052
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74736,
+              "VariationIndex": 2,
+              "VariationChoiceID": 18186,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5023
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74737,
+              "VariationIndex": 2,
+              "VariationChoiceID": 18186,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5053
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74738,
+              "VariationIndex": 3,
+              "VariationChoiceID": 18187,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5024
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74739,
+              "VariationIndex": 3,
+              "VariationChoiceID": 18187,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5054
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74740,
+              "VariationIndex": 4,
+              "VariationChoiceID": 18188,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5025
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74741,
+              "VariationIndex": 4,
+              "VariationChoiceID": 18188,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5055
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74742,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18189,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5026
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74743,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18189,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5056
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18193,
+          "Name": "",
+          "OrderIndex": 3,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74744,
+              "VariationIndex": 0,
+              "VariationChoiceID": 18184,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5027
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74745,
+              "VariationIndex": 0,
+              "VariationChoiceID": 18184,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5057
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74746,
+              "VariationIndex": 1,
+              "VariationChoiceID": 18185,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5028
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74747,
+              "VariationIndex": 1,
+              "VariationChoiceID": 18185,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5058
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74748,
+              "VariationIndex": 2,
+              "VariationChoiceID": 18186,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5029
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74749,
+              "VariationIndex": 2,
+              "VariationChoiceID": 18186,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5059
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74750,
+              "VariationIndex": 3,
+              "VariationChoiceID": 18187,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5030
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74751,
+              "VariationIndex": 3,
+              "VariationChoiceID": 18187,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5060
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74752,
+              "VariationIndex": 4,
+              "VariationChoiceID": 18188,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5031
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74753,
+              "VariationIndex": 4,
+              "VariationChoiceID": 18188,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5061
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74754,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18189,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5032
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74755,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18189,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5062
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18194,
+          "Name": "",
+          "OrderIndex": 4,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74756,
+              "VariationIndex": 0,
+              "VariationChoiceID": 18184,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5033
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74757,
+              "VariationIndex": 0,
+              "VariationChoiceID": 18184,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5071
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74758,
+              "VariationIndex": 1,
+              "VariationChoiceID": 18185,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5034
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74759,
+              "VariationIndex": 1,
+              "VariationChoiceID": 18185,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5073
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74760,
+              "VariationIndex": 2,
+              "VariationChoiceID": 18186,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5035
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74761,
+              "VariationIndex": 2,
+              "VariationChoiceID": 18186,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5063
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74762,
+              "VariationIndex": 3,
+              "VariationChoiceID": 18187,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5036
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74763,
+              "VariationIndex": 3,
+              "VariationChoiceID": 18187,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5064
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74764,
+              "VariationIndex": 4,
+              "VariationChoiceID": 18188,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5037
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74765,
+              "VariationIndex": 4,
+              "VariationChoiceID": 18188,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5065
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74766,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18189,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 4,
+                "MaterialResourcesID": 5038
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74767,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18189,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 5,
+                "MaterialResourcesID": 5066
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 178,
+      "Name": "Hair Style",
+      "OrderIndex": 3,
+      "Choices": [
+        {
+          "Id": 18195,
+          "Name": "",
+          "OrderIndex": 0,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67679,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 0,
+                "GeosetID": 1,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18196,
+          "Name": "",
+          "OrderIndex": 1,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67680,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 0,
+                "GeosetID": 2,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18197,
+          "Name": "",
+          "OrderIndex": 2,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67681,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 0,
+                "GeosetID": 3,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18198,
+          "Name": "",
+          "OrderIndex": 3,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67682,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 0,
+                "GeosetID": 4,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18199,
+          "Name": "",
+          "OrderIndex": 4,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67683,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 0,
+                "GeosetID": 5,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18200,
+          "Name": "",
+          "OrderIndex": 5,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67684,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 0,
+                "GeosetID": 6,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 179,
+      "Name": "Hair Color",
+      "OrderIndex": 4,
+      "Choices": [
+        {
+          "Id": 18201,
+          "Name": "",
+          "OrderIndex": 0,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74768,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 10,
+                "MaterialResourcesID": 4999
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74769,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 11,
+                "MaterialResourcesID": 5087
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74770,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 12,
+                "MaterialResourcesID": 5117
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105122,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 1,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105123,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 2,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106386,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4234
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106387,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4294
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106388,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4244
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106389,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4304
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106390,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4254
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106391,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4314
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106392,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4264
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106393,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4972
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106394,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4274
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106395,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4979
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106396,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4284
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106397,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4989
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18202,
+          "Name": "",
+          "OrderIndex": 1,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74771,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 10,
+                "MaterialResourcesID": 5000
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74772,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 11,
+                "MaterialResourcesID": 5088
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74773,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 12,
+                "MaterialResourcesID": 5118
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105124,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 1,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105125,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 2,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106398,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4235
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106399,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4295
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106400,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4245
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106401,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4305
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106402,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4255
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106403,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4315
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106404,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4265
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106405,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4978
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106406,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4275
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106407,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4980
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106408,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4285
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106409,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4990
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18203,
+          "Name": "",
+          "OrderIndex": 2,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74774,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 10,
+                "MaterialResourcesID": 5001
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74775,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 11,
+                "MaterialResourcesID": 5089
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74776,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 12,
+                "MaterialResourcesID": 5119
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105126,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 1,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105127,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 2,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106410,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4236
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106411,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4296
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106412,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4246
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106413,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4306
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106414,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4256
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106415,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4316
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106416,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4266
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106417,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4969
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106418,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4276
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106419,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4981
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106420,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4286
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106421,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4991
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18204,
+          "Name": "",
+          "OrderIndex": 3,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74777,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 10,
+                "MaterialResourcesID": 5002
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74778,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 11,
+                "MaterialResourcesID": 5090
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74779,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 12,
+                "MaterialResourcesID": 5120
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105128,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 1,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105129,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 2,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106422,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4237
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106423,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4297
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106424,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4247
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106425,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4307
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106426,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4257
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106427,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4317
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106428,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4267
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106429,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4970
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106430,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4277
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106431,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4982
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106432,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4287
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106433,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4992
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18205,
+          "Name": "",
+          "OrderIndex": 4,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74780,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 10,
+                "MaterialResourcesID": 5003
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74781,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 11,
+                "MaterialResourcesID": 5091
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74782,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 12,
+                "MaterialResourcesID": 5121
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105130,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 1,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105131,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 2,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106434,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4238
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106435,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4298
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106436,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4248
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106437,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4308
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106438,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4258
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106439,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4318
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106440,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4268
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106441,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4971
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106442,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4278
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106443,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4983
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106444,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4288
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106445,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4993
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18206,
+          "Name": "",
+          "OrderIndex": 5,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74783,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 10,
+                "MaterialResourcesID": 5004
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74784,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 11,
+                "MaterialResourcesID": 5092
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74785,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 12,
+                "MaterialResourcesID": 5122
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105132,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 1,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105133,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 2,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106446,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4239
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106447,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4299
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106448,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4249
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106449,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4309
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106450,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4259
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106451,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4319
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106452,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4269
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106453,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4973
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106454,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4279
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106455,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4984
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106456,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4289
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106457,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4994
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18207,
+          "Name": "",
+          "OrderIndex": 6,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74786,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 10,
+                "MaterialResourcesID": 5005
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74787,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 11,
+                "MaterialResourcesID": 5093
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74788,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 12,
+                "MaterialResourcesID": 5123
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105134,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 1,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105135,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 2,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106458,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4240
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106459,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4300
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106460,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4250
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106461,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4310
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106462,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4260
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106463,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4320
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106464,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4270
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106465,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4974
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106466,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4280
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106467,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4985
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106468,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4290
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106469,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4995
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18208,
+          "Name": "",
+          "OrderIndex": 7,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74789,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 10,
+                "MaterialResourcesID": 5006
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74790,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 11,
+                "MaterialResourcesID": 5094
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74791,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 12,
+                "MaterialResourcesID": 5124
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105136,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 1,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105137,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 2,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106470,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4241
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106471,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4301
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106472,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4251
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106473,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4311
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106474,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4261
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106475,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4966
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106476,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4271
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106477,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4975
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106478,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4281
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106479,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4986
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106480,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4291
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106481,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4996
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18209,
+          "Name": "",
+          "OrderIndex": 8,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74792,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 10,
+                "MaterialResourcesID": 5007
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74793,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 11,
+                "MaterialResourcesID": 5095
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74794,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 12,
+                "MaterialResourcesID": 5125
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105138,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 1,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105139,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 2,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106482,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4242
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106483,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4302
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106484,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4252
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106485,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4312
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106486,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4262
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106487,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4967
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106488,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4272
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106489,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4976
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106490,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4282
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106491,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4987
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106492,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4292
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106493,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4997
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18210,
+          "Name": "",
+          "OrderIndex": 9,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 74795,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 10,
+                "MaterialResourcesID": 5008
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74796,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 11,
+                "MaterialResourcesID": 5096
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 74797,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 12,
+                "MaterialResourcesID": 5126
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105140,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 1,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 105141,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 2,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106494,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4243
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106495,
+              "VariationIndex": 5,
+              "VariationChoiceID": 18216,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4303
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106496,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4253
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106497,
+              "VariationIndex": 6,
+              "VariationChoiceID": 18217,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4313
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106498,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4263
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106499,
+              "VariationIndex": 7,
+              "VariationChoiceID": 18218,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4968
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106500,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4273
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106501,
+              "VariationIndex": 8,
+              "VariationChoiceID": 18219,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4977
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106502,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4283
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106503,
+              "VariationIndex": 9,
+              "VariationChoiceID": 18220,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4988
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106504,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 7,
+                "MaterialResourcesID": 4293
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 106505,
+              "VariationIndex": 10,
+              "VariationChoiceID": 18221,
+              "Geoset": null,
+              "SkinnedModel": null,
+              "Material": {
+                "TextureTarget": 8,
+                "MaterialResourcesID": 4998
+              },
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Id": 180,
+      "Name": "Facial Hair",
+      "OrderIndex": 5,
+      "Choices": [
+        {
+          "Id": 18211,
+          "Name": "",
+          "OrderIndex": 0,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67685,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 1,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67686,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 3,
+                "GeosetID": 2,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67687,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 2,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67688,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 16,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18212,
+          "Name": "",
+          "OrderIndex": 1,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67690,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 16,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67692,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 3,
+                "GeosetID": 3,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18213,
+          "Name": "",
+          "OrderIndex": 2,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67695,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 16,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67697,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 3,
+                "GeosetID": 4,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18214,
+          "Name": "",
+          "OrderIndex": 3,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67700,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 3,
+                "GeosetID": 5,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18215,
+          "Name": "",
+          "OrderIndex": 4,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67703,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 16,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67705,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 3,
+                "GeosetID": 6,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18216,
+          "Name": "",
+          "OrderIndex": 5,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67708,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 3,
+                "GeosetID": 2,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67709,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 16,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18217,
+          "Name": "",
+          "OrderIndex": 6,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67713,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 16,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67715,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 3,
+                "GeosetID": 3,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18218,
+          "Name": "",
+          "OrderIndex": 7,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67718,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 16,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67720,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 3,
+                "GeosetID": 4,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18219,
+          "Name": "",
+          "OrderIndex": 8,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67723,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 16,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67725,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 3,
+                "GeosetID": 5,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18220,
+          "Name": "",
+          "OrderIndex": 9,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67728,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 16,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67730,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 3,
+                "GeosetID": 6,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        },
+        {
+          "Id": 18221,
+          "Name": "",
+          "OrderIndex": 10,
+          "CustReqId": 144,
+          "Elements": [
+            {
+              "Id": 67733,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 16,
+                "GeosetID": 0,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            },
+            {
+              "Id": 67735,
+              "VariationIndex": -1,
+              "VariationChoiceID": 0,
+              "Geoset": {
+                "GeosetType": 3,
+                "GeosetID": 4,
+                "Modifier": -1
+              },
+              "SkinnedModel": null,
+              "Material": null,
+              "BoneSet": null,
+              "CondModelFileDataId": 0,
+              "ChrCustItemGeoModifyID": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "TextureFiles": {
+    "5081": [
+      {
+        "FileDataId": 118871,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5067": [
+      {
+        "FileDataId": 118859,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5075": [
+      {
+        "FileDataId": 118865,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5082": [
+      {
+        "FileDataId": 118872,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5068": [
+      {
+        "FileDataId": 118860,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5076": [
+      {
+        "FileDataId": 118866,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5083": [
+      {
+        "FileDataId": 118873,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5069": [
+      {
+        "FileDataId": 118861,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5077": [
+      {
+        "FileDataId": 118867,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5084": [
+      {
+        "FileDataId": 118874,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5070": [
+      {
+        "FileDataId": 118862,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5078": [
+      {
+        "FileDataId": 118868,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5085": [
+      {
+        "FileDataId": 118875,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5072": [
+      {
+        "FileDataId": 118863,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5079": [
+      {
+        "FileDataId": 118869,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5086": [
+      {
+        "FileDataId": 118876,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5074": [
+      {
+        "FileDataId": 118864,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5080": [
+      {
+        "FileDataId": 118870,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5009": [
+      {
+        "FileDataId": 118799,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5039": [
+      {
+        "FileDataId": 118829,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5010": [
+      {
+        "FileDataId": 118800,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5040": [
+      {
+        "FileDataId": 118830,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5011": [
+      {
+        "FileDataId": 118801,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5041": [
+      {
+        "FileDataId": 118831,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5012": [
+      {
+        "FileDataId": 118802,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5042": [
+      {
+        "FileDataId": 118832,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5013": [
+      {
+        "FileDataId": 118803,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5043": [
+      {
+        "FileDataId": 118833,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5014": [
+      {
+        "FileDataId": 118804,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5044": [
+      {
+        "FileDataId": 118834,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5015": [
+      {
+        "FileDataId": 118805,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5045": [
+      {
+        "FileDataId": 118835,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5016": [
+      {
+        "FileDataId": 118806,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5046": [
+      {
+        "FileDataId": 118836,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5017": [
+      {
+        "FileDataId": 118807,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5047": [
+      {
+        "FileDataId": 118837,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5018": [
+      {
+        "FileDataId": 118808,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5048": [
+      {
+        "FileDataId": 118838,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5019": [
+      {
+        "FileDataId": 118809,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5049": [
+      {
+        "FileDataId": 118839,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5020": [
+      {
+        "FileDataId": 118810,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5050": [
+      {
+        "FileDataId": 118840,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5021": [
+      {
+        "FileDataId": 118811,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5051": [
+      {
+        "FileDataId": 118841,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5022": [
+      {
+        "FileDataId": 118812,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5052": [
+      {
+        "FileDataId": 118842,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5023": [
+      {
+        "FileDataId": 118813,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5053": [
+      {
+        "FileDataId": 118843,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5024": [
+      {
+        "FileDataId": 118814,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5054": [
+      {
+        "FileDataId": 118844,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5025": [
+      {
+        "FileDataId": 118815,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5055": [
+      {
+        "FileDataId": 118845,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5026": [
+      {
+        "FileDataId": 118816,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5056": [
+      {
+        "FileDataId": 118846,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5027": [
+      {
+        "FileDataId": 118817,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5057": [
+      {
+        "FileDataId": 118847,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5028": [
+      {
+        "FileDataId": 118818,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5058": [
+      {
+        "FileDataId": 118848,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5029": [
+      {
+        "FileDataId": 118819,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5059": [
+      {
+        "FileDataId": 118849,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5030": [
+      {
+        "FileDataId": 118820,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5060": [
+      {
+        "FileDataId": 118850,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5031": [
+      {
+        "FileDataId": 118821,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5061": [
+      {
+        "FileDataId": 118851,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5032": [
+      {
+        "FileDataId": 118822,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5062": [
+      {
+        "FileDataId": 118852,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5033": [
+      {
+        "FileDataId": 118823,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5071": [
+      {
+        "FileDataId": 118853,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5034": [
+      {
+        "FileDataId": 118824,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5073": [
+      {
+        "FileDataId": 118854,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5035": [
+      {
+        "FileDataId": 118825,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5063": [
+      {
+        "FileDataId": 118855,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5036": [
+      {
+        "FileDataId": 118826,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5064": [
+      {
+        "FileDataId": 118856,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5037": [
+      {
+        "FileDataId": 118827,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5065": [
+      {
+        "FileDataId": 118857,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5038": [
+      {
+        "FileDataId": 118828,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5066": [
+      {
+        "FileDataId": 118858,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4999": [
+      {
+        "FileDataId": 118788,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5087": [
+      {
+        "FileDataId": 118877,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5117": [
+      {
+        "FileDataId": 118907,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4234": [
+      {
+        "FileDataId": 118668,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4294": [
+      {
+        "FileDataId": 118728,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4244": [
+      {
+        "FileDataId": 118678,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4304": [
+      {
+        "FileDataId": 118738,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4254": [
+      {
+        "FileDataId": 118688,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4314": [
+      {
+        "FileDataId": 118748,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4264": [
+      {
+        "FileDataId": 118698,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4972": [
+      {
+        "FileDataId": 118758,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4274": [
+      {
+        "FileDataId": 118708,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4979": [
+      {
+        "FileDataId": 118768,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4284": [
+      {
+        "FileDataId": 118718,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4989": [
+      {
+        "FileDataId": 118778,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5000": [
+      {
+        "FileDataId": 118789,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5088": [
+      {
+        "FileDataId": 118878,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5118": [
+      {
+        "FileDataId": 118908,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4235": [
+      {
+        "FileDataId": 118669,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4295": [
+      {
+        "FileDataId": 118729,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4245": [
+      {
+        "FileDataId": 118679,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4305": [
+      {
+        "FileDataId": 118739,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4255": [
+      {
+        "FileDataId": 118689,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4315": [
+      {
+        "FileDataId": 118749,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4265": [
+      {
+        "FileDataId": 118699,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4978": [
+      {
+        "FileDataId": 118759,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4275": [
+      {
+        "FileDataId": 118709,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4980": [
+      {
+        "FileDataId": 118769,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4285": [
+      {
+        "FileDataId": 118719,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4990": [
+      {
+        "FileDataId": 118779,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5001": [
+      {
+        "FileDataId": 118790,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5089": [
+      {
+        "FileDataId": 118879,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5119": [
+      {
+        "FileDataId": 118909,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4236": [
+      {
+        "FileDataId": 118670,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4296": [
+      {
+        "FileDataId": 118730,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4246": [
+      {
+        "FileDataId": 118680,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4306": [
+      {
+        "FileDataId": 118740,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4256": [
+      {
+        "FileDataId": 118690,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4316": [
+      {
+        "FileDataId": 118750,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4266": [
+      {
+        "FileDataId": 118700,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4969": [
+      {
+        "FileDataId": 118760,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4276": [
+      {
+        "FileDataId": 118710,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4981": [
+      {
+        "FileDataId": 118770,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4286": [
+      {
+        "FileDataId": 118720,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4991": [
+      {
+        "FileDataId": 118780,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5002": [
+      {
+        "FileDataId": 118791,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5090": [
+      {
+        "FileDataId": 118880,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5120": [
+      {
+        "FileDataId": 118910,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4237": [
+      {
+        "FileDataId": 118671,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4297": [
+      {
+        "FileDataId": 118731,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4247": [
+      {
+        "FileDataId": 118681,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4307": [
+      {
+        "FileDataId": 118741,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4257": [
+      {
+        "FileDataId": 118691,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4317": [
+      {
+        "FileDataId": 118751,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4267": [
+      {
+        "FileDataId": 118701,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4970": [
+      {
+        "FileDataId": 118761,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4277": [
+      {
+        "FileDataId": 118711,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4982": [
+      {
+        "FileDataId": 118771,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4287": [
+      {
+        "FileDataId": 118721,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4992": [
+      {
+        "FileDataId": 118781,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5003": [
+      {
+        "FileDataId": 118792,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5091": [
+      {
+        "FileDataId": 118881,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5121": [
+      {
+        "FileDataId": 118911,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4238": [
+      {
+        "FileDataId": 118672,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4298": [
+      {
+        "FileDataId": 118732,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4248": [
+      {
+        "FileDataId": 118682,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4308": [
+      {
+        "FileDataId": 118742,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4258": [
+      {
+        "FileDataId": 118692,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4318": [
+      {
+        "FileDataId": 118752,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4268": [
+      {
+        "FileDataId": 118702,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4971": [
+      {
+        "FileDataId": 118762,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4278": [
+      {
+        "FileDataId": 118712,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4983": [
+      {
+        "FileDataId": 118772,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4288": [
+      {
+        "FileDataId": 118722,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4993": [
+      {
+        "FileDataId": 118782,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5004": [
+      {
+        "FileDataId": 118793,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5092": [
+      {
+        "FileDataId": 118882,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5122": [
+      {
+        "FileDataId": 118912,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4239": [
+      {
+        "FileDataId": 118673,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4299": [
+      {
+        "FileDataId": 118733,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4249": [
+      {
+        "FileDataId": 118683,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4309": [
+      {
+        "FileDataId": 118743,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4259": [
+      {
+        "FileDataId": 118693,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4319": [
+      {
+        "FileDataId": 118753,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4269": [
+      {
+        "FileDataId": 118703,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4973": [
+      {
+        "FileDataId": 118763,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4279": [
+      {
+        "FileDataId": 118713,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4984": [
+      {
+        "FileDataId": 118773,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4289": [
+      {
+        "FileDataId": 118723,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4994": [
+      {
+        "FileDataId": 118783,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5005": [
+      {
+        "FileDataId": 118794,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5093": [
+      {
+        "FileDataId": 118883,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5123": [
+      {
+        "FileDataId": 118913,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4240": [
+      {
+        "FileDataId": 118674,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4300": [
+      {
+        "FileDataId": 118734,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4250": [
+      {
+        "FileDataId": 118684,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4310": [
+      {
+        "FileDataId": 118744,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4260": [
+      {
+        "FileDataId": 118694,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4320": [
+      {
+        "FileDataId": 118754,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4270": [
+      {
+        "FileDataId": 118704,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4974": [
+      {
+        "FileDataId": 118764,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4280": [
+      {
+        "FileDataId": 118714,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4985": [
+      {
+        "FileDataId": 118774,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4290": [
+      {
+        "FileDataId": 118724,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4995": [
+      {
+        "FileDataId": 118784,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5006": [
+      {
+        "FileDataId": 118795,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5094": [
+      {
+        "FileDataId": 118884,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5124": [
+      {
+        "FileDataId": 118914,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4241": [
+      {
+        "FileDataId": 118675,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4301": [
+      {
+        "FileDataId": 118735,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4251": [
+      {
+        "FileDataId": 118685,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4311": [
+      {
+        "FileDataId": 118745,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4261": [
+      {
+        "FileDataId": 118695,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4966": [
+      {
+        "FileDataId": 118755,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4271": [
+      {
+        "FileDataId": 118705,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4975": [
+      {
+        "FileDataId": 118765,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4281": [
+      {
+        "FileDataId": 118715,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4986": [
+      {
+        "FileDataId": 118775,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4291": [
+      {
+        "FileDataId": 118725,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4996": [
+      {
+        "FileDataId": 118785,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5007": [
+      {
+        "FileDataId": 118796,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5095": [
+      {
+        "FileDataId": 118885,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5125": [
+      {
+        "FileDataId": 118915,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4242": [
+      {
+        "FileDataId": 118676,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4302": [
+      {
+        "FileDataId": 118736,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4252": [
+      {
+        "FileDataId": 118686,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4312": [
+      {
+        "FileDataId": 118746,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4262": [
+      {
+        "FileDataId": 118696,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4967": [
+      {
+        "FileDataId": 118756,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4272": [
+      {
+        "FileDataId": 118706,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4976": [
+      {
+        "FileDataId": 118766,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4282": [
+      {
+        "FileDataId": 118716,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4987": [
+      {
+        "FileDataId": 118776,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4292": [
+      {
+        "FileDataId": 118726,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4997": [
+      {
+        "FileDataId": 118786,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5008": [
+      {
+        "FileDataId": 118797,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5096": [
+      {
+        "FileDataId": 118886,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "5126": [
+      {
+        "FileDataId": 118916,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4243": [
+      {
+        "FileDataId": 118677,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4303": [
+      {
+        "FileDataId": 118737,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4253": [
+      {
+        "FileDataId": 118687,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4313": [
+      {
+        "FileDataId": 118747,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4263": [
+      {
+        "FileDataId": 118697,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4968": [
+      {
+        "FileDataId": 118757,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4273": [
+      {
+        "FileDataId": 118707,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4977": [
+      {
+        "FileDataId": 118767,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4283": [
+      {
+        "FileDataId": 118717,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4988": [
+      {
+        "FileDataId": 118777,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4293": [
+      {
+        "FileDataId": 118727,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "4998": [
+      {
+        "FileDataId": 118787,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ]
+  },
+  "Materials": [
+    {
+      "TextureType": 1,
+      "Width": 512,
+      "Height": 512,
+      "Flags": 0,
+      "Unk_34615_1": -1
+    },
+    {
+      "TextureType": 6,
+      "Width": 256,
+      "Height": 256,
+      "Flags": 0,
+      "Unk_34615_1": -1
+    },
+    {
+      "TextureType": 8,
+      "Width": 256,
+      "Height": 256,
+      "Flags": 0,
+      "Unk_34615_1": -1
+    }
+  ],
+  "TextureLayers": [
+    {
+      "TextureType": 1,
+      "Layer": 0,
+      "BlendMode": 1,
+      "ChrModelTextureTargetID": 1,
+      "TextureSection": -1
+    },
+    {
+      "TextureType": 8,
+      "Layer": 1,
+      "BlendMode": 1,
+      "ChrModelTextureTargetID": 2,
+      "TextureSection": -1
+    },
+    {
+      "TextureType": 6,
+      "Layer": 2,
+      "BlendMode": 1,
+      "ChrModelTextureTargetID": 10,
+      "TextureSection": -1
+    },
+    {
+      "TextureType": 1,
+      "Layer": 3,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 5,
+      "TextureSection": 9
+    },
+    {
+      "TextureType": 1,
+      "Layer": 4,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 4,
+      "TextureSection": 10
+    },
+    {
+      "TextureType": 1,
+      "Layer": 5,
+      "BlendMode": 9,
+      "ChrModelTextureTargetID": 16,
+      "TextureSection": 12
+    },
+    {
+      "TextureType": 1,
+      "Layer": 6,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 13,
+      "TextureSection": 5
+    },
+    {
+      "TextureType": 1,
+      "Layer": 7,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 14,
+      "TextureSection": 3
+    },
+    {
+      "TextureType": 1,
+      "Layer": 8,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 11,
+      "TextureSection": 10
+    },
+    {
+      "TextureType": 1,
+      "Layer": 9,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 12,
+      "TextureSection": 9
+    },
+    {
+      "TextureType": 1,
+      "Layer": 10,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 7,
+      "TextureSection": 10
+    },
+    {
+      "TextureType": 1,
+      "Layer": 11,
+      "BlendMode": 15,
+      "ChrModelTextureTargetID": 8,
+      "TextureSection": 9
+    }
+  ],
+  "TextureSections": [
+    {
+      "SectionType": 0,
+      "X": 0,
+      "Y": 0,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 1,
+      "X": 0,
+      "Y": 0.25,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 2,
+      "X": 0,
+      "Y": 0.5,
+      "Width": 0.5,
+      "Height": 0.125
+    },
+    {
+      "SectionType": 3,
+      "X": 0.5,
+      "Y": 0,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 4,
+      "X": 0.5,
+      "Y": 0.25,
+      "Width": 0.5,
+      "Height": 0.125
+    },
+    {
+      "SectionType": 5,
+      "X": 0.5,
+      "Y": 0.375,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 6,
+      "X": 0.5,
+      "Y": 0.625,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 7,
+      "X": 0.5,
+      "Y": 0.875,
+      "Width": 0.5,
+      "Height": 0.125
+    },
+    {
+      "SectionType": 9,
+      "X": 0,
+      "Y": 0.625,
+      "Width": 0.5,
+      "Height": 0.125
+    },
+    {
+      "SectionType": 10,
+      "X": 0,
+      "Y": 0.75,
+      "Width": 0.5,
+      "Height": 0.25
+    },
+    {
+      "SectionType": 12,
+      "X": 0,
+      "Y": 0,
+      "Width": 1,
+      "Height": 1
+    },
+    {
+      "SectionType": 13,
+      "X": 0,
+      "Y": 0,
+      "Width": 1,
+      "Height": 1
+    }
+  ],
+  "HairStyleOptionId": 0
+}
