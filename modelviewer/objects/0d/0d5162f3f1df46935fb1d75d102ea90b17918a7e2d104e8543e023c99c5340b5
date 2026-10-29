@@ -1,0 +1,120 @@
+{
+  "Model": 0,
+  "Textures": {
+    "2": 143836
+  },
+  "Textures2": null,
+  "TextureFiles": {
+    "27478": [
+      {
+        "FileDataId": 151712,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "25086": [
+      {
+        "FileDataId": 149585,
+        "Gender": 3,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "44308": [
+      {
+        "FileDataId": 163651,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      },
+      {
+        "FileDataId": 163652,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ],
+    "33794": [
+      {
+        "FileDataId": 160976,
+        "Gender": 1,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      },
+      {
+        "FileDataId": 160977,
+        "Gender": 0,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      }
+    ]
+  },
+  "ModelFiles": {
+    "16082": [
+      {
+        "FileDataId": 143186,
+        "Gender": 2,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 0
+      },
+      {
+        "FileDataId": 143489,
+        "Gender": 2,
+        "Class": 0,
+        "Race": 0,
+        "ExtraData": 1
+      }
+    ]
+  },
+  "Item": {
+    "Flags": 0,
+    "InventoryType": 5,
+    "ItemClass": 4,
+    "ItemSubClass": 0,
+    "HideGeosetMale": null,
+    "HideGeosetFemale": null,
+    "GeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "AttachGeosetGroup": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "GeosetGroupOverride": 0,
+    "ItemVisual": 0,
+    "ParticleColor": null
+  },
+  "Creature": null,
+  "Character": null,
+  "ItemEffects": null,
+  "Equipment": null,
+  "ComponentTextures": {
+    "0": 27478,
+    "1": 25086,
+    "3": 44308,
+    "4": 33794
+  },
+  "ComponentModels": {
+    "0": 16082
+  },
+  "StateKits": null,
+  "Decor": null,
+  "Scale": 1
+}

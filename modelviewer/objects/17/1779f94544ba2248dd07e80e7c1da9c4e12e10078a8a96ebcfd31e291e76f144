@@ -1,0 +1,35 @@
+{
+  "Model": 0,
+  "Textures": null,
+  "Textures2": null,
+  "TextureFiles": null,
+  "ModelFiles": null,
+  "Item": null,
+  "Creature": null,
+  "Character": null,
+  "ItemEffects": [
+    {
+      "Slot": 1,
+      "SubClass": -1,
+      "Model": 166382,
+      "kit": null,
+      "Scale": 1
+    },
+    {
+      "Slot": 2,
+      "SubClass": -1,
+      "Model": 166124,
+      "kit": null,
+      "Scale": 1
+    }
+  ],
+  "Equipment": {
+    "0": 166382,
+    "1": 166124
+  },
+  "ComponentTextures": null,
+  "ComponentModels": null,
+  "StateKits": null,
+  "Decor": null,
+  "Scale": 1
+}
