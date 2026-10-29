@@ -8,6 +8,7 @@ import hashlib
 import json
 import os
 from pathlib import Path
+import re
 import shutil
 import subprocess
 
@@ -53,9 +54,17 @@ def main() -> None:
         git('push', 'origin', 'main')
 
     records: dict[str, dict] = {}
+    public_roots = [(args.web_root / name).resolve() for name in PUBLIC]
 
     def put(source: Path, name: str, expected: str | None = None) -> None:
-        if source.is_symlink() or not source.is_file():
+        if source.is_symlink():
+            resolved = source.resolve(strict=True)
+            # Public avatar aliases point to the same stock picture under images/avatars.
+            # Materialize the picture; never follow an alias into a config or private upload.
+            if not name.startswith('web/') or resolved.suffix.lower() not in MEDIA or not any(resolved.is_relative_to(p) for p in public_roots):
+                raise RuntimeError('Alias leaves public media: ' + str(source))
+            source = resolved
+        if not source.is_file():
             raise RuntimeError('Not a regular source: ' + str(source))
         size = source.stat().st_size
         if size >= MAX_FILE_BYTES:
@@ -71,7 +80,7 @@ def main() -> None:
             while parent != repo:
                 os.chown(parent, owner.st_uid, owner.st_gid)
                 parent = parent.parent
-        if target.exists() and (target.stat().st_size != size or digest(target) != sha):
+        if target.exists() and not target.samefile(source) and (target.stat().st_size != size or digest(target) != sha):
             target.unlink()
         if not target.exists():
             try:
@@ -79,7 +88,7 @@ def main() -> None:
             except OSError:
                 shutil.copyfile(source, target)
                 target.chmod(0o644)
-        if digest(target) != sha:
+        if not target.samefile(source) and digest(target) != sha:
             raise RuntimeError('Export digest differs: ' + name)
         records[name] = {'sha256': sha, 'bytes': size}
 
@@ -93,13 +102,13 @@ def main() -> None:
         print(json.dumps({'copied': relative, 'files': len(records)}), flush=True)
 
     release = (args.model_root / 'current').read_text().strip()
-    if not __import__('re').fullmatch(r'[0-9]{8}T[0-9]{6}Z-[0-9a-f]{12}', release):
+    if not re.fullmatch(r'[0-9]{8}T[0-9]{6}Z-[0-9a-f]{12}', release):
         raise RuntimeError('Invalid model release')
     release_root = args.model_root / 'releases' / release
     objects = {}
     for shard in sorted((release_root / 'index').glob('*.json')):
         for name, (sha, size) in json.loads(shard.read_text()).items():
-            if not __import__('re').fullmatch(r'[0-9a-f]{64}', sha):
+            if not re.fullmatch(r'[0-9a-f]{64}', sha):
                 raise RuntimeError('Invalid model digest')
             if sha in objects and objects[sha] != size:
                 raise RuntimeError('Conflicting model size')
@@ -119,6 +128,12 @@ def main() -> None:
                  'model_release': release, 'files': records, 'count': len(records),
                  'bytes': sum(v['bytes'] for v in records.values())}
     (state / 'inventory.json').write_text(json.dumps(inventory, separators=(',', ':')) + '\n')
+    published = repo / 'publication.json'
+    if published.exists():
+        previous = json.loads(published.read_text())
+        if previous['files'] == records and previous['model_release'] == release:
+            print(json.dumps({'complete': True, 'unchanged': True, 'commit': local, 'files': len(records)}), flush=True)
+            return
 
     batch: list[str] = []
     size = 0
