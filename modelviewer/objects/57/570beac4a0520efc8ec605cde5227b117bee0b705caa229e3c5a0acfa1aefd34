@@ -1,0 +1,23 @@
+{
+  "Model": 118653,
+  "Textures": null,
+  "Textures2": null,
+  "TextureFiles": null,
+  "ModelFiles": null,
+  "Item": null,
+  "Creature": null,
+  "Character": {
+    "RaceFlags": 262149,
+    "ChrModelFlags": 0,
+    "Race": 12,
+    "Gender": 0,
+    "ChrModelId": 23
+  },
+  "ItemEffects": null,
+  "Equipment": null,
+  "ComponentTextures": null,
+  "ComponentModels": null,
+  "StateKits": null,
+  "Decor": null,
+  "Scale": 1
+}
