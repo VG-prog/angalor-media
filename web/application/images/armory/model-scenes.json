@@ -1,0 +1,1450 @@
+{
+ "classes": {
+  "6": {
+   "name": "DEATHKNIGHT",
+   "scene": 236082
+  }
+ },
+ "environment": "wrath",
+ "environments": {
+  "flight": {
+   "stormpeaks": {
+    "flags": 1,
+    "path": "Environments/Stars/StormPeaks_SkyA.m2",
+    "scene": 235357
+   },
+   "stormpeaks_storm": {
+    "flags": 1,
+    "path": "Environments/Stars/StormPeaks_SkyB_Storm.m2",
+    "scene": 235358
+   }
+  }
+ },
+ "races": {
+  "1": {
+   "name": "Human",
+   "scene": 131948
+  },
+  "10": {
+   "name": "BloodElf",
+   "scene": 131921
+  },
+  "11": {
+   "name": "Draenei",
+   "scene": 131934
+  },
+  "2": {
+   "name": "Orc",
+   "scene": 132003
+  },
+  "3": {
+   "name": "Dwarf",
+   "scene": 131940
+  },
+  "4": {
+   "name": "NightElf",
+   "scene": 131993
+  },
+  "5": {
+   "name": "Scourge",
+   "scene": 132035
+  },
+  "6": {
+   "name": "Tauren",
+   "scene": 132046
+  },
+  "7": {
+   "name": "Gnome",
+   "scene": 131940
+  },
+  "8": {
+   "name": "Troll",
+   "scene": 132003
+  },
+  "9": {
+   "name": "Goblin",
+   "scene": 319097
+  }
+ },
+ "scenes": {
+  "131921": {
+   "camera": {
+    "cameras": 1,
+    "far": 513.9152221679688,
+    "fov": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.8457078337669373,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "index": 0,
+    "lookup": [
+     -1
+    ],
+    "near": 0.2222222238779068,
+    "position": {
+     "base": [
+      -4.6010823249816895,
+      4.125259876251221,
+      0.6785693764686584
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "roll": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.0,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "target": {
+     "base": [
+      2.6089210510253906,
+      -1.1962227821350098,
+      1.217781901359558
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "type": -1
+   },
+   "global_loops": [
+    33,
+    0
+   ],
+   "path": "wrath/m2/131921.m2",
+   "sequence": {
+    "duration": 46667,
+    "flags": 2080,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "a772a5d67428b669b32335d47dbd79059acad494b123f30604b4dc323bd62acc",
+   "version": 274
+  },
+  "131934": {
+   "camera": {
+    "cameras": 1,
+    "far": 2777.77783203125,
+    "fov": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.950021505355835,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "index": 0,
+    "lookup": [
+     -1
+    ],
+    "near": 0.2222222238779068,
+    "position": {
+     "base": [
+      7.247286319732666,
+      1.3808361291885376,
+      0.5649617910385132
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "roll": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.0,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "target": {
+     "base": [
+      2.524012804031372,
+      1.4495247602462769,
+      0.8884612917900085
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "type": -1
+   },
+   "global_loops": [
+    33,
+    0
+   ],
+   "path": "wrath/m2/131934.m2",
+   "sequence": {
+    "duration": 6334,
+    "flags": 2080,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "726c0bf8b570ea3d40101525cf8a9096e23273322d837a4852a64e864400740f",
+   "version": 274
+  },
+  "131940": {
+   "camera": {
+    "cameras": 1,
+    "far": 611.1111450195312,
+    "fov": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       1.1344640254974365,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "index": 0,
+    "lookup": [
+     -1
+    ],
+    "near": 0.2222222238779068,
+    "position": {
+     "base": [
+      1.9005552530288696,
+      1.1403385400772095,
+      -0.9719892144203186
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "roll": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.0,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "target": {
+     "base": [
+      -6.38065767288208,
+      1.050301432609558,
+      -0.1609559804201126
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "type": -1
+   },
+   "global_loops": [
+    33
+   ],
+   "path": "wrath/m2/131940.m2",
+   "sequence": {
+    "duration": 12667,
+    "flags": 2080,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "bfed75d3a64de41c644b2166e6614169f398a524cf8d3d39831194a6cd8e71fd",
+   "version": 274
+  },
+  "131948": {
+   "camera": {
+    "cameras": 1,
+    "far": 611.1111450195312,
+    "fov": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       1.3962633609771729,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "index": 0,
+    "lookup": [
+     -1
+    ],
+    "near": 0.2222222238779068,
+    "position": {
+     "base": [
+      -221.98277282714844,
+      -81.8855972290039,
+      -2.2982780933380127
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "roll": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.0,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "target": {
+     "base": [
+      -230.4928436279297,
+      -79.17466735839844,
+      -1.7550759315490723
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "type": -1
+   },
+   "global_loops": [
+    40000,
+    33,
+    31667
+   ],
+   "path": "wrath/m2/131948.m2",
+   "sequence": {
+    "duration": 1067,
+    "flags": 2080,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "5142abd575535780d2a4199240984f9b3b30f71426c05c56335931e7108fd502",
+   "version": 274
+  },
+  "131993": {
+   "camera": {
+    "cameras": 1,
+    "far": 617.2777709960938,
+    "fov": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       1.0471975803375244,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "index": 0,
+    "lookup": [
+     -1
+    ],
+    "near": 0.2222222238779068,
+    "position": {
+     "base": [
+      4.836490631103516,
+      -0.406198650598526,
+      2.8556244373321533
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "roll": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.0,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "target": {
+     "base": [
+      0.05255579948425293,
+      -0.38623419404029846,
+      3.0823843479156494
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "type": -1
+   },
+   "global_loops": [
+    13333,
+    2000,
+    33333,
+    26667,
+    20000,
+    14000,
+    10000,
+    1500
+   ],
+   "path": "wrath/m2/131993.m2",
+   "sequence": {
+    "duration": 1000,
+    "flags": 2080,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "3f06782ba30fb816159792584ee5dce4b7da67e1366a6b9c6c0c084a209a282c",
+   "version": 274
+  },
+  "132003": {
+   "camera": {
+    "cameras": 1,
+    "far": 27.77777862548828,
+    "fov": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       1.1344640254974365,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "index": 0,
+    "lookup": [
+     -1
+    ],
+    "near": 0.2222222238779068,
+    "position": {
+     "base": [
+      4.661775588989258,
+      0.034150607883930206,
+      0.2393675595521927
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "roll": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.0,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "target": {
+     "base": [
+      -0.3239126205444336,
+      0.03270842507481575,
+      1.1831974983215332
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "type": -1
+   },
+   "global_loops": [
+    3333,
+    33333,
+    4667,
+    6667,
+    7333,
+    7633,
+    10000,
+    3267,
+    2633,
+    2167,
+    4000,
+    3467,
+    3000,
+    4933,
+    4167,
+    3433,
+    8533,
+    6000,
+    33
+   ],
+   "path": "wrath/m2/132003.m2",
+   "sequence": {
+    "duration": 2467,
+    "flags": 2080,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "974e223bc504fc25cfb85a26110cd780c50c3ad25f29ae7480d2a3a14b3c76d0",
+   "version": 274
+  },
+  "132035": {
+   "camera": {
+    "cameras": 1,
+    "far": 125.0,
+    "fov": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       1.1344640254974365,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "index": 0,
+    "lookup": [
+     -1
+    ],
+    "near": 0.2222222238779068,
+    "position": {
+     "base": [
+      3.794691324234009,
+      0.0,
+      0.46809515357017517
+     ],
+     "track": {
+      "global_sequence": 0,
+      "interpolation": 0,
+      "times": [
+       0,
+       33
+      ],
+      "values": [
+       [
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ],
+       [
+        -0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "roll": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.0,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "target": {
+     "base": [
+      -1.444177508354187,
+      0.0,
+      1.1671733856201172
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "type": -1
+   },
+   "global_loops": [
+    33,
+    1700,
+    20000,
+    0,
+    26667,
+    36667
+   ],
+   "path": "wrath/m2/132035.m2",
+   "sequence": {
+    "duration": 26667,
+    "flags": 2080,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "860e2290bddd4855116d6e5e21029e070f2321e840076afd296a392458e8665b",
+   "version": 274
+  },
+  "132046": {
+   "camera": {
+    "cameras": 1,
+    "far": 87.8888931274414,
+    "fov": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       1.1344640254974365,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "index": 0,
+    "lookup": [
+     -1
+    ],
+    "near": 0.2222222238779068,
+    "position": {
+     "base": [
+      4.7884907722473145,
+      -0.004899835214018822,
+      0.45394960045814514
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "roll": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.0,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "target": {
+     "base": [
+      -0.6425094604492188,
+      -0.0071637905202806,
+      1.0117162466049194
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "type": -1
+   },
+   "global_loops": [
+    6667,
+    9300,
+    10667,
+    8000,
+    10000,
+    7000,
+    9000,
+    12000,
+    11000,
+    9567,
+    7633,
+    8300,
+    10433,
+    3333,
+    100000,
+    33
+   ],
+   "path": "wrath/m2/132046.m2",
+   "sequence": {
+    "duration": 1000,
+    "flags": 2080,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "ba1a57bb98b578ba39bd655d290d167cada6296b9dd8e587694ac06d823b6df1",
+   "version": 274
+  },
+  "235357": {
+   "bounds": [
+    [
+     -122.25357055664062,
+     -122.25357055664062,
+     -138.14334106445312
+    ],
+    [
+     122.25357055664062,
+     122.25357055664062,
+     106.36376190185547
+    ]
+   ],
+   "day_night": true,
+   "global_loops": [
+    120100,
+    160000,
+    0
+   ],
+   "path": "wrath/m2/235357.m2",
+   "presentation": "sky",
+   "sequence": {
+    "duration": 160000,
+    "flags": 2080,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "bf392ce27dc806d5d6dd3815886aa43e1f0db150a3686255024a6923bf440e59",
+   "version": 274
+  },
+  "235358": {
+   "bounds": [
+    [
+     -122.25357055664062,
+     -122.25357055664062,
+     -138.14334106445312
+    ],
+    [
+     122.25357055664062,
+     122.25357055664062,
+     106.36376190185547
+    ]
+   ],
+   "day_night": true,
+   "global_loops": [
+    120100,
+    160000,
+    0,
+    131700,
+    151700,
+    125133,
+    138833,
+    140000,
+    89900,
+    106600
+   ],
+   "path": "wrath/m2/235358.m2",
+   "presentation": "sky",
+   "sequence": {
+    "duration": 160000,
+    "flags": 2080,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "1748c29165c2c9a3d465edcaca2c9c8b46415bc4a92ac4f8d29ca888bb6e48ca",
+   "version": 274
+  },
+  "236082": {
+   "camera": {
+    "cameras": 1,
+    "far": 513.9152221679688,
+    "fov": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.8457078337669373,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "index": 0,
+    "lookup": [
+     -1
+    ],
+    "near": 0.2222222238779068,
+    "position": {
+     "base": [
+      -4.643024921417236,
+      4.156216621398926,
+      0.6754326224327087
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "roll": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.0,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "target": {
+     "base": [
+      2.6089210510253906,
+      -1.1962227821350098,
+      1.217781901359558
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "type": -1
+   },
+   "global_loops": [
+    33,
+    0,
+    33333,
+    19048,
+    5000,
+    3266,
+    4000,
+    3333,
+    6667
+   ],
+   "path": "wrath/m2/236082.m2",
+   "sequence": {
+    "duration": 18096,
+    "flags": 2080,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "1c2281ef0702398ae9b46c26427a5997c01366aedb7887a1ad1190566f6c97d6",
+   "version": 274
+  },
+  "319097": {
+   "camera": {
+    "cameras": 1,
+    "far": 513.9152221679688,
+    "fov": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.8457078337669373,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "index": 0,
+    "lookup": [
+     -1
+    ],
+    "near": 0.2222222238779068,
+    "position": {
+     "base": [
+      -4.94787073135376,
+      4.381213665008545,
+      0.6526342630386353
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "roll": {
+     "global_sequence": -1,
+     "interpolation": 0,
+     "times": [
+      0
+     ],
+     "values": [
+      [
+       0.0,
+       0.0,
+       0.0
+      ]
+     ]
+    },
+    "target": {
+     "base": [
+      2.6089210510253906,
+      -1.1962227821350098,
+      1.217781901359558
+     ],
+     "track": {
+      "global_sequence": -1,
+      "interpolation": 0,
+      "times": [
+       0
+      ],
+      "values": [
+       [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+       ]
+      ]
+     }
+    },
+    "type": -1
+   },
+   "global_loops": [
+    33,
+    0,
+    167,
+    133,
+    3333,
+    300,
+    8333,
+    30000,
+    10000,
+    28333,
+    4967,
+    5300,
+    5533,
+    5600,
+    2667,
+    5333,
+    1333,
+    4000,
+    6467,
+    89967,
+    24333,
+    6533,
+    22533,
+    3567,
+    18767,
+    22867,
+    3433,
+    2867,
+    3233,
+    25000
+   ],
+   "path": "wrath/m2/319097.m2",
+   "sequence": {
+    "duration": 90000,
+    "flags": 32,
+    "id": 0,
+    "index": 0
+   },
+   "sha256": "d1f48ba3a2506c37aebdb05b3f01974dc6602744dcb5fd5fe2ee46fc51dc7ab3",
+   "textures": [
+    1065446,
+    319082,
+    319083,
+    319084,
+    319085,
+    319086,
+    319087,
+    319088,
+    319089,
+    1065447,
+    319090,
+    319091,
+    319092,
+    319542,
+    319093,
+    319094,
+    319543,
+    319544,
+    1065448,
+    1065449,
+    1065450,
+    1065451,
+    1065452,
+    1065453,
+    319096,
+    1065454,
+    1065455,
+    319545,
+    319546
+   ],
+   "version": 272
+  }
+ },
+ "schema": "armory-scenes-v1",
+ "selection": "classes[class].scene, else races[race].scene (GetSelectBackgroundModel; class glue tag first)",
+ "sources": {
+  "ChrClasses.db2": "17841e07aab578189a549da3904070dccd3fc466e2709ad4b06e4fe9e26836e3",
+  "ChrRaces.db2": "1e6e9508eb3068693f2c9272a7e96140a71e9e9d47ef2cc3d32dd9daaf4ddf29",
+  "scenes": {
+   "131921": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "effaf931e7169fa56e184d30ca4c17c3",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d"
+   },
+   "131934": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "4edd1bc9cf74f3ebe18a604a2249e195",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d"
+   },
+   "131940": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "ce6ec70cf6349fde0e857f13e911fd4d",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d"
+   },
+   "131948": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "04daef5ce8ba160bfcc4794d95a70db2",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d"
+   },
+   "131993": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "b84f7c2fe20e2e37508895b3e6817eb2",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d"
+   },
+   "132003": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "8a36bc7cdc1987707603d8c5676d7a00",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d"
+   },
+   "132035": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "e7b057b87dff6f37e4474c5654db7fcb",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d"
+   },
+   "132046": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "16e10c20da7ffe3e34efb3c832c0aa0f",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d"
+   },
+   "235357": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "1e4d9f7c58414090520b1d803e1cda49",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d"
+   },
+   "235358": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "f37769d4c8d1ea1005e3f0af05fdc525",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d"
+   },
+   "236082": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "57c603815799f036341100ce9dcc2fc2",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d"
+   },
+   "319097": {
+    "build": 64001,
+    "build_config": "0235b4ee52069842f4b984f19e682112",
+    "ckey": "52539585bc025d237d275393709e1e5c",
+    "locale": "enUS",
+    "root_ckey": "1e5bb1ef520b84bc14858bcc3a879b8d",
+    "textures": [
+     "Interface\\Glues\\Models\\UI_Goblin\\gradient5Circle.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_BG01.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_BG02.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_BG03.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_BG06.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_BG05.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_BG04.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\LostIsles_MammothTreeFoggy01.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\LostIsles_LeavesFoggy01.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\LostIsles_detaildoodads.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\LostIsles_LeavesFogged.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\LostIsles_Trunkfogged.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_sunglare.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_flowersDark.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_clouds01.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_sky.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_PalmDark.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_AloeDark.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\LostIsles_PalmLeaf_01.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\LostIsles_MossyRock_01.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\FireFly01.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\Goblin_LightGlobe_01.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\Goblin_Bamboo_Brown.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\Foliage.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_bambooFogged.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\SeaGull01.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\LostIsles_Aloe_01.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_GodRays.blp",
+     "Interface\\Glues\\Models\\UI_Goblin\\UI_Goblin_GodRaysMask.blp"
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,154 @@
+{
+ "format": 1,
+ "release": "20261026T044832Z-77599db68749",
+ "parent": "20261023T204908Z-c79003c113ff",
+ "created_at": "2026-10-26T04:48:38Z",
+ "note": "Native ROOT texture resolution for three world objects",
+ "viewer": "deployment/viewer/c3f890f/viewer.min.js",
+ "transforms": {
+  "live/deployment/viewer/c3f890f/viewer.min.js": {
+   "name": "viewer-local",
+   "version": 2,
+   "raw_sha256": "a0ca4fb0dfd8b6d9fe35492056a794e63008b7de89c38f4bce2b8f0fa57e212c"
+  },
+  "wrath/deployment/viewer/c3f890f/viewer.min.js": {
+   "name": "viewer-local",
+   "version": 2,
+   "raw_sha256": "a0ca4fb0dfd8b6d9fe35492056a794e63008b7de89c38f4bce2b8f0fa57e212c"
+  }
+ },
+ "content_sha256": "77599db6874956ce7abeef4b1b12363a5b684af0c4e352b24eee0c212b432288",
+ "manifest_sha256": "fd24074b226e323d91f2c1a54bf2295312489010ce2457cca993ceffebef3500",
+ "files": 228159,
+ "bytes": 4235298012,
+ "roots": {
+  "complete": 193359,
+  "incomplete": 6
+ },
+ "coverage": {
+  "live/background-181818.png": {
+   "complete": 1,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "live/bone": {
+   "complete": 3,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "live/deployment": {
+   "complete": 1,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "live/m2": {
+   "complete": 15,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "live/meta/armor": {
+   "complete": 24,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "live/meta/character": {
+   "complete": 3,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "live/meta/charactercustomization": {
+   "complete": 3,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "live/meta/item": {
+   "complete": 6,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "live/skel": {
+   "complete": 3,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "live/skin": {
+   "complete": 15,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "live/textures": {
+   "complete": 98,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "viewer/viewer.css": {
+   "complete": 1,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "wrath/background-181818.png": {
+   "complete": 1,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "wrath/deployment": {
+   "complete": 1,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "wrath/m2": {
+   "complete": 22381,
+   "incomplete": 3,
+   "blocked_by": {
+    "wrath/m2:failed": 3
+   }
+  },
+  "wrath/meta/armor": {
+   "complete": 31233,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "wrath/meta/character": {
+   "complete": 42,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "wrath/meta/charactercustomization": {
+   "complete": 42,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "wrath/meta/item": {
+   "complete": 59750,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "wrath/meta/itemvisual": {
+   "complete": 80,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "wrath/meta/npc": {
+   "complete": 24374,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "wrath/meta/object": {
+   "complete": 3591,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "wrath/skin": {
+   "complete": 6,
+   "incomplete": 0,
+   "blocked_by": {}
+  },
+  "wrath/textures": {
+   "complete": 51685,
+   "incomplete": 3,
+   "blocked_by": {
+    "wrath/textures:failed": 3
+   }
+  }
+ }
+}

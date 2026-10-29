@@ -1,0 +1,1531 @@
+{
+  "backgrounds": {
+    "DeathKnightBlood": {
+      "file": "DeathKnightBlood-79152fcc78d6.webp",
+      "height": 331,
+      "sha256": "79152fcc78d6e284a6c19fd55252d837ab8e3ce61c115e64e31dabea7b44370e",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "1905ddffe3db35141c7dca16b15a3b96dba55160f288194ded4ccb190aa893c6",
+          "ckey": "5529b5456e4daa82f726fc3a92ff928c",
+          "file_data_id": 136864,
+          "path": "interface/talentframe/deathknightblood-bottomleft.blp",
+          "png_sha256": "0d8ce1a4e4aea5be816b352400669091b4f1e06cd79107e517c905fec0eac660"
+        },
+        {
+          "blp_sha256": "4c90c61b433c894f47b47697f5673ed728a727f60f055327368db0d78546d554",
+          "ckey": "21a603dc4b7506ee5e74c83ee5bd213d",
+          "file_data_id": 136865,
+          "path": "interface/talentframe/deathknightblood-bottomright.blp",
+          "png_sha256": "d057855922c101335c38e0779ae1a5caa7222be0ac5002c5b5d07ad67b3820bd"
+        },
+        {
+          "blp_sha256": "9aa152ff7fa6a44b5f4d06f2c31ae21305733da5c1f3d4888e644e3e2bb438a7",
+          "ckey": "ffc53361d8987345cd4be530b81b85a7",
+          "file_data_id": 136866,
+          "path": "interface/talentframe/deathknightblood-topleft.blp",
+          "png_sha256": "d60721f7a38b3cf44b6678a57858eeb6b5c09a2c5be0e169831974e2e432fcb5"
+        },
+        {
+          "blp_sha256": "1ae1d8117bb1321ffe5a94c51588e9261520bd66a483cca03114a074b2281957",
+          "ckey": "adb780ba7ad9aa23000fd8d82043b937",
+          "file_data_id": 136867,
+          "path": "interface/talentframe/deathknightblood-topright.blp",
+          "png_sha256": "e9f6170207f2d987e2880eee3f99be61e103e87848fe97d5fba9b5643a898a19"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "DeathKnightFrost": {
+      "file": "DeathKnightFrost-521094793c46.webp",
+      "height": 331,
+      "sha256": "521094793c4664215c1b2547496cac7a0aa0cad825bbeb9e8cdbc054cd20d2b7",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "61be97e404fac132037d53806d971681a48b141f00a6a76191546510336368e1",
+          "ckey": "39c0218fde4db8418d888ea80d7811fc",
+          "file_data_id": 136868,
+          "path": "interface/talentframe/deathknightfrost-bottomleft.blp",
+          "png_sha256": "9e9a60af75da6306c603c454395c946ff72617ff6ea38f21025de0ba78f80c0f"
+        },
+        {
+          "blp_sha256": "04596f9b47a189747fdc1ab9a5dc7da75676a33bbee0f930d9ebc37674174ec2",
+          "ckey": "d74fd4867f601fbe860cfb60471e3b7b",
+          "file_data_id": 136869,
+          "path": "interface/talentframe/deathknightfrost-bottomright.blp",
+          "png_sha256": "947907728a143db066a15373e2206b9eca5ce57c0abc488bdf1a25050658bce6"
+        },
+        {
+          "blp_sha256": "fbb2545607f92acfc8907df1c990c6409fcaf9d169cb010d1bf30923d180a18e",
+          "ckey": "0258e6eabb7932c1b5a16e5b35264858",
+          "file_data_id": 136870,
+          "path": "interface/talentframe/deathknightfrost-topleft.blp",
+          "png_sha256": "6f8f6756a0fd0065c26624cb2dab98bd462b233bc2d93638e003b1052e90d5fa"
+        },
+        {
+          "blp_sha256": "e378baf484277dc3f782069228ff246858b9634709b929c338b6ea5765c50316",
+          "ckey": "60a0e9c14d4f6d305ac68dcc33d4f449",
+          "file_data_id": 136871,
+          "path": "interface/talentframe/deathknightfrost-topright.blp",
+          "png_sha256": "74f7d2811d129efa912331c506200d784e8fc22da0261263d0442ee55fb63200"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "DeathKnightUnholy": {
+      "file": "DeathKnightUnholy-88a272250eb6.webp",
+      "height": 331,
+      "sha256": "88a272250eb63eabc48d2844ca64215aa919998fcf5e61d42c1530852e6edc0b",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "9376d085abd6070d06dae9574c7dae1f5fc8b85160ef8fb31ddc44deef376868",
+          "ckey": "2346fadec1b392ddc8b4d4e8ee6b660c",
+          "file_data_id": 136872,
+          "path": "interface/talentframe/deathknightunholy-bottomleft.blp",
+          "png_sha256": "31c300eb77e30fa0dd64f99e4c12f9e9a5c057c8cdff0845cc8b8cabf3b6692e"
+        },
+        {
+          "blp_sha256": "4d992b5e6a4c4dbf708425a0bd453bbd28eb54f3ca55a222da7b9c1b1a03e484",
+          "ckey": "e1da05d88c3f63df2ce27d5098172d68",
+          "file_data_id": 136873,
+          "path": "interface/talentframe/deathknightunholy-bottomright.blp",
+          "png_sha256": "1e9775e1952e4f5dbfd59c49ee00cca4b66966638439997b2a1c67e001b275ed"
+        },
+        {
+          "blp_sha256": "d426f5a99f20117567c065b36eb85c5a75fe60896da65d2308a2ae8aa9c16484",
+          "ckey": "1cfb34eb1262cdac01cdc0245e1a7d88",
+          "file_data_id": 136874,
+          "path": "interface/talentframe/deathknightunholy-topleft.blp",
+          "png_sha256": "c302ad376977105e13d6d3c77bda655174417c6b0ee6f57863848e2e864d1cf9"
+        },
+        {
+          "blp_sha256": "939a4c0724ac3b9bfd2f9af5b0535cbf6af382965dffd779e69edc25f97eab76",
+          "ckey": "293e5c776a269e14da55a2b58e115e91",
+          "file_data_id": 136875,
+          "path": "interface/talentframe/deathknightunholy-topright.blp",
+          "png_sha256": "851b168f562f80055456372e254e22abdc0051b6e65ba3b1e1a34bc5fd73ef7c"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "DruidBalance": {
+      "file": "DruidBalance-aec41c417706.webp",
+      "height": 331,
+      "sha256": "aec41c4177063cbfeb40e429532da1a674049faba01af09818bac42d84ee6d9e",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "1ace1530f47d62c9c868e0bcb6d9f042c42c2cbb76909d4fb5021d9e2df89e4a",
+          "ckey": "1868e6edd27b92d2c751f517a06ecce9",
+          "file_data_id": 136876,
+          "path": "interface/talentframe/druidbalance-bottomleft.blp",
+          "png_sha256": "e8fb960f66410764b69a9f78e4f0554f0a67fc1370e7baec1aaf4a40d26d3b91"
+        },
+        {
+          "blp_sha256": "e4bdb56d688fbaa108d3fd72d0757c1ec2d335ed9336f90cf2a8859cadd3e74a",
+          "ckey": "f58df580596523219c02c157aa388b74",
+          "file_data_id": 136877,
+          "path": "interface/talentframe/druidbalance-bottomright.blp",
+          "png_sha256": "15e85d5892a2e0a1939fd792efdc4aed28ea62be3bea9583e38e62054d203990"
+        },
+        {
+          "blp_sha256": "07d60d86e68f5467aec5bdad1a52f0f99cd0f8dd83f1a5b3295554d04edab583",
+          "ckey": "7b5a21d4a0cd1f7967a9646423cb8eed",
+          "file_data_id": 136878,
+          "path": "interface/talentframe/druidbalance-topleft.blp",
+          "png_sha256": "40d96e6df4c8b0a6f61f3ca484e0669c1eb38f9db7fc4741d38174ac2fdaf9cb"
+        },
+        {
+          "blp_sha256": "d7685ba96749455eaafb234504b6c37e5937687575991b1f481791f63799ec8a",
+          "ckey": "cb3a6d2e85f22204c481b6719a123f88",
+          "file_data_id": 136879,
+          "path": "interface/talentframe/druidbalance-topright.blp",
+          "png_sha256": "8972d2d2489b2e290a636e43690b3c873f174fd29ae5861293e4681a26b89311"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "DruidFeralCombat": {
+      "file": "DruidFeralCombat-0a41247107a4.webp",
+      "height": 331,
+      "sha256": "0a41247107a43b89c0cfb2a9870ca0c2794933c225646ffcc66782b4333efb04",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "e029813b1c7fbba492707beadfb4d0a149cb66d64cee0586a0eebe7bb796d876",
+          "ckey": "acd29ee76feac9453ae722c1530128d3",
+          "file_data_id": 136880,
+          "path": "interface/talentframe/druidferalcombat-bottomleft.blp",
+          "png_sha256": "f8fe5c78f7cc28e7b11569a02fa0e0efe6efcf386090bece354462ba82e2e8c5"
+        },
+        {
+          "blp_sha256": "9129c9ee1f75d27327a594d05f88ad9296939cdad62cccd4b2b960e6ea981da4",
+          "ckey": "99af97335b1a9bc15018b641a8060036",
+          "file_data_id": 136881,
+          "path": "interface/talentframe/druidferalcombat-bottomright.blp",
+          "png_sha256": "6a025fb6f4bd8143040588f4b50c058640f28f852182a7fc7b3858f0a7ca76c9"
+        },
+        {
+          "blp_sha256": "3e88b3c1407a27fd058bd7f6b2f2fbba7365a1ad331a84fd7da1f8c782adaff2",
+          "ckey": "d8c7ef12ebd913c911cfe1eff9c600f2",
+          "file_data_id": 136882,
+          "path": "interface/talentframe/druidferalcombat-topleft.blp",
+          "png_sha256": "57f73b7d6a17fd299b3d7dccbb38e3bd2db6aa741810f26c248e7acb96ec8d24"
+        },
+        {
+          "blp_sha256": "58ad8bef0167b20f92e599bab830b2d26685cafe620982e148f672c7a96c327b",
+          "ckey": "43acf778b0bc970193251534871c42ca",
+          "file_data_id": 136883,
+          "path": "interface/talentframe/druidferalcombat-topright.blp",
+          "png_sha256": "8f682d33d043a1a66d31036a93afff1e4838ba9f778b8902fd58f619bd5b48ef"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "DruidRestoration": {
+      "file": "DruidRestoration-5d0537d14734.webp",
+      "height": 331,
+      "sha256": "5d0537d14734f0d72c037af248b7e58afd0f2fc39d09f71f5c5516916e197c68",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "6c361e097611f93c63df9484cdc997ef23ce7823f84c5b879491c1401a2246fa",
+          "ckey": "c7850e810d324aa78801f52ca5b8e26b",
+          "file_data_id": 136884,
+          "path": "interface/talentframe/druidrestoration-bottomleft.blp",
+          "png_sha256": "707135dcdb257136c175236666e99d167d389d367f1c8ade20f436d45f798813"
+        },
+        {
+          "blp_sha256": "b9df5a9254b142b6940ddb3403b079141fe4543e9bd2d574e9dc9b54933210c9",
+          "ckey": "cf265a74bffb67c9ee097ca7cfd39c86",
+          "file_data_id": 136885,
+          "path": "interface/talentframe/druidrestoration-bottomright.blp",
+          "png_sha256": "988e7bbaf87c2b6cce9ccd3fac8f5cf3e6972883fa02fff72e7d706ae51fba35"
+        },
+        {
+          "blp_sha256": "8af7425cb1ffd92d78342251a0b41f31c08938b2a99c9288aa54d762987bd257",
+          "ckey": "1d149213eeaaf1ca1ea875cff016b84c",
+          "file_data_id": 136886,
+          "path": "interface/talentframe/druidrestoration-topleft.blp",
+          "png_sha256": "9eb2db18a71f00117c71edb5dc0d6b1f9c9b2abe8e0d1512e9e2aeb77a35b021"
+        },
+        {
+          "blp_sha256": "b23c70fb287bb2719f534f1b489e960a4436a24b998d0073b357101c88b1a705",
+          "ckey": "74f45d3bca46df3415921cb352277a59",
+          "file_data_id": 136887,
+          "path": "interface/talentframe/druidrestoration-topright.blp",
+          "png_sha256": "35bb5b22e014a913c42a0788753b90f52588ade45da0313aade44cd1ab88797a"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "HunterBeastMastery": {
+      "file": "HunterBeastMastery-01f77d6eaae7.webp",
+      "height": 331,
+      "sha256": "01f77d6eaae754eb5095bf1253603ec928d537b3bfcfbaa05cf24c723f608028",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "2ab353eb666e0bd555b8555abdb3e506dac023812ef3d351488d7b5ee54f570d",
+          "ckey": "be74fa4db7533a27c705854f590435ad",
+          "file_data_id": 136888,
+          "path": "interface/talentframe/hunterbeastmastery-bottomleft.blp",
+          "png_sha256": "0bdb578621a5bfe31798c219d9bd9801ae30504863620d8e63fb2d19e00476b7"
+        },
+        {
+          "blp_sha256": "3a812c4a43a9246e02b7b5011dd9e3b05d62c4128168a3124834e85e0ed29a97",
+          "ckey": "83534d4580cc00d4247346d5fcf9390d",
+          "file_data_id": 136889,
+          "path": "interface/talentframe/hunterbeastmastery-bottomright.blp",
+          "png_sha256": "40d73b4c3a4d6ed929cba2753d4a82c0a9676cf37e50a4cb40a5ebdb7e57327a"
+        },
+        {
+          "blp_sha256": "b83d0dbf3835305ea6dd33f244b8fd3b11d1b7e72315d991d5ee8005bd2d6a86",
+          "ckey": "2fd675d362df82ba259baea9501447da",
+          "file_data_id": 136890,
+          "path": "interface/talentframe/hunterbeastmastery-topleft.blp",
+          "png_sha256": "63d5f9c43de2696b854c44ae503eb9e7f9bd69278b02a34e5ff01e74b892d16e"
+        },
+        {
+          "blp_sha256": "b5c6d7928ee23e927604d7da0a987999d8a140bf9fe8f2e6172c437f58ca11e7",
+          "ckey": "5f323a624260044fa52e6601d97038ac",
+          "file_data_id": 136891,
+          "path": "interface/talentframe/hunterbeastmastery-topright.blp",
+          "png_sha256": "b75c4958a278096da0b5df1ba5269058fd3148225604f36a598866a3359117fa"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "HunterMarksmanship": {
+      "file": "HunterMarksmanship-da1bfa2a17c6.webp",
+      "height": 331,
+      "sha256": "da1bfa2a17c69af9093320bbff045a644e533bc64f31069c2e2c15c823e2b029",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "36829e1fc73ca639fa47dc69ef6070ebeed461cffa2d26595840e59737512a09",
+          "ckey": "0c3198efb511c5ad84d09d1e29805b70",
+          "file_data_id": 136892,
+          "path": "interface/talentframe/huntermarksmanship-bottomleft.blp",
+          "png_sha256": "6ba1d912f221775875d8ecdfdcf4dfd8913b9971ed1a8d5f9b759030fc397c8b"
+        },
+        {
+          "blp_sha256": "71414d5047085677fddba6e2b3744cd32f7c92b02709e89660569243556a3673",
+          "ckey": "f0787c691dc367c98480ed8406cf3f4e",
+          "file_data_id": 136893,
+          "path": "interface/talentframe/huntermarksmanship-bottomright.blp",
+          "png_sha256": "5a1d872a630cdbce2204492620602fe64c61942c63ebbb8bea96648da42fb6f2"
+        },
+        {
+          "blp_sha256": "cd17c140b4aa842e2ba4e9d57eb888ceaddaac04b5fedf320df3f4a5a1ef66e9",
+          "ckey": "16e3580f573d95b4723f6e494a03dd90",
+          "file_data_id": 136894,
+          "path": "interface/talentframe/huntermarksmanship-topleft.blp",
+          "png_sha256": "622fa2c67a218f7aba8e751d7989ad4047d9c6f75cd93ae367ea3c413ab91952"
+        },
+        {
+          "blp_sha256": "8013b382dad8f468d2afd74841fbd39aa995188a346a4b898db1e9ebc7739a25",
+          "ckey": "a222d827e44e9d7ceef11b9d68d22624",
+          "file_data_id": 136895,
+          "path": "interface/talentframe/huntermarksmanship-topright.blp",
+          "png_sha256": "b34617baa41665ce0c6dbdde970e4e2739a88ae6dd0391d96ad4b8a49682a24b"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "HunterPetCunning": {
+      "file": "HunterPetCunning-9cfd1ddc237b.webp",
+      "height": 331,
+      "sha256": "9cfd1ddc237b2553de2c96c96f0844a27dd3f955ff43a66f86f3084fff1b43ad",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "be4d6f923b79eb842f5a5db6fb11f64ffe886fb191c181ad1a66861524fce9d7",
+          "ckey": "1c62c8f7f1593b862b999129ed88a3f0",
+          "file_data_id": 237656,
+          "path": "interface/talentframe/hunterpetcunning-bottomleft.blp",
+          "png_sha256": "d69c8ceeaf518eeb297fc9ea377a17066b4225e31430966ba86191517caeef83"
+        },
+        {
+          "blp_sha256": "2790adf6e38cbf6c5f544ce35ae1716dc1105466be8642832db0a3cc049caef2",
+          "ckey": "c925581dee84cfeeb3e28cb8c4ae1fe5",
+          "file_data_id": 237657,
+          "path": "interface/talentframe/hunterpetcunning-bottomright.blp",
+          "png_sha256": "618cfdcd72c47adfbcb0043a3c273191bf5850336edc068669e64e1c004faa8f"
+        },
+        {
+          "blp_sha256": "5d95f10acc4d400e4b5fb7c0c5ba9042388b8818ff66d3606e3ada149414dee3",
+          "ckey": "f29ef28809a7c9a2a6dd3106311615ff",
+          "file_data_id": 237658,
+          "path": "interface/talentframe/hunterpetcunning-topleft.blp",
+          "png_sha256": "13e1c7689d2bfe7284c143ddbca90db70b53bab323e803fc211e38fc9fa2ab87"
+        },
+        {
+          "blp_sha256": "45a4495eb3a00d2e14354106b0c0cd71ff60d56cc0b19bdb36d47764663b940d",
+          "ckey": "c1f7134d5db9f097d03fbb2146c3cb58",
+          "file_data_id": 237659,
+          "path": "interface/talentframe/hunterpetcunning-topright.blp",
+          "png_sha256": "3f5476b5408eb15e967637e05ea23d81df267c9ee2697fa14aca26e776f484d5"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "HunterPetFerocity": {
+      "file": "HunterPetFerocity-93a1119925ed.webp",
+      "height": 331,
+      "sha256": "93a1119925edc69c32d6cb528506c42e7cd2fb9eabca9130e2ce66fc859aa666",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "a97ee4e27bc5ef2961a9198d2e86d724d463087e2449dccc34df8471a035a37e",
+          "ckey": "df8e55a48e6045ec8938020a34336c35",
+          "file_data_id": 237660,
+          "path": "interface/talentframe/hunterpetferocity-bottomleft.blp",
+          "png_sha256": "37479fc39543f4caeeeffc7b50cb66b09482d972da573b4921307998b99a0018"
+        },
+        {
+          "blp_sha256": "219cfb9cb601b2dc96db8de72c0c510af3062ae318774a111b3941e89697fbcb",
+          "ckey": "9a45ed8a27c48faa8b3b8847331933d9",
+          "file_data_id": 237661,
+          "path": "interface/talentframe/hunterpetferocity-bottomright.blp",
+          "png_sha256": "a8dbf0f8864a2570120d4922e97e2cf26a47bbf78a8f316c6820cac8fa6e98dd"
+        },
+        {
+          "blp_sha256": "0076927cad79d182349f98b6a802b891296941474a79e8cd81d0d0b31da18179",
+          "ckey": "e6908c8f1737b4d794c0ae7a89f45f21",
+          "file_data_id": 237662,
+          "path": "interface/talentframe/hunterpetferocity-topleft.blp",
+          "png_sha256": "0f83e8f5c9966ca5f3b157d6cefa1dae759f7520f7fd4216a40c66f8712ffab6"
+        },
+        {
+          "blp_sha256": "c6aae3e0c17ca129905c760e82c3fe5afc4469835b7e39dcb9719c9944320557",
+          "ckey": "ae92d753ddc365e360c6525bac5dc6be",
+          "file_data_id": 237663,
+          "path": "interface/talentframe/hunterpetferocity-topright.blp",
+          "png_sha256": "20b0d06066e7bec44d4e9b9d696dec6e4c01d7f9826327205d747c970bfd20ed"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "HunterPetTenacity": {
+      "file": "HunterPetTenacity-7b56dbca15c4.webp",
+      "height": 331,
+      "sha256": "7b56dbca15c4dd153fd924e57fc4653f4f6017ccec7c1bbe0a23704dd6da9618",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "6741f266df79fce5c7448dde172e7849d66190d7bae767de6b5937fc592a499e",
+          "ckey": "27737cf805a058180cbc709b1c38a26b",
+          "file_data_id": 237664,
+          "path": "interface/talentframe/hunterpettenacity-bottomleft.blp",
+          "png_sha256": "991b17c454ed9ae3599a5c8453e7877fd75bc6fecdc88e550bbf8f72a9dc2a6b"
+        },
+        {
+          "blp_sha256": "d83f2197547ca54a0a0b2c9e22615df93863c7117f6e6ecb572197fbbb275fe1",
+          "ckey": "0f33c0a79f69528bca0af9e1468c255b",
+          "file_data_id": 237665,
+          "path": "interface/talentframe/hunterpettenacity-bottomright.blp",
+          "png_sha256": "93fdb719bda4ae269eead36d531fa5ed3fc562c265ba292fe78fdc9dd078c2fc"
+        },
+        {
+          "blp_sha256": "bc3eddca75ce889736b167075e4e48c04025475a5676bde7df650c100448a03a",
+          "ckey": "6c8ac08ffc3720f6c4062dd82fc19568",
+          "file_data_id": 237666,
+          "path": "interface/talentframe/hunterpettenacity-topleft.blp",
+          "png_sha256": "a7cb68822076c3a9998e1b1e7e07fcb45e72cc51eb6f6e6a521cdf0dde8d78df"
+        },
+        {
+          "blp_sha256": "73e121c3156768434ad9eed290544a2975999d1a3d1e7b35fd9bfa863347c596",
+          "ckey": "c0dc9e5471caa90b210599b32d26ba91",
+          "file_data_id": 237667,
+          "path": "interface/talentframe/hunterpettenacity-topright.blp",
+          "png_sha256": "6f4c27792aa14203a80ab845757732820f2f08adafe225de320aa7b96916af8a"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "HunterSurvival": {
+      "file": "HunterSurvival-bd59ccfc4127.webp",
+      "height": 331,
+      "sha256": "bd59ccfc41275cac745b5fc5e679890cfa1cd3e7a303fadd7598533178dc6dbd",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "36880c00e8f882862d1aa529bc9946110f0d12807d0951d93c410a00d07894af",
+          "ckey": "6c6ae699fb617c2cd99328ba96fa7bfe",
+          "file_data_id": 136896,
+          "path": "interface/talentframe/huntersurvival-bottomleft.blp",
+          "png_sha256": "aa7d9da1ac849eb1602fda5ca69153fa46b74662930e24be32c095e9bbbf2164"
+        },
+        {
+          "blp_sha256": "9092bb25dc368047024a8f515fcf6e5ae82a23d3493bff0d9e32b788a91cd2b6",
+          "ckey": "f4b94c8463df6fdc968fe4e3a08923d6",
+          "file_data_id": 136897,
+          "path": "interface/talentframe/huntersurvival-bottomright.blp",
+          "png_sha256": "6a395a61b7c55cbe797671d82075f55b5244cb5f8b70cad7307d1dbb5f3a2731"
+        },
+        {
+          "blp_sha256": "6cc48f584351a3487372e2ec4bb647b8d2f335b08b23dc78b7496302f22a02ab",
+          "ckey": "915fbe65fdc6b98193cec349c80341ab",
+          "file_data_id": 136898,
+          "path": "interface/talentframe/huntersurvival-topleft.blp",
+          "png_sha256": "43287a2c74379c60ffbc36b0c3c3b7a1770abe22f5bb01ba5e46d9a5cbd5d988"
+        },
+        {
+          "blp_sha256": "1e0cd709668bdfffbe3e47696fc39e1e14f41026728ef7c812b026c4fc0469d7",
+          "ckey": "f1ac63f75514ebc08a07a483fe07cb16",
+          "file_data_id": 136899,
+          "path": "interface/talentframe/huntersurvival-topright.blp",
+          "png_sha256": "63a5134dc442427aed7d171061893f20727915e1af681a358eff30d9f40d07ec"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "MageArcane": {
+      "file": "MageArcane-145890e4a095.webp",
+      "height": 331,
+      "sha256": "145890e4a0951c333d67efc3b1ce532296a1ef30da566aab155ca8bd285b2a6f",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "3a2a0e4db0f36891433a4ea826f72cdcf07821700fe81a5b983a5c7039bed980",
+          "ckey": "40e560ba68c413278ed34f32e28c6b9f",
+          "file_data_id": 136900,
+          "path": "interface/talentframe/magearcane-bottomleft.blp",
+          "png_sha256": "3d12e4008cf2d2c78aad50588163dcfafd08f61bf7b028271efff1cee2a2d78c"
+        },
+        {
+          "blp_sha256": "a7da3f5e8a764b4ba903585cf0d9d80f7aa5beb07c245b1092c7dfb58231de6d",
+          "ckey": "4c4ab60b8d9e4d51910dd80ac8754e44",
+          "file_data_id": 136901,
+          "path": "interface/talentframe/magearcane-bottomright.blp",
+          "png_sha256": "a422536161870c11c04b06fe021d2341e4f4edf8785c37d94f4f93f8d14351ac"
+        },
+        {
+          "blp_sha256": "5acd469623652b5b51faeee68a67c828979570585431c878896e01ad041030be",
+          "ckey": "b47ef09d3696a539d8574ae6c01a9f2d",
+          "file_data_id": 136902,
+          "path": "interface/talentframe/magearcane-topleft.blp",
+          "png_sha256": "1ef2a199afe901cb4d05be98942d322426fb07e22176a4cf972f8c7075ec2187"
+        },
+        {
+          "blp_sha256": "4a52695322df197a2b9bb0188409385f8f214fd51c26676caa664584c587bcba",
+          "ckey": "6a358b76abede895ab329fa401c7ebbe",
+          "file_data_id": 136903,
+          "path": "interface/talentframe/magearcane-topright.blp",
+          "png_sha256": "454cac958335606cba22610209261afaf4dddb5bef622662606b6a9350eff032"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "MageFire": {
+      "file": "MageFire-040864219130.webp",
+      "height": 331,
+      "sha256": "04086421913000a20b80247251e886436338096ba4fd47a4bbb5f55df50581aa",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "5413fdd6d906dc27ed8badff357b4df649c51b18b2e8ca4c5884f56a1947eee1",
+          "ckey": "63207e7fd5b52ee84ed1b69e48e6f4b2",
+          "file_data_id": 136904,
+          "path": "interface/talentframe/magefire-bottomleft.blp",
+          "png_sha256": "966e678fc20755783936486156c2469cb68d306620a6b65829e9ab076df89228"
+        },
+        {
+          "blp_sha256": "f697ceaa25806dafd5d8c5ddec42ec3ecea20422788fc692dd77a6dcd39dd043",
+          "ckey": "4d5f064f50de8115328c1218aa91cf3e",
+          "file_data_id": 136905,
+          "path": "interface/talentframe/magefire-bottomright.blp",
+          "png_sha256": "f36c9a5d3c6ab1b08a17a142bbd891baf334b4a887c43e6cd54759e3fbc441fe"
+        },
+        {
+          "blp_sha256": "4e7e0fee4f9c76ead20300ee353b06289890d4cb733efee6eaffca8bff97da2f",
+          "ckey": "b537568f30c3b9904965ba6b698baed1",
+          "file_data_id": 136906,
+          "path": "interface/talentframe/magefire-topleft.blp",
+          "png_sha256": "23c589bf1cd275fcadc2852e9669d1950a1332e07d58017c0a7758dfac9eda83"
+        },
+        {
+          "blp_sha256": "0bd410e788804fe0d43e1fbb0174968861f185d28385a03f75bc476a3b30eae3",
+          "ckey": "62be4c00cba8b9eb59e50bd123e3a7f6",
+          "file_data_id": 136907,
+          "path": "interface/talentframe/magefire-topright.blp",
+          "png_sha256": "03f634ded8094b91cd423852bd9282283e3e29ed21d1a96d85e0a32efc46ef58"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "MageFrost": {
+      "file": "MageFrost-8a11451c32b7.webp",
+      "height": 331,
+      "sha256": "8a11451c32b772772b0e75aad636b651253663f78ac32461ab40418f79b6103e",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "68401ecfb14b0cecb965ad5049dd05555f9859fd95ec239de45ab5d947f62dff",
+          "ckey": "ffbd908f4112ef70f746cfe51e122441",
+          "file_data_id": 136908,
+          "path": "interface/talentframe/magefrost-bottomleft.blp",
+          "png_sha256": "59f0d6a2f5434945cc2a6d64f7535072790eef9c939f2b642a0c50e82c5aa0a1"
+        },
+        {
+          "blp_sha256": "f7d8c2e62871546a20b260df53cebd9f644474aa2581b58c4281238bd6977866",
+          "ckey": "62c9e84f7e38ee04c303cf29d7e74357",
+          "file_data_id": 136909,
+          "path": "interface/talentframe/magefrost-bottomright.blp",
+          "png_sha256": "e429209d4e4eca8fa2567c0f914807416fb4d2382ca81eb988ec2cd09867277f"
+        },
+        {
+          "blp_sha256": "739fc4e4296ef323780c8fbac8a33330bebc9313a55422454daf1b717f44490f",
+          "ckey": "ef08165bd11ff464d2ed250ffa67722a",
+          "file_data_id": 136910,
+          "path": "interface/talentframe/magefrost-topleft.blp",
+          "png_sha256": "f84a508708c7230ba560a4395fa7656c00420d87d204af8fe95e08c75eab61c3"
+        },
+        {
+          "blp_sha256": "5111bf6e59b3292f0ce885f09a884e408fb2025589bb5d9e885131dfba57b436",
+          "ckey": "71beb1d35246edeb88dde894c7a83e47",
+          "file_data_id": 136911,
+          "path": "interface/talentframe/magefrost-topright.blp",
+          "png_sha256": "09f69c547e377f345dab5ecde5f9ccba9669af1d2cb9bb8098037f33d1980cd3"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "PaladinCombat": {
+      "file": "PaladinCombat-49fe82abea96.webp",
+      "height": 331,
+      "sha256": "49fe82abea96ae5ef56ae7b65159b4920e2bd826d253675bf82a522e8bd6358e",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "043a06c6cb7842cdceb809c26626618598632edfd06b9f96fa086f0776c68900",
+          "ckey": "ea3936e0ba151db3d45725048a12da4c",
+          "file_data_id": 136912,
+          "path": "interface/talentframe/paladincombat-bottomleft.blp",
+          "png_sha256": "6774349e50458b488650707a284b4944d4f31221aa08fc987aa9857e3230f1fd"
+        },
+        {
+          "blp_sha256": "0ab33132edb47f27449a0d5101a33673324d601cbf9cf1e950a1f428a973bb7f",
+          "ckey": "f0514f19f2aebf66407e4d9ba8193a63",
+          "file_data_id": 136913,
+          "path": "interface/talentframe/paladincombat-bottomright.blp",
+          "png_sha256": "eb1c5d63eb932828e6cee3459c22652c82488d98b77c483a840ef94b6fbc40c0"
+        },
+        {
+          "blp_sha256": "c4ecf1438437d2513ac2a6fcb0dc4c9ac7bf86e719a359634a01bcfd22719d19",
+          "ckey": "f8e5c10e4f4242da577e9c67b3ef2762",
+          "file_data_id": 136914,
+          "path": "interface/talentframe/paladincombat-topleft.blp",
+          "png_sha256": "b65da6bd2e485ea25d9c5f75f56bef5c45c35346ec9373a6225fd55d8e00aa37"
+        },
+        {
+          "blp_sha256": "6a9053420e95d0a18021646511626f1d317eadfd1ad57bb153c220a1b7339d01",
+          "ckey": "239838665e344cfd5663c6c7de2a42d7",
+          "file_data_id": 136915,
+          "path": "interface/talentframe/paladincombat-topright.blp",
+          "png_sha256": "c4e1458ad705bebcf45987e146b905708f550f9020e8fbeba9d86c024119dd06"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "PaladinHoly": {
+      "file": "PaladinHoly-235b7bd8f363.webp",
+      "height": 331,
+      "sha256": "235b7bd8f363a874bf97869984d1e81459094b9867d67013bbf9d70e40aba281",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "3524e89cb3b71e6fec189b571803aa9c190f265b3ed8e6285c91f4a72460d931",
+          "ckey": "3fe008de38d7e2470bae4905c36d2680",
+          "file_data_id": 136916,
+          "path": "interface/talentframe/paladinholy-bottomleft.blp",
+          "png_sha256": "61c51656d16ff11259efd6d081a298726fbf2307f610d250a514ae58ed875364"
+        },
+        {
+          "blp_sha256": "fe6d1886c13c9c9a28058dadc10bdcd66fbd8df16064ecb5149450220208819b",
+          "ckey": "02c33ee5ffac48fff0ad12ddd8666d4e",
+          "file_data_id": 136917,
+          "path": "interface/talentframe/paladinholy-bottomright.blp",
+          "png_sha256": "6ba1102d1c48af81b5fd5394c8ff7c826f824e7cdc2b87890602d1770ed15e64"
+        },
+        {
+          "blp_sha256": "c335777b3fa61793bf52478ecd2b9fd61fea020e1f1fd20da1ea03bba227a69e",
+          "ckey": "4ba16169e3b1dd1d6647e9f6c90dd9b2",
+          "file_data_id": 136918,
+          "path": "interface/talentframe/paladinholy-topleft.blp",
+          "png_sha256": "7f6afe673cd4616dee8f880225dcfc49fd015ac92cfd9f4912639b2213a3660e"
+        },
+        {
+          "blp_sha256": "c544455798c65c7fc590da8e8af29f31d8d51de6e95a965c69ebe9e98e89c4b6",
+          "ckey": "1b2dfa727ae6e19e3d768f5d9477b6f1",
+          "file_data_id": 136919,
+          "path": "interface/talentframe/paladinholy-topright.blp",
+          "png_sha256": "1a970067cd759426d180cf192d85da993c8f19cd79af92ff9ed8fb3892da0f8d"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "PaladinProtection": {
+      "file": "PaladinProtection-e3bc8728df54.webp",
+      "height": 331,
+      "sha256": "e3bc8728df54474ff6d178b5a4ce4ac3a31cfc14278d2556ee38dcee67885620",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "caac6da09689714bbac5cbdd87964b0a800e8ad77483e90475189264f494d026",
+          "ckey": "e639d15e4290284e337aa2c59e54ffc6",
+          "file_data_id": 136920,
+          "path": "interface/talentframe/paladinprotection-bottomleft.blp",
+          "png_sha256": "85bac05b6496e0165571f1bbd398c01d09da81ca825769668c256a19ded93ab3"
+        },
+        {
+          "blp_sha256": "42dba644c43294efad1e0109971a979a5c67b758ff4315d1c7cf0e4648b4f1ac",
+          "ckey": "bb64448a3aa301c3b4bd34eece524a3c",
+          "file_data_id": 136921,
+          "path": "interface/talentframe/paladinprotection-bottomright.blp",
+          "png_sha256": "e54b00c355d1ae97226b15e50a179ff0fbdea7b635e41c5e0add0463e6cb74d4"
+        },
+        {
+          "blp_sha256": "902893856e6a34c2821cb1e4fa12eeddaa75f8d7bec686d7d5d287079228f4a7",
+          "ckey": "abdf92675c065edfa99635ae5dd7976f",
+          "file_data_id": 136922,
+          "path": "interface/talentframe/paladinprotection-topleft.blp",
+          "png_sha256": "a87bd25ba757d24a3b27606280f5a81944f1342233acb63c141d6da73578b336"
+        },
+        {
+          "blp_sha256": "6560296176c80d6254293a140df540950580aaadea9acc617b596d6c85d2ecdf",
+          "ckey": "9346dad6365b412aa9454dfe3b38e4d5",
+          "file_data_id": 136923,
+          "path": "interface/talentframe/paladinprotection-topright.blp",
+          "png_sha256": "9f4417187dcdf8f07820756ac8ea02a9845db76bb824e1a36f06b5625fb35811"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "PriestDiscipline": {
+      "file": "PriestDiscipline-8c7b5f9801cb.webp",
+      "height": 331,
+      "sha256": "8c7b5f9801cb720a2ee5d51210cdcf07db43f1385cc39dc318337178bb4ee1fe",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "d198127e1c990a56b0500f55ecdb50bebee92d0b1762ef514490ca6717fd3758",
+          "ckey": "53d752183e12f498f9368902b2d5bb28",
+          "file_data_id": 136924,
+          "path": "interface/talentframe/priestdiscipline-bottomleft.blp",
+          "png_sha256": "925d37ba2e8289629aa5adadf6281ff9c8be2bd92f81fb9852d9f39f4513429b"
+        },
+        {
+          "blp_sha256": "1bd62490d30a678d3e53c1ff7d83b618358daca07769b66efe51926271f0f036",
+          "ckey": "5c46adec39b45d4fd1134c02357ed0f9",
+          "file_data_id": 136925,
+          "path": "interface/talentframe/priestdiscipline-bottomright.blp",
+          "png_sha256": "365446619f9950696d37487fd5e28d6a0dee5e686755db616bdada642355cd12"
+        },
+        {
+          "blp_sha256": "fcd31520d5792904d4d0933e07df4abe8586c4f6ed182d66228cc2c7609b3fa0",
+          "ckey": "f151aa4dace3aaaefa53424bf200c537",
+          "file_data_id": 136926,
+          "path": "interface/talentframe/priestdiscipline-topleft.blp",
+          "png_sha256": "3ab614635b7155add6af65c27d8936caf9b778b7d473574d1cdae8b4a61df1bb"
+        },
+        {
+          "blp_sha256": "dd752a406c1fbe5faff404734ad04c3ef12e91110ae63f0c229746752e89b925",
+          "ckey": "5074915043f3dc9c23bd173f39e2b3ac",
+          "file_data_id": 136927,
+          "path": "interface/talentframe/priestdiscipline-topright.blp",
+          "png_sha256": "28b595b1a6378f3bf41c326853b23f94f4dc5b881a605e12616292be2231dc83"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "PriestHoly": {
+      "file": "PriestHoly-b515d20c34c5.webp",
+      "height": 331,
+      "sha256": "b515d20c34c5f8700f8b91729b8163198d64ce6b83427ea6be8a253f09a8f4a6",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "9c82a849cccbfd7e84e7b7e7f61b49a93e0257308fe3bf188b14128f5d671b36",
+          "ckey": "34ecfbbbc97a1609c23b6255151b7086",
+          "file_data_id": 136928,
+          "path": "interface/talentframe/priestholy-bottomleft.blp",
+          "png_sha256": "d906853cfd42382a3dd847f4b9de04a827da0365ae4a374dfe12b24024de8d56"
+        },
+        {
+          "blp_sha256": "542fc969bf94ec2f39c1090513a8ab5bcdb14eb8b95864a4a1a90bb0e97a08dd",
+          "ckey": "73c6ded82080c10ca2795ebd9ae7a5a7",
+          "file_data_id": 136929,
+          "path": "interface/talentframe/priestholy-bottomright.blp",
+          "png_sha256": "1efee06821f0f7462e356077a5f042172020f6def72770d4e665e3301ec2e49e"
+        },
+        {
+          "blp_sha256": "a6f49459191608aade13b19dead02f9068cdc6cfdff0f5a83a5ae9dd2b845b3d",
+          "ckey": "31242b6995a1b901904c5866a688a3ce",
+          "file_data_id": 136930,
+          "path": "interface/talentframe/priestholy-topleft.blp",
+          "png_sha256": "bd54797a270fdfb1851299976ba3123f4bd6c16c2c8f5ed830865a320c48de16"
+        },
+        {
+          "blp_sha256": "0d9d6a2e377c4858789b7ab5211e335a4f85f38fc3967011042b13fea08e17de",
+          "ckey": "7dcedcabe2f7f78f8d7fcdf6246e501c",
+          "file_data_id": 136931,
+          "path": "interface/talentframe/priestholy-topright.blp",
+          "png_sha256": "9c2ba577dbdf55f5ad18d622770a14d45087a65e11aaa85b57fae2d93ecd1f70"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "PriestShadow": {
+      "file": "PriestShadow-91109a7922e7.webp",
+      "height": 331,
+      "sha256": "91109a7922e72ac53388e66caf1ce145a9508cc236794495138b01b66036b96f",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "5ecc25ea048b29f297bded3db2da4c9fa47289fa439abef44074202779c3a5f1",
+          "ckey": "377d7ee5b07e342870dec478fbb83f98",
+          "file_data_id": 136932,
+          "path": "interface/talentframe/priestshadow-bottomleft.blp",
+          "png_sha256": "71935d4a9948ffc0deb01f61bcde8460eb4e2753655e6cb2aba28ec5fdb17457"
+        },
+        {
+          "blp_sha256": "41686872ea450a2c418d0c87951b9e26732d67d52cb3a81107c886d4d9bb1bbe",
+          "ckey": "031e5f824beee542b737380724fdf171",
+          "file_data_id": 136933,
+          "path": "interface/talentframe/priestshadow-bottomright.blp",
+          "png_sha256": "0748e3beaf37c103dbcdd57f6a9e872f2865241cf7bd4897d936560d532a0d47"
+        },
+        {
+          "blp_sha256": "2df13ace6ce7233dd256e2542e281e59861783f9af96d8c414525dde1363606e",
+          "ckey": "3f834187fad2227aece389b92f869f27",
+          "file_data_id": 136934,
+          "path": "interface/talentframe/priestshadow-topleft.blp",
+          "png_sha256": "35be239efb042440a2135019662e9c5aeffd0d99bd36c4cb7ab7238aebb816d4"
+        },
+        {
+          "blp_sha256": "da297a82d91fa7383b884432e9c9ee567da3d60d738d3b64a96d88c8835f2e71",
+          "ckey": "972ab4fb60e51bb0147a71ac5b039dff",
+          "file_data_id": 136935,
+          "path": "interface/talentframe/priestshadow-topright.blp",
+          "png_sha256": "6c933d119a4c5ee87c9caffd2a3dd78aebd14e4e62183f09bcbc6fffd7e15c51"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "RogueAssassination": {
+      "file": "RogueAssassination-8870b7e2ca8d.webp",
+      "height": 331,
+      "sha256": "8870b7e2ca8d4e841a58f05bdc74a3525da0b0c96948cc183c99b872a7064f89",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "a44d34a8cdde0ad864b8ed1ed276195dcb2fca418cfe60d6a72f4d9965c0ac0c",
+          "ckey": "f3b320ab3b450d429fc7685b5c0595f3",
+          "file_data_id": 136936,
+          "path": "interface/talentframe/rogueassassination-bottomleft.blp",
+          "png_sha256": "500a49117b22202b6559460aea57da27ddde43936d74ae181eef1f3626a81a8d"
+        },
+        {
+          "blp_sha256": "41ca3bd1b42fd523aa207ff05d8693070c17ff944ae1324f7bda6c32627710ee",
+          "ckey": "40b4bf9103d63bf0b1d2e011fa329937",
+          "file_data_id": 136937,
+          "path": "interface/talentframe/rogueassassination-bottomright.blp",
+          "png_sha256": "c4073085ddc4f2806d8dc1e8bc3fc655f71c28979f9273b3ec7d14df85f61483"
+        },
+        {
+          "blp_sha256": "b461f150974a40e52a71ee3752fc2fef60691823683a893127fd1d8e6dd8475e",
+          "ckey": "823742392c1761358b7de29670ed9e69",
+          "file_data_id": 136938,
+          "path": "interface/talentframe/rogueassassination-topleft.blp",
+          "png_sha256": "50bc398d137fd206f1b7d0847f1dee84ab0bfff56f33c1874ccf7a2cf25db033"
+        },
+        {
+          "blp_sha256": "9cc8b9546c349601cb5cdb3eb6f984770652553c0c97c8bb147a0e72d49a978e",
+          "ckey": "205b8041b295258eb890b1d49f26e80d",
+          "file_data_id": 136939,
+          "path": "interface/talentframe/rogueassassination-topright.blp",
+          "png_sha256": "70daf02de454e19ced983c9b3c4dfc4253f152ad95fcecf4032895da9f7d4663"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        299,
+        331
+      ],
+      "width": 299
+    },
+    "RogueCombat": {
+      "file": "RogueCombat-da414fa93056.webp",
+      "height": 331,
+      "sha256": "da414fa9305642942263fde02d99e6c09e2340d142dac4ccc4d8ec027950ceee",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "fdf18196f6ab3d53484adca5bf2d74f085ee0ad49dbaac231ea36285c18a874f",
+          "ckey": "24d2b0d933f2a69929fbe8eed4ae28d4",
+          "file_data_id": 136940,
+          "path": "interface/talentframe/roguecombat-bottomleft.blp",
+          "png_sha256": "aacddca0e7b799db2c4d6153d61f7773664af64eb7685587f75fe6bc00ad71f0"
+        },
+        {
+          "blp_sha256": "c1da30b7ef85f923489422d039130280a7020055275053e76eea61d1487635af",
+          "ckey": "148c3d0884834954932e5d0b8e49c210",
+          "file_data_id": 136941,
+          "path": "interface/talentframe/roguecombat-bottomright.blp",
+          "png_sha256": "3b74736af3d2ea3f39bd796aedd67106c286316ad1643623d047f87802cc4022"
+        },
+        {
+          "blp_sha256": "b5aa8125298afcc8a0ef14420149e409c2e771c2bcfc890f6221b47185bf9e19",
+          "ckey": "8de17031f71572de5a2ca43c508f0975",
+          "file_data_id": 136942,
+          "path": "interface/talentframe/roguecombat-topleft.blp",
+          "png_sha256": "c7b2cc77cf26c737d1d3932571c3480500cd0eadcf1433430de35f95bd912325"
+        },
+        {
+          "blp_sha256": "d8b709f4fefc2ec7fd804694379e2ebe6a2cc4186d2ca0a3611973c12c1c33d2",
+          "ckey": "8069b20606bd478369d0d537b52610e2",
+          "file_data_id": 136943,
+          "path": "interface/talentframe/roguecombat-topright.blp",
+          "png_sha256": "77926bfb189b0a4e7d02d70a28bb88c244d31ca614b20cdaf6de2cee8d347b11"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "RogueSubtlety": {
+      "file": "RogueSubtlety-c10adbd0b294.webp",
+      "height": 331,
+      "sha256": "c10adbd0b2942da7ae689086a1f43c817c6480af4f328659c83bff60cd86364d",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "b73ff9914357344b3e4bd4816d9733bf9de429b9b61b1ff3e37cbcf98087282f",
+          "ckey": "ec221a57c2a55c4f578c6d0b73293a25",
+          "file_data_id": 136944,
+          "path": "interface/talentframe/roguesubtlety-bottomleft.blp",
+          "png_sha256": "4c824b002612805f949a0e27f8e4193d181a8b810c82430b45f93b67a5e5568b"
+        },
+        {
+          "blp_sha256": "5bee3afbf77822805371b89877d9a2f8c2d8e27f15aaa51633dbbae616ae23b2",
+          "ckey": "8b477e06492caa9736a16fa5d7c0de3a",
+          "file_data_id": 136945,
+          "path": "interface/talentframe/roguesubtlety-bottomright.blp",
+          "png_sha256": "ad8b3a2314c8710f9448ff10b0080f327acba4111e4cdea2307a6d31cb4711a3"
+        },
+        {
+          "blp_sha256": "ecf11933b4dcfee19fe7c7efac84867ad80f057259dd373a5be6319ae2ca2a7c",
+          "ckey": "f33a9892dfc75430396f3acda63f30e4",
+          "file_data_id": 136946,
+          "path": "interface/talentframe/roguesubtlety-topleft.blp",
+          "png_sha256": "21ff4226ccdb58984d97bc4c72e408dd8966f8df857db93253ffa7a6d72c0a16"
+        },
+        {
+          "blp_sha256": "f240c52259e4d13e5c2f21001f55c45fdcf4becef37b243e466ae4834d47729f",
+          "ckey": "9a08a6b16c8c8f2bb1cf16e64e04077f",
+          "file_data_id": 136947,
+          "path": "interface/talentframe/roguesubtlety-topright.blp",
+          "png_sha256": "9e0e01bb6a5ed8564cde24d9ef915478ff87534b10297d80511f011c711ae4c3"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "ShamanElementalCombat": {
+      "file": "ShamanElementalCombat-38216a9ff9ca.webp",
+      "height": 331,
+      "sha256": "38216a9ff9cae0e7d61255c2fea02588c33437093e5af6e501e28e1e9f1515cd",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "419a550fe5bc3312128cbaa1a19719356268333a89a6fee8a1e481eb7dea5094",
+          "ckey": "ac4a2ce86ed73046c937832d6c386bb9",
+          "file_data_id": 136948,
+          "path": "interface/talentframe/shamanelementalcombat-bottomleft.blp",
+          "png_sha256": "d3eda62c4f428ff63cc2d7e6fe770fa6a8fecd5b351e3981b293e584d0bcef74"
+        },
+        {
+          "blp_sha256": "9085e369461ebcd465052e9e2d42af5ecfc3dca44c89f82af327e536e7248f9a",
+          "ckey": "4c9dca6b4236bb3850bdf02e15fe4fa3",
+          "file_data_id": 136949,
+          "path": "interface/talentframe/shamanelementalcombat-bottomright.blp",
+          "png_sha256": "02308b9a2ceedcb0d011f717ca695246e54f1ed6f2ffac9f98a65c7dc4fb3ffb"
+        },
+        {
+          "blp_sha256": "2b01a856cb92e61914acb28a9c45746bcfe89c00697190d925432353a5a0e9d3",
+          "ckey": "bbf7f55ff14f0daed5805b866011ea83",
+          "file_data_id": 136950,
+          "path": "interface/talentframe/shamanelementalcombat-topleft.blp",
+          "png_sha256": "bb69751b6759ca21ecf02f0b7d428c53f54beb290bfdc6f6e55ad3108e6c80dc"
+        },
+        {
+          "blp_sha256": "d0efde6fcd32a3deff967197c7a8f3f6e9f717968e29614c29caea61fc8613dd",
+          "ckey": "1e33a975ab115857c89d62bd491056a8",
+          "file_data_id": 136951,
+          "path": "interface/talentframe/shamanelementalcombat-topright.blp",
+          "png_sha256": "76cc8d1fe12ca2b14b8b149de750c9ebbcd0f69c604d563505dd1fe06010260a"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "ShamanEnhancement": {
+      "file": "ShamanEnhancement-0ec7aefbb01c.webp",
+      "height": 331,
+      "sha256": "0ec7aefbb01c14edc264e20707193ae91f1f146db390d4faf9c6450956f91ad5",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "e634e036c552aa8bb26786302ef8a58fb9ccd6dcf32ee27ae4b398f62b7d74b3",
+          "ckey": "42bae0d73363fb150333cad0cb200587",
+          "file_data_id": 136952,
+          "path": "interface/talentframe/shamanenhancement-bottomleft.blp",
+          "png_sha256": "5f76115f18949f43a6ef9b90cc2dc44fa363794f73ab9f97664fb571c0107dc4"
+        },
+        {
+          "blp_sha256": "7f63aea637ca8a17473884b2c7669098052068cf7fb89cbf920eca22b5e7550d",
+          "ckey": "cf63a76dad4d78bad5bf98b955166a00",
+          "file_data_id": 136953,
+          "path": "interface/talentframe/shamanenhancement-bottomright.blp",
+          "png_sha256": "1345c0146bec23bd4e82d1bb0dc227acbba6c6a25fed027c779c719c5b480dcc"
+        },
+        {
+          "blp_sha256": "cda0e8787832ce63cc1b05f1e99bc05c050733b805a4908cf287e527c5aa7b60",
+          "ckey": "0129a952870bdf652b6973bec5e9b923",
+          "file_data_id": 136954,
+          "path": "interface/talentframe/shamanenhancement-topleft.blp",
+          "png_sha256": "0e258697726a2519140caa6a2282ff9fe50b5bf9e4118050b8e40fcf13b2d81a"
+        },
+        {
+          "blp_sha256": "c1f215c8850e54cd49df36f2f4c91da72a099d52335a44f106d6860d4e7638e9",
+          "ckey": "37556f6e4b0e519d9a937172b4f2c0b0",
+          "file_data_id": 136955,
+          "path": "interface/talentframe/shamanenhancement-topright.blp",
+          "png_sha256": "71cb16e9005eb6276df3c4496ab822294134e6813348630a1119d535bb7d50cc"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "ShamanRestoration": {
+      "file": "ShamanRestoration-8d76b03fcea2.webp",
+      "height": 331,
+      "sha256": "8d76b03fcea27811486dabfc7396e1b52a622d3b36b4b7ea43cad1fd05e9cd5b",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "da1ae951e06bc67579c2c0dd8b8dbc171f61b79463a0cb186a6feb019118565a",
+          "ckey": "02e3eefbb95a42a7e6bb3fe4e3046220",
+          "file_data_id": 136956,
+          "path": "interface/talentframe/shamanrestoration-bottomleft.blp",
+          "png_sha256": "372bac5a1c10bf10e4a0a651838bbfc47b702748b6a3d1f8139ef62e1c7c7d38"
+        },
+        {
+          "blp_sha256": "4022af56ccc4852a64a3e87c3e07ea8cb7d73ae3c2b6aa7ba884444611637e7c",
+          "ckey": "e91bd50ddb8a90aaa92b481311066e8d",
+          "file_data_id": 136957,
+          "path": "interface/talentframe/shamanrestoration-bottomright.blp",
+          "png_sha256": "58639426e0a232de4bd73afd08e064f21e323722ae205d134b93fc20deab0d25"
+        },
+        {
+          "blp_sha256": "9dc0d4a6fc078370e9a75b30e12c868493c1caf2b65dbebabc03898bc04bada9",
+          "ckey": "1dd0cbdd8a5f78d741f574d00ba3a06e",
+          "file_data_id": 136958,
+          "path": "interface/talentframe/shamanrestoration-topleft.blp",
+          "png_sha256": "5a57afa17b817eb3ee394912ca0fc504c2c6d14167546a9dee5aa46986956308"
+        },
+        {
+          "blp_sha256": "5e48a97769fd875fa8b0a690e8daadd13059864f51fabbcdc8599669c542bcd0",
+          "ckey": "8f3a7a8427ad07194600c6f6707fa639",
+          "file_data_id": 136959,
+          "path": "interface/talentframe/shamanrestoration-topright.blp",
+          "png_sha256": "957d6d1b7d37780212e7f4f6d72a7bbd6129060e6c01b6d379cf6d77616266a8"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "WarlockCurses": {
+      "file": "WarlockCurses-aab44e941beb.webp",
+      "height": 331,
+      "sha256": "aab44e941beb8eafe10733a63b11a281403c88d9bf80a78b93d48d6ecf34d354",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "065915d34173fa4e5d75031a741d21ba9a7289236f9ddd6c931c7c653680ee87",
+          "ckey": "5284498a091aa49c66e42719d8927cca",
+          "file_data_id": 136965,
+          "path": "interface/talentframe/warlockcurses-bottomleft.blp",
+          "png_sha256": "215cbd0fe92db382c9651ef3ca18b1ed9e11553f7b7cba75f016d22158308cfb"
+        },
+        {
+          "blp_sha256": "0a8194b33a8808296d2566f16bdacb1edc2d626caa9e4ab85329c0eb50e7c25c",
+          "ckey": "164a7f022ea8d48729b8f1c40b096753",
+          "file_data_id": 136966,
+          "path": "interface/talentframe/warlockcurses-bottomright.blp",
+          "png_sha256": "20cbe79653b624293ace95d0c900082bb1a2068a78ac416958075f715f30e76f"
+        },
+        {
+          "blp_sha256": "dfc2ea02d8f034d3ca660b23bed7769e02f5bd82d13c7b16d540987699846bdb",
+          "ckey": "1b0128966e1c19c0ed8e5aed570e34ca",
+          "file_data_id": 136967,
+          "path": "interface/talentframe/warlockcurses-topleft.blp",
+          "png_sha256": "3644d9e1f4d6f6a015c2c9e0f6b5ae6312827cc85f0530bff1b66df764e454f7"
+        },
+        {
+          "blp_sha256": "ddeb5f1e2e4f786c378c13c4b1adc395c9feb9799396fa9b100c4c1ce2ad2791",
+          "ckey": "3de38f89d858fa3ecc4a63854eac04be",
+          "file_data_id": 136968,
+          "path": "interface/talentframe/warlockcurses-topright.blp",
+          "png_sha256": "df96056773c01fc0d05946581e915390f107bb64b5527bac03c2b0bf36686b50"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "WarlockDestruction": {
+      "file": "WarlockDestruction-6a13c77d84a2.webp",
+      "height": 331,
+      "sha256": "6a13c77d84a24e174c6405b00a7b9190cd6365217a89efda0e60b30bf6c835e5",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "a53db05c42a5aa3ee3ec2a076259abbe5b59dcc148b7fb2652922fe88939e98a",
+          "ckey": "59e0dfc71984ee5d0ce47e42672cb02c",
+          "file_data_id": 136969,
+          "path": "interface/talentframe/warlockdestruction-bottomleft.blp",
+          "png_sha256": "7cbec3da734ded942fc42eac6c9d0fc27bf2458ae03fb056d7405bc26f840a36"
+        },
+        {
+          "blp_sha256": "730479921feaa1da4b30d3ae1b05c8445ce3e5316489ca04f8618e4b2121f451",
+          "ckey": "9aa5cccc460b99faa2d6003e9af82b58",
+          "file_data_id": 136970,
+          "path": "interface/talentframe/warlockdestruction-bottomright.blp",
+          "png_sha256": "9545bf27d7fed9818a6387c93bd8693d59caba722d79e7e147560d52e54bc642"
+        },
+        {
+          "blp_sha256": "f00b08155c5f502a5fc3526129e23a124447abfc4babb1ddbe1ccdfe49709dd4",
+          "ckey": "8bdef6499fc3a6ae5955ae4811ddcdd8",
+          "file_data_id": 136971,
+          "path": "interface/talentframe/warlockdestruction-topleft.blp",
+          "png_sha256": "0bd6610d7f47452c3de319d462303f28da18e1ea80bc0af774c41f14d28037d9"
+        },
+        {
+          "blp_sha256": "c0e002ec625a9d48cfb42c83c6bcca8a4d99a199c8a6eccbbb43354380e3406a",
+          "ckey": "dcf89bfa013b3b042deae7b693098b97",
+          "file_data_id": 136972,
+          "path": "interface/talentframe/warlockdestruction-topright.blp",
+          "png_sha256": "1fbb6b75badc943dc95925754e78094a1d31b02ebf7e8ce0e82282285ca6b878"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "WarlockSummoning": {
+      "file": "WarlockSummoning-0c9faed1f546.webp",
+      "height": 331,
+      "sha256": "0c9faed1f54614a4faa19eaf4d248818a64b7da3594285d485e5178daba83bcf",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "67a8d5568c157c5a4124dbd1ac0c334eaf9ee8cc4dd38d45962c000b501cb04d",
+          "ckey": "b12235bbac40fee97f3f6ac420d040da",
+          "file_data_id": 136973,
+          "path": "interface/talentframe/warlocksummoning-bottomleft.blp",
+          "png_sha256": "3c9456d0bfed8100904a0ebdf1a85ad8dc341386e71ac8378d3733bff6d95971"
+        },
+        {
+          "blp_sha256": "854c94ccfb7b35345b6f74888a75ec308067a1dc770bbd3c40db6be65309de6c",
+          "ckey": "2e601143bb945b43ef54be9ae86e4683",
+          "file_data_id": 136974,
+          "path": "interface/talentframe/warlocksummoning-bottomright.blp",
+          "png_sha256": "32153b3000c7789a9bf37e5dc903852028f1e910fe7f897ae13cde1b4bee97e0"
+        },
+        {
+          "blp_sha256": "780fe6272e357bc56e05019327314b41fd43913fa85be483a9eaa2f21bff0b32",
+          "ckey": "9e3c08fc6736983e2afb3491c117ebef",
+          "file_data_id": 136975,
+          "path": "interface/talentframe/warlocksummoning-topleft.blp",
+          "png_sha256": "d79dd0b0250046a4b7184ce8a51a2d4fc570e148229648e06699c449c78d36fa"
+        },
+        {
+          "blp_sha256": "19e00024e8583757fbfa4d9c59a7a5024e4a70b43f5b89c2d46c7de64aa7fffe",
+          "ckey": "38fde732e5677249c5473b06f6ef7d93",
+          "file_data_id": 136976,
+          "path": "interface/talentframe/warlocksummoning-topright.blp",
+          "png_sha256": "0fd4a1e8c137e8e288f6ddf653ce9760d36bbed550c7ebdb89b9fbc85ce00354"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "WarriorArms": {
+      "file": "WarriorArms-ecd27a1bcdd4.webp",
+      "height": 331,
+      "sha256": "ecd27a1bcdd4e33597e457ffd955fcb23333c98c1424d144aaccd38a4c2d018f",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "15602c4fa4a51cd8c91b809126e594f35df1763e007754bf42454b99f3440b56",
+          "ckey": "1e8addd53aeadfabab4236537084d9bf",
+          "file_data_id": 136981,
+          "path": "interface/talentframe/warriorarms-bottomleft.blp",
+          "png_sha256": "bbb253a62b27facaf629b8e9ed393aad78729be6dfa35005695dcd79ab45ac37"
+        },
+        {
+          "blp_sha256": "cbabd69666fc4b0da7ea57ef342fca6e299a2e70443d851d56ac02bdfacf840f",
+          "ckey": "7b0c86c2b17dc7fd258f3898f3e66e3c",
+          "file_data_id": 136982,
+          "path": "interface/talentframe/warriorarms-bottomright.blp",
+          "png_sha256": "c2f846a8bcf0863bb2311901f6fb0477ab7e498f3eeb00c0d15f464d622fa512"
+        },
+        {
+          "blp_sha256": "d363594b3cd083cd2f2aabf4cad5b7831e4e68c2878b098547b8800862fc3698",
+          "ckey": "304e987c4daefd0b9f9d92e4c68afb56",
+          "file_data_id": 136983,
+          "path": "interface/talentframe/warriorarms-topleft.blp",
+          "png_sha256": "2cd9371a8bd11b11536ea036a54f2b4e24d063073778e6a319b24d29405da555"
+        },
+        {
+          "blp_sha256": "17f98bdf2124bd508abe89168437ba8514affc5d942c2ec9500fb0571b99bc8c",
+          "ckey": "8d0ff95a5187b29c35c5d6d209f10fd4",
+          "file_data_id": 136984,
+          "path": "interface/talentframe/warriorarms-topright.blp",
+          "png_sha256": "cf47a2a3ef7abc418e96d9ff769d52da6278f9512c3cc5ca98e9cd72addbde60"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "WarriorFury": {
+      "file": "WarriorFury-d548cbb95612.webp",
+      "height": 331,
+      "sha256": "d548cbb956129a68b6cf7e6824864b17a84d2389776017b1cefaf8d219466917",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "21c393cb8c592c05a238fabac28ccdb59dd85b1655298edc64e2ff645634c0f9",
+          "ckey": "cdcb36c7f77df992f515dd04763e8dea",
+          "file_data_id": 136985,
+          "path": "interface/talentframe/warriorfury-bottomleft.blp",
+          "png_sha256": "e0dbd29b97aa78ea10b870b5b834fb7a0c8e89cbb78360d9638322a46774d01a"
+        },
+        {
+          "blp_sha256": "d01d93a5a9bee42479cab289c6b1cab8b9eaaa58f16b6f5110d7a0c7dc3f21c1",
+          "ckey": "da587242a745318ba5b8391a49f0734b",
+          "file_data_id": 136986,
+          "path": "interface/talentframe/warriorfury-bottomright.blp",
+          "png_sha256": "3915ae468714b19df6becd52b4d718b9305de54a09b71f6ff0470b4564d07303"
+        },
+        {
+          "blp_sha256": "50d81e31bc505a407ed797512a53ab1f1a6d07da64b9f9b54b5f1e3d496e9d40",
+          "ckey": "1d48587f657db89b25e36fb20afc0f20",
+          "file_data_id": 136987,
+          "path": "interface/talentframe/warriorfury-topleft.blp",
+          "png_sha256": "a199a2266f772f7fb3b3be0f689ba948c12a7b7d4863001615dc44181a19f91f"
+        },
+        {
+          "blp_sha256": "e172e64ff8f136efa55a92e95f7e37f1c8f7eb8019ec3b778bac25b7c9fa31b4",
+          "ckey": "4406e09037caa7f54d92f6a3939ae715",
+          "file_data_id": 136988,
+          "path": "interface/talentframe/warriorfury-topright.blp",
+          "png_sha256": "47be8a590715d829840f9565a35c8f58f3f43f178fe78e129fb685467d599cce"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    },
+    "WarriorProtection": {
+      "file": "WarriorProtection-f83d229a02dc.webp",
+      "height": 331,
+      "sha256": "f83d229a02dc86c34a5a3cd09f8beafb683ee58e67332eea7c8d021ed8591951",
+      "texture_canvas": [
+        320,
+        384
+      ],
+      "textures": [
+        {
+          "blp_sha256": "b578392da3e31899816148a3bbd572a9e595f553769e05b4c7a112edfc740d13",
+          "ckey": "5326b57716a2a0dd442fe04ef8145049",
+          "file_data_id": 136989,
+          "path": "interface/talentframe/warriorprotection-bottomleft.blp",
+          "png_sha256": "497dff569f1441cf3f41eb3d6b4244ff9f256dcc1fea99e0a9a0e0e1938bf2f6"
+        },
+        {
+          "blp_sha256": "0206e787366675c5b623e3f4683e289d5b8d2f06687ea4cad6ab1e7c9d710d88",
+          "ckey": "7d93f058d8807eaade4ab7afd8b8495f",
+          "file_data_id": 136990,
+          "path": "interface/talentframe/warriorprotection-bottomright.blp",
+          "png_sha256": "72511e86507b8286460b265ad2e2163550994c24447049a0723de1d03dd3062c"
+        },
+        {
+          "blp_sha256": "5b9ddd0caa5989caa7abd49a21fbae7902fd8bcf7e678fa4c40679daf420ac1c",
+          "ckey": "220cea664e27f6240a6c816d8ad517de",
+          "file_data_id": 136991,
+          "path": "interface/talentframe/warriorprotection-topleft.blp",
+          "png_sha256": "beb4788492b6937bf4e44786275119529c02e94a81d50ac1714a6380a1a04f21"
+        },
+        {
+          "blp_sha256": "b621fca50faac48185b4be6b010106c7b2821d7a8df2edade781bc32d2381857",
+          "ckey": "fdabbf5903539d288707acb6ad2279ba",
+          "file_data_id": 136992,
+          "path": "interface/talentframe/warriorprotection-topright.blp",
+          "png_sha256": "9eed75f5a376467cb57c9c7e6c600ed28be95f42e70a034ea94255cf0474ebd5"
+        }
+      ],
+      "visible_bounds": [
+        0,
+        0,
+        300,
+        331
+      ],
+      "width": 300
+    }
+  },
+  "build": 64001,
+  "build_config": "0235b4ee52069842f4b984f19e682112",
+  "filename_source": {
+    "bytes": 73597820,
+    "sha256": "6fff680219ff0826d9e8f164a9508e1ec312e493d92659e446281f8bcd270102",
+    "source": "https://github.com/wowdev/wow-listfile/releases/download/202610270123/verified-listfile.csv"
+  },
+  "schema": 1,
+  "source": "native-client-talentframe"
+}
