@@ -130,8 +130,10 @@ def main() -> None:
                  'bytes': sum(v['bytes'] for v in records.values())}
     (state / 'inventory.json').write_text(json.dumps(inventory, separators=(',', ':')) + '\n')
     published = repo / 'publication.json'
+    previous_files = {}
     if published.exists():
         previous = json.loads(published.read_text())
+        previous_files = previous['files']
         if previous['files'] == records and previous['model_release'] == release:
             print(json.dumps({'complete': True, 'unchanged': True, 'commit': local, 'files': len(records)}), flush=True)
             return
@@ -153,6 +155,10 @@ def main() -> None:
             print(json.dumps({'pushed': len(changed), 'commit': git('rev-parse', 'HEAD', text=True).strip()}), flush=True)
 
     for name, item in sorted(records.items()):
+        # Every source was checked above. Only the difference from the last complete publication needs staging;
+        # after an interrupted batch these same paths are safe to stage again, including already pushed files.
+        if previous_files.get(name) == item:
+            continue
         if batch and size + item['bytes'] > BATCH_BYTES:
             publish_batch()
             batch, size = [], 0

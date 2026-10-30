@@ -14,6 +14,10 @@ Los archivos se preparan y suben desde el dedicado. No se utiliza GitHub Actions
 ni Git LFS. `tools/publish.py` actualiza esta copia desde los directorios públicos
 instalados, comprueba sus archivos y divide la subida en lotes. Si se interrumpe,
 volver a ejecutar el mismo comando continúa la subida de los archivos conservados.
+Cada ejecución verifica el catálogo completo, pero sólo añade al índice de Git
+los archivos nuevos o modificados desde la última publicación completa. Un lote
+ya subido antes de una interrupción se reconcilia al reanudar; el manifiesto final
+sigue publicándose después de todos sus recursos.
 
 La entrega web debe fijar un commit completo de este repositorio. El mismo árbol
 puede servirse desde GitHub, un servidor de media propio o el servidor principal.
