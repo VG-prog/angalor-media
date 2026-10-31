@@ -87480,6 +87480,2291 @@
    },
    "file": "260.webp",
    "sha256": "6e7b38378b3f0271ae54212efba8738fbabd8fb70316067a24cf2bb1305fcf27"
+  },
+  "340": {
+   "ui_map": 340,
+   "name": "Black Temple",
+   "parent": 339,
+   "type": 4,
+   "width": 1002,
+   "height": 668,
+   "tiles": [],
+   "overlays": [],
+   "interior": {
+    "bounds": [
+     -240.0,
+     594.8330078125,
+     23.87053871154785,
+     1276.1201171875
+    ],
+    "wmos": [
+     {
+      "root": 4673,
+      "position": [
+       17300.29296875,
+       16014.6640625,
+       -178.43394470214844
+      ],
+      "rotation": [
+       0.0,
+       269.65313720703125,
+       0.0
+      ],
+      "scale": 1.0,
+      "groups": [
+       {
+        "group": 22363,
+        "index": 28,
+        "box": [
+         -83.04130554199219,
+         -410.5308837890625,
+         23.204898834228516,
+         16.522497177124023,
+         -116.69904327392578,
+         142.5041046142578
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211937
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211938
+         },
+         {
+          "x": 0,
+          "y": 2,
+          "file_data_id": 211939
+         }
+        ]
+       },
+       {
+        "group": 22364,
+        "index": 25,
+        "box": [
+         -91.21571350097656,
+         -588.6968994140625,
+         105.21544647216797,
+         73.0583724975586,
+         -391.1662292480469,
+         235.4978485107422
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211926
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211928
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211927
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211929
+         }
+        ]
+       },
+       {
+        "group": 22365,
+        "index": 29,
+        "box": [
+         -411.0660400390625,
+         -528.3748168945312,
+         115.77530670166016,
+         -91.16014862060547,
+         -431.9281921386719,
+         261.38311767578125
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211940
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211941
+         },
+         {
+          "x": 2,
+          "y": 0,
+          "file_data_id": 211942
+         }
+        ]
+       },
+       {
+        "group": 22367,
+        "index": 35,
+        "box": [
+         -29.17316436767578,
+         -127.39125061035156,
+         -6.0070319175720215,
+         28.04161262512207,
+         11.374398231506348,
+         56.486759185791016
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211948
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211949
+         }
+        ]
+       },
+       {
+        "group": 22368,
+        "index": 27,
+        "box": [
+         -391.9718933105469,
+         -752.6348266601562,
+         189.7593994140625,
+         -28.641698837280273,
+         -588.1414794921875,
+         318.66412353515625
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211931
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211933
+         },
+         {
+          "x": 2,
+          "y": 0,
+          "file_data_id": 211935
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211932
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211934
+         },
+         {
+          "x": 2,
+          "y": 1,
+          "file_data_id": 211936
+         }
+        ]
+       },
+       {
+        "group": 22369,
+        "index": 26,
+        "box": [
+         -274.3381652832031,
+         -623.090087890625,
+         152.0517120361328,
+         -195.01419067382812,
+         -524.3099975585938,
+         250.64694213867188
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211930
+         }
+        ]
+       },
+       {
+        "group": 22500,
+        "index": 45,
+        "box": [
+         -130.89808654785156,
+         -782.5223388671875,
+         225.66867065429688,
+         -104.27848815917969,
+         -739.5877075195312,
+         254.9011993408203
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211956
+         }
+        ]
+       }
+      ],
+      "model": "FILE0001A8A9.xxx",
+      "model_sha256": "c3773e1389c8ab33feb48a3104d20d1fdc3dad51aa35f83d7f8f360a399de7fe",
+      "exteriors": [
+       {
+        "group": 22366,
+        "index": 24,
+        "box": [
+         -52.922630310058594,
+         9.902471542358398,
+         -21.407930374145508,
+         34.70835876464844,
+         27.45787811279297,
+         39.887367248535156
+        ]
+       }
+      ]
+     }
+    ],
+    "terrain": {
+     "whole": false,
+     "tiles": [
+      {
+       "row": 30,
+       "col": 29,
+       "file_data_id": 204932
+      },
+      {
+       "row": 30,
+       "col": 30,
+       "file_data_id": 204943
+      },
+      {
+       "row": 30,
+       "col": 31,
+       "file_data_id": 204954
+      },
+      {
+       "row": 31,
+       "col": 29,
+       "file_data_id": 204933
+      },
+      {
+       "row": 31,
+       "col": 30,
+       "file_data_id": 204944
+      },
+      {
+       "row": 31,
+       "col": 31,
+       "file_data_id": 204955
+      },
+      {
+       "row": 32,
+       "col": 29,
+       "file_data_id": 204934
+      },
+      {
+       "row": 32,
+       "col": 30,
+       "file_data_id": 204945
+      },
+      {
+       "row": 32,
+       "col": 31,
+       "file_data_id": 204956
+      }
+     ]
+    }
+   },
+   "assignments": [
+    {
+     "ID": 42029,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": -240.0,
+     "Region1Y": 23.87053871154785,
+     "Region1Z": -10000.0,
+     "Region2X": 594.8330078125,
+     "Region2Y": 1276.1201171875,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 0,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22363
+    },
+    {
+     "ID": 42030,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": -240.0,
+     "Region1Y": 23.87053871154785,
+     "Region1Z": -10000.0,
+     "Region2X": 594.8330078125,
+     "Region2Y": 1276.1201171875,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 1,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22364
+    },
+    {
+     "ID": 42031,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": -240.0,
+     "Region1Y": 23.87053871154785,
+     "Region1Z": -10000.0,
+     "Region2X": 594.8330078125,
+     "Region2Y": 1276.1201171875,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 2,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22365
+    },
+    {
+     "ID": 42032,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": -240.0,
+     "Region1Y": 23.87053871154785,
+     "Region1Z": -10000.0,
+     "Region2X": 594.8330078125,
+     "Region2Y": 1276.1201171875,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 3,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22366
+    },
+    {
+     "ID": 42033,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": -240.0,
+     "Region1Y": 23.87053871154785,
+     "Region1Z": -10000.0,
+     "Region2X": 594.8330078125,
+     "Region2Y": 1276.1201171875,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 4,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22367
+    },
+    {
+     "ID": 42034,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": -240.0,
+     "Region1Y": 23.87053871154785,
+     "Region1Z": -10000.0,
+     "Region2X": 594.8330078125,
+     "Region2Y": 1276.1201171875,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 5,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22368
+    },
+    {
+     "ID": 42035,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": -240.0,
+     "Region1Y": 23.87053871154785,
+     "Region1Z": -10000.0,
+     "Region2X": 594.8330078125,
+     "Region2Y": 1276.1201171875,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 6,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22369
+    },
+    {
+     "ID": 42036,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": -240.0,
+     "Region1Y": 23.87053871154785,
+     "Region1Z": -10000.0,
+     "Region2X": 594.8330078125,
+     "Region2Y": 1276.1201171875,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 7,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22500
+    }
+   ],
+   "areas": [
+    3959
+   ],
+   "artwork_source": {
+    "client_version": "3.4.5.63697",
+    "interior_map": 564,
+    "partition_version": "4.4.2.60895"
+   },
+   "file": "340.webp",
+   "sha256": "41043f6e0c3668d3ad79b22910b44aa6bfb1d4d44f143ee4833681197ad00655"
+  },
+  "341": {
+   "ui_map": 341,
+   "name": "Black Temple",
+   "parent": 339,
+   "type": 4,
+   "width": 1002,
+   "height": 668,
+   "tiles": [],
+   "overlays": [],
+   "interior": {
+    "bounds": [
+     380.0,
+     1030.0,
+     -176.0,
+     799.0
+    ],
+    "wmos": [
+     {
+      "root": 4673,
+      "position": [
+       17300.29296875,
+       16014.6640625,
+       -178.43394470214844
+      ],
+      "rotation": [
+       0.0,
+       269.65313720703125,
+       0.0
+      ],
+      "scale": 1.0,
+      "groups": [
+       {
+        "group": 21697,
+        "index": 17,
+        "box": [
+         -865.2000122070312,
+         -1093.40087890625,
+         290.38763427734375,
+         -572.3082885742188,
+         -799.96435546875,
+         437.74346923828125
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211907
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211910
+         },
+         {
+          "x": 2,
+          "y": 0,
+          "file_data_id": 211913
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211908
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211911
+         },
+         {
+          "x": 2,
+          "y": 1,
+          "file_data_id": 211914
+         },
+         {
+          "x": 0,
+          "y": 2,
+          "file_data_id": 211909
+         },
+         {
+          "x": 1,
+          "y": 2,
+          "file_data_id": 211912
+         },
+         {
+          "x": 2,
+          "y": 2,
+          "file_data_id": 211915
+         }
+        ]
+       },
+       {
+        "group": 21700,
+        "index": 22,
+        "box": [
+         -720.8507080078125,
+         -1206.3126220703125,
+         290.2315979003906,
+         -575.6316528320312,
+         -1093.34521484375,
+         335.900146484375
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211920
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211921
+         }
+        ]
+       },
+       {
+        "group": 21701,
+        "index": 15,
+        "box": [
+         -534.441650390625,
+         -1178.7613525390625,
+         317.6805725097656,
+         -476.9328918457031,
+         -1123.7222900390625,
+         344.5690612792969
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211902
+         }
+        ]
+       },
+       {
+        "group": 22071,
+        "index": 10,
+        "box": [
+         -903.2442626953125,
+         -850.5007934570312,
+         289.4544982910156,
+         -861.1967163085938,
+         -825.6173095703125,
+         344.5980529785156
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211890
+         }
+        ]
+       },
+       {
+        "group": 22072,
+        "index": 14,
+        "box": [
+         -895.1300048828125,
+         -778.6163330078125,
+         342.3876037597656,
+         -812.2083740234375,
+         -659.3682861328125,
+         371.2546691894531
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211901
+         }
+        ]
+       },
+       {
+        "group": 22340,
+        "index": 16,
+        "box": [
+         -735.0744018554688,
+         -801.562744140625,
+         291.1222229003906,
+         -558.1429443359375,
+         -640.8021240234375,
+         353.2918701171875
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211903
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211905
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211904
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211906
+         }
+        ]
+       },
+       {
+        "group": 22360,
+        "index": 20,
+        "box": [
+         -575.6871948242188,
+         -1169.2969970703125,
+         289.6542053222656,
+         -534.3861083984375,
+         -1140.4671630859375,
+         344.5667724609375
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211918
+         }
+        ]
+       },
+       {
+        "group": 22427,
+        "index": 32,
+        "box": [
+         -958.735107421875,
+         -857.993896484375,
+         317.7104187011719,
+         -903.188720703125,
+         -816.7552490234375,
+         371.1230163574219
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211945
+         }
+        ]
+       },
+       {
+        "group": 22428,
+        "index": 33,
+        "box": [
+         -948.4842529296875,
+         -816.810791015625,
+         316.00390625,
+         -923.5968017578125,
+         -779.5436401367188,
+         371.1230163574219
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211946
+         }
+        ]
+       },
+       {
+        "group": 22442,
+        "index": 36,
+        "box": [
+         -961.744873046875,
+         -779.5991821289062,
+         339.8152770996094,
+         -895.074462890625,
+         -665.7772216796875,
+         371.58905029296875
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211950
+         }
+        ]
+       },
+       {
+        "group": 22496,
+        "index": 41,
+        "box": [
+         -558.6447143554688,
+         -999.6873779296875,
+         291.0341491699219,
+         -506.3113708496094,
+         -881.0437622070312,
+         365.1692810058594
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211952
+         }
+        ]
+       },
+       {
+        "group": 22499,
+        "index": 44,
+        "box": [
+         -572.9446411132812,
+         -969.8836669921875,
+         291.049560546875,
+         -542.3306884765625,
+         -912.8737182617188,
+         358.83319091796875
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211955
+         }
+        ]
+       }
+      ],
+      "model": "FILE0001A8A9.xxx",
+      "model_sha256": "c3773e1389c8ab33feb48a3104d20d1fdc3dad51aa35f83d7f8f360a399de7fe",
+      "exteriors": [
+       {
+        "group": 22355,
+        "index": 3,
+        "box": [
+         -517.252197265625,
+         -1331.15771484375,
+         243.89479064941406,
+         -385.60736083984375,
+         -518.8665771484375,
+         539.826416015625
+        ]
+       }
+      ]
+     }
+    ],
+    "terrain": {
+     "whole": false,
+     "tiles": [
+      {
+       "row": 30,
+       "col": 30,
+       "file_data_id": 204943
+      },
+      {
+       "row": 30,
+       "col": 31,
+       "file_data_id": 204954
+      },
+      {
+       "row": 30,
+       "col": 32,
+       "file_data_id": 204960
+      },
+      {
+       "row": 31,
+       "col": 30,
+       "file_data_id": 204944
+      },
+      {
+       "row": 31,
+       "col": 31,
+       "file_data_id": 204955
+      },
+      {
+       "row": 31,
+       "col": 32,
+       "file_data_id": 204961
+      }
+     ]
+    }
+   },
+   "assignments": [
+    {
+     "ID": 42037,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 0,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 21697
+    },
+    {
+     "ID": 42038,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 1,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 21700
+    },
+    {
+     "ID": 42039,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 2,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 21701
+    },
+    {
+     "ID": 42040,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 3,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22071
+    },
+    {
+     "ID": 42041,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 4,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22072
+    },
+    {
+     "ID": 42042,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 5,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22340
+    },
+    {
+     "ID": 42043,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 6,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22355
+    },
+    {
+     "ID": 42044,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 7,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22360
+    },
+    {
+     "ID": 42045,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 8,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22427
+    },
+    {
+     "ID": 42046,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 9,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22428
+    },
+    {
+     "ID": 42047,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 10,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22442
+    },
+    {
+     "ID": 42048,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 11,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22496
+    },
+    {
+     "ID": 42049,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 380.0,
+     "Region1Y": -176.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1030.0,
+     "Region2Y": 799.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 12,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22499
+    }
+   ],
+   "areas": [
+    3959
+   ],
+   "artwork_source": {
+    "client_version": "3.4.5.63697",
+    "interior_map": 564,
+    "partition_version": "4.4.2.60895"
+   },
+   "file": "341.webp",
+   "sha256": "6229adeed8bf184d52381d5cbe1a5f0a3f0f3dbbab01ff6fb000853ae65c5660"
+  },
+  "342": {
+   "ui_map": 342,
+   "name": "Black Temple",
+   "parent": 339,
+   "type": 4,
+   "width": 1002,
+   "height": 668,
+   "tiles": [],
+   "overlays": [],
+   "interior": {
+    "bounds": [
+     400.0,
+     1070.0,
+     -191.0,
+     814.0
+    ],
+    "wmos": [
+     {
+      "root": 4673,
+      "position": [
+       17300.29296875,
+       16014.6640625,
+       -178.43394470214844
+      ],
+      "rotation": [
+       0.0,
+       269.65313720703125,
+       0.0
+      ],
+      "scale": 1.0,
+      "groups": [
+       {
+        "group": 22070,
+        "index": 9,
+        "box": [
+         -1036.178955078125,
+         -1209.9510498046875,
+         288.9560241699219,
+         -861.1972045898438,
+         -868.7542114257812,
+         370.33001708984375
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211884
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211887
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211885
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211888
+         },
+         {
+          "x": 0,
+          "y": 2,
+          "file_data_id": 211886
+         },
+         {
+          "x": 1,
+          "y": 2,
+          "file_data_id": 211889
+         }
+        ]
+       },
+       {
+        "group": 22073,
+        "index": 11,
+        "box": [
+         -1035.1514892578125,
+         -868.8097534179688,
+         200.49240112304688,
+         -816.4114379882812,
+         -659.8782958984375,
+         373.21856689453125
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211891
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211893
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211892
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211894
+         }
+        ]
+       },
+       {
+        "group": 22074,
+        "index": 12,
+        "box": [
+         -895.2662353515625,
+         -1228.7115478515625,
+         241.59555053710938,
+         -723.8590087890625,
+         -1050.3316650390625,
+         366.1950378417969
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211895
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211897
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211896
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211898
+         }
+        ]
+       },
+       {
+        "group": 22075,
+        "index": 13,
+        "box": [
+         -886.4137573242188,
+         -1050.42236328125,
+         240.2443389892578,
+         -726.9423217773438,
+         -954.6644287109375,
+         318.0174560546875
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211899
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211900
+         }
+        ]
+       },
+       {
+        "group": 22429,
+        "index": 34,
+        "box": [
+         -941.3998413085938,
+         -1186.398681640625,
+         262.84930419921875,
+         -895.210693359375,
+         -1146.435791015625,
+         317.9927062988281
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211947
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "assignments": [
+    {
+     "ID": 42050,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 400.0,
+     "Region1Y": -191.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1070.0,
+     "Region2Y": 814.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 0,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22070
+    },
+    {
+     "ID": 42051,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 400.0,
+     "Region1Y": -191.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1070.0,
+     "Region2Y": 814.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 1,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22073
+    },
+    {
+     "ID": 42052,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 400.0,
+     "Region1Y": -191.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1070.0,
+     "Region2Y": 814.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 2,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22074
+    },
+    {
+     "ID": 42053,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 400.0,
+     "Region1Y": -191.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1070.0,
+     "Region2Y": 814.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 3,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22075
+    },
+    {
+     "ID": 42054,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 400.0,
+     "Region1Y": -191.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1070.0,
+     "Region2Y": 814.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 4,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22429
+    }
+   ],
+   "areas": [
+    3959
+   ],
+   "artwork_source": {
+    "client_version": "3.4.5.63697",
+    "interior_map": 564,
+    "partition_version": "4.4.2.60895"
+   },
+   "file": "342.webp",
+   "sha256": "586a7c6059b7425ea078086d96cc1de524d364a28ef2ad31d6c1d828ba701256"
+  },
+  "343": {
+   "ui_map": 343,
+   "name": "Black Temple",
+   "parent": 339,
+   "type": 4,
+   "width": 1002,
+   "height": 668,
+   "tiles": [],
+   "overlays": [],
+   "interior": {
+    "bounds": [
+     343.3330078125,
+     636.6669921875,
+     134.99951171875,
+     575.00048828125
+    ],
+    "wmos": [
+     {
+      "root": 4673,
+      "position": [
+       17300.29296875,
+       16014.6640625,
+       -178.43394470214844
+      ],
+      "rotation": [
+       0.0,
+       269.65313720703125,
+       0.0
+      ],
+      "scale": 1.0,
+      "groups": [
+       {
+        "group": 21697,
+        "index": 17,
+        "box": [
+         -865.2000122070312,
+         -1093.40087890625,
+         290.38763427734375,
+         -572.3082885742188,
+         -799.96435546875,
+         437.74346923828125
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211907
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211910
+         },
+         {
+          "x": 2,
+          "y": 0,
+          "file_data_id": 211913
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211908
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211911
+         },
+         {
+          "x": 2,
+          "y": 1,
+          "file_data_id": 211914
+         },
+         {
+          "x": 0,
+          "y": 2,
+          "file_data_id": 211909
+         },
+         {
+          "x": 1,
+          "y": 2,
+          "file_data_id": 211912
+         },
+         {
+          "x": 2,
+          "y": 2,
+          "file_data_id": 211915
+         }
+        ]
+       },
+       {
+        "group": 22344,
+        "index": 18,
+        "box": [
+         -659.0853881835938,
+         -749.3887939453125,
+         371.2000732421875,
+         -610.5587158203125,
+         -709.8485717773438,
+         395.013671875
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211916
+         }
+        ]
+       },
+       {
+        "group": 22348,
+        "index": 6,
+        "box": [
+         -1043.4866943359375,
+         -751.4073486328125,
+         343.16168212890625,
+         -484.7995300292969,
+         -618.310546875,
+         496.3545837402344
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211855
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211857
+         },
+         {
+          "x": 2,
+          "y": 0,
+          "file_data_id": 211859
+         },
+         {
+          "x": 3,
+          "y": 0,
+          "file_data_id": 211861
+         },
+         {
+          "x": 4,
+          "y": 0,
+          "file_data_id": 211863
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211856
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211858
+         },
+         {
+          "x": 2,
+          "y": 1,
+          "file_data_id": 211860
+         },
+         {
+          "x": 3,
+          "y": 1,
+          "file_data_id": 211862
+         },
+         {
+          "x": 4,
+          "y": 1,
+          "file_data_id": 211864
+         }
+        ]
+       },
+       {
+        "group": 22426,
+        "index": 31,
+        "box": [
+         -675.068115234375,
+         -817.6259155273438,
+         369.0472412109375,
+         -614.2446899414062,
+         -749.3330078125,
+         415.9472961425781
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211944
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "assignments": [
+    {
+     "ID": 42055,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 343.3330078125,
+     "Region1Y": 134.99951171875,
+     "Region1Z": 185.0,
+     "Region2X": 636.6669921875,
+     "Region2Y": 575.00048828125,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 0,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 21697
+    },
+    {
+     "ID": 42056,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 343.3330078125,
+     "Region1Y": 134.99951171875,
+     "Region1Z": -10000.0,
+     "Region2X": 636.6669921875,
+     "Region2Y": 575.00048828125,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 1,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22344
+    },
+    {
+     "ID": 42057,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 343.3330078125,
+     "Region1Y": 134.99951171875,
+     "Region1Z": -10000.0,
+     "Region2X": 636.6669921875,
+     "Region2Y": 575.00048828125,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 2,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22348
+    },
+    {
+     "ID": 42058,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 343.3330078125,
+     "Region1Y": 134.99951171875,
+     "Region1Z": -10000.0,
+     "Region2X": 636.6669921875,
+     "Region2Y": 575.00048828125,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 3,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22426
+    }
+   ],
+   "areas": [
+    3959
+   ],
+   "artwork_source": {
+    "client_version": "3.4.5.63697",
+    "interior_map": 564,
+    "partition_version": "4.4.2.60895"
+   },
+   "file": "343.webp",
+   "sha256": "bc944eb4829388cc776de52e2ab519af60ce8e4cb68f506e099a4260add618c3"
+  },
+  "344": {
+   "ui_map": 344,
+   "name": "Black Temple",
+   "parent": 339,
+   "type": 4,
+   "width": 1002,
+   "height": 668,
+   "tiles": [],
+   "overlays": [],
+   "interior": {
+    "bounds": [
+     664.1636352539062,
+     1110.830322265625,
+     -70.0,
+     600.0
+    ],
+    "wmos": [
+     {
+      "root": 4673,
+      "position": [
+       17300.29296875,
+       16014.6640625,
+       -178.43394470214844
+      ],
+      "rotation": [
+       0.0,
+       269.65313720703125,
+       0.0
+      ],
+      "scale": 1.0,
+      "groups": [
+       {
+        "group": 22341,
+        "index": 21,
+        "box": [
+         -673.4089965820312,
+         -1115.1553955078125,
+         371.20831298828125,
+         -584.0780029296875,
+         -1009.2711791992188,
+         411.1287841796875
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211919
+         }
+        ]
+       },
+       {
+        "group": 22342,
+        "index": 0,
+        "box": [
+         -910.5245361328125,
+         -1142.6890869140625,
+         371.22412109375,
+         -881.6664428710938,
+         -1098.4630126953125,
+         398.86834716796875
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211847
+         }
+        ]
+       },
+       {
+        "group": 22346,
+        "index": 19,
+        "box": [
+         -638.8799438476562,
+         -1142.37890625,
+         371.2193298339844,
+         -610.0223388671875,
+         -1115.0997314453125,
+         394.6528015136719
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211917
+         }
+        ]
+       },
+       {
+        "group": 22353,
+        "index": 7,
+        "box": [
+         -1043.830810546875,
+         -1231.3184814453125,
+         369.6142578125,
+         -485.0604553222656,
+         -1100.8194580078125,
+         496.3738098144531
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211865
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211867
+         },
+         {
+          "x": 2,
+          "y": 0,
+          "file_data_id": 211869
+         },
+         {
+          "x": 3,
+          "y": 0,
+          "file_data_id": 211871
+         },
+         {
+          "x": 4,
+          "y": 0,
+          "file_data_id": 211873
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211866
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211868
+         },
+         {
+          "x": 2,
+          "y": 1,
+          "file_data_id": 211870
+         },
+         {
+          "x": 3,
+          "y": 1,
+          "file_data_id": 211872
+         },
+         {
+          "x": 4,
+          "y": 1,
+          "file_data_id": 211874
+         }
+        ]
+       },
+       {
+        "group": 22478,
+        "index": 4,
+        "box": [
+         -584.1339721679688,
+         -1123.898193359375,
+         315.9726257324219,
+         -477.9480895996094,
+         -995.1361083984375,
+         449.46673583984375
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211853
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211854
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "assignments": [
+    {
+     "ID": 42059,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 664.1636352539062,
+     "Region1Y": -70.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1110.830322265625,
+     "Region2Y": 600.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 0,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22341
+    },
+    {
+     "ID": 42060,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 664.1636352539062,
+     "Region1Y": -70.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1110.830322265625,
+     "Region2Y": 600.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 1,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22342
+    },
+    {
+     "ID": 42061,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 664.1636352539062,
+     "Region1Y": -70.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1110.830322265625,
+     "Region2Y": 600.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 2,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22346
+    },
+    {
+     "ID": 42062,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 664.1636352539062,
+     "Region1Y": -70.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1110.830322265625,
+     "Region2Y": 600.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 3,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22353
+    },
+    {
+     "ID": 42063,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 664.1636352539062,
+     "Region1Y": -70.0,
+     "Region1Z": -10000.0,
+     "Region2X": 1110.830322265625,
+     "Region2Y": 600.0,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 4,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22478
+    }
+   ],
+   "areas": [
+    3959
+   ],
+   "artwork_source": {
+    "client_version": "3.4.5.63697",
+    "interior_map": 564,
+    "partition_version": "4.4.2.60895"
+   },
+   "file": "344.webp",
+   "sha256": "cb9b0713e96b748ac219a09fae21385092a2c4470617d5731d6e8a3766995e4e"
+  },
+  "345": {
+   "ui_map": 345,
+   "name": "Black Temple",
+   "parent": 339,
+   "type": 4,
+   "width": 1002,
+   "height": 668,
+   "tiles": [],
+   "overlays": [],
+   "interior": {
+    "bounds": [
+     450.0,
+     920.0,
+     -67.5,
+     637.5
+    ],
+    "wmos": [
+     {
+      "root": 4673,
+      "position": [
+       17300.29296875,
+       16014.6640625,
+       -178.43394470214844
+      ],
+      "rotation": [
+       0.0,
+       269.65313720703125,
+       0.0
+      ],
+      "scale": 1.0,
+      "groups": [
+       {
+        "group": 22343,
+        "index": 1,
+        "box": [
+         -755.7413330078125,
+         -864.9916381835938,
+         450.0550537109375,
+         -726.6302490234375,
+         -816.63623046875,
+         473.9831237792969
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211848
+         }
+        ]
+       },
+       {
+        "group": 22345,
+        "index": 23,
+        "box": [
+         -833.5975952148438,
+         -1008.3504638671875,
+         449.0417175292969,
+         -648.9840087890625,
+         -853.8377075195312,
+         523.161865234375
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211922
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211924
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211923
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211925
+         }
+        ]
+       },
+       {
+        "group": 22347,
+        "index": 30,
+        "box": [
+         -756.7249755859375,
+         -1017.8402709960938,
+         490.6952209472656,
+         -725.8715209960938,
+         -1008.2947998046875,
+         522.063720703125
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211943
+         }
+        ]
+       },
+       {
+        "group": 22352,
+        "index": 8,
+        "box": [
+         -946.5694580078125,
+         -1112.64990234375,
+         375.4299621582031,
+         -574.1187133789062,
+         -739.5780029296875,
+         514.0716552734375
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211875
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211878
+         },
+         {
+          "x": 2,
+          "y": 0,
+          "file_data_id": 211881
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211876
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211879
+         },
+         {
+          "x": 2,
+          "y": 1,
+          "file_data_id": 211882
+         },
+         {
+          "x": 0,
+          "y": 2,
+          "file_data_id": 211877
+         },
+         {
+          "x": 1,
+          "y": 2,
+          "file_data_id": 211880
+         },
+         {
+          "x": 2,
+          "y": 2,
+          "file_data_id": 211883
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "assignments": [
+    {
+     "ID": 42064,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 450.0,
+     "Region1Y": -67.5,
+     "Region1Z": -10000.0,
+     "Region2X": 920.0,
+     "Region2Y": 637.5,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 0,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22343
+    },
+    {
+     "ID": 42065,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 450.0,
+     "Region1Y": -67.5,
+     "Region1Z": -10000.0,
+     "Region2X": 920.0,
+     "Region2Y": 637.5,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 1,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22345
+    },
+    {
+     "ID": 42066,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 450.0,
+     "Region1Y": -67.5,
+     "Region1Z": -10000.0,
+     "Region2X": 920.0,
+     "Region2Y": 637.5,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 2,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22347
+    },
+    {
+     "ID": 42067,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 450.0,
+     "Region1Y": -67.5,
+     "Region1Z": -10000.0,
+     "Region2X": 920.0,
+     "Region2Y": 637.5,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 3,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22352
+    }
+   ],
+   "areas": [
+    3959
+   ],
+   "artwork_source": {
+    "client_version": "3.4.5.63697",
+    "interior_map": 564,
+    "partition_version": "4.4.2.60895"
+   },
+   "file": "345.webp",
+   "sha256": "62b5f6f9cf80d60e7d626a0b99020bf6bcbf3a0bcb928d296e3a888dd7e9c056"
+  },
+  "346": {
+   "ui_map": 346,
+   "name": "Black Temple",
+   "parent": 339,
+   "type": 4,
+   "width": 1002,
+   "height": 668,
+   "tiles": [],
+   "overlays": [],
+   "interior": {
+    "bounds": [
+     606.6666870117188,
+     843.3333129882812,
+     137.5,
+     492.5
+    ],
+    "wmos": [
+     {
+      "root": 4673,
+      "position": [
+       17300.29296875,
+       16014.6640625,
+       -178.43394470214844
+      ],
+      "rotation": [
+       0.0,
+       269.65313720703125,
+       0.0
+      ],
+      "scale": 1.0,
+      "groups": [
+       {
+        "group": 22351,
+        "index": 2,
+        "box": [
+         -824.5328369140625,
+         -1053.0389404296875,
+         498.0982666015625,
+         -657.9848022460938,
+         -856.9927978515625,
+         604.6617431640625
+        ],
+        "blocks": [
+         {
+          "x": 0,
+          "y": 0,
+          "file_data_id": 211849
+         },
+         {
+          "x": 1,
+          "y": 0,
+          "file_data_id": 211851
+         },
+         {
+          "x": 0,
+          "y": 1,
+          "file_data_id": 211850
+         },
+         {
+          "x": 1,
+          "y": 1,
+          "file_data_id": 211852
+         }
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   "assignments": [
+    {
+     "ID": 42068,
+     "UiMinX": 0.0,
+     "UiMinY": 0.0,
+     "UiMaxX": 1.0,
+     "UiMaxY": 1.0,
+     "Region1X": 606.6666870117188,
+     "Region1Y": 137.5,
+     "Region1Z": -10000.0,
+     "Region2X": 843.3333129882812,
+     "Region2Y": 492.5,
+     "Region2Z": 1000000.0,
+     "OrderIndex": 0,
+     "MapID": 564,
+     "AreaID": 0,
+     "WmoDoodadPlacementID": 1075600,
+     "WmoGroupID": 22351
+    }
+   ],
+   "areas": [
+    3959
+   ],
+   "artwork_source": {
+    "client_version": "3.4.5.63697",
+    "interior_map": 564,
+    "partition_version": "4.4.2.60895"
+   },
+   "file": "346.webp",
+   "sha256": "53499104cd886b96272cce4bc1118ebef07914af655ea76cac1a342c1e0ff608"
   }
  },
  "supplementary_atlas_sha256": "0f95952458b862a4ca5f1ba71c9b60d3ce9bc6bff054003ce5e867bbebf2767a",
@@ -88053,7 +90338,7 @@
     }
    }
   },
-  "texture_receipt_sha256": "84de272479251a52b70a2cceb72bab351fe0186cc494553794819d4dd6dbba56"
+  "texture_receipt_sha256": "ef70b73e2be69b708e3bbadd9d94d87ffcdda579ac8d9734fb419ca2ec5fba4f"
  },
  "minimap": {
   "209": {
@@ -88071,6 +90356,17 @@
   "564": {
    "wdt": 829630,
    "sha256": "8c35c009979a744b8f7f6c2e1014d13d43b515c6ca41310f48b2f9a8166baf06"
+  }
+ },
+ "partition": {
+  "client_version": "4.4.2.60895",
+  "maps": {
+   "564": {
+    "108713.wmo": {
+     "3.4.5.63697": "2be5d8c53964e2adaaa7d1a67e2606a6fc63a3e1042e9dcdd8fadd07b0fc051d",
+     "4.4.2.60895": "7e4413074a84c162158c8291122214720e970888495886d52586f7df60f91654"
+    }
+   }
   }
  },
  "interior": {
@@ -88194,6 +90490,15 @@
   "555": {
    "roots": {
     "111980.wmo": "8a910dbd06c51c09afdfb0db0a59a73c1c686c807cacd9a869bd4742b44e9dca"
+   }
+  },
+  "564": {
+   "roots": {
+    "108713.wmo": "2be5d8c53964e2adaaa7d1a67e2606a6fc63a3e1042e9dcdd8fadd07b0fc051d"
+   },
+   "wdt": {
+    "file_id": 829630,
+    "sha256": "8c35c009979a744b8f7f6c2e1014d13d43b515c6ca41310f48b2f9a8166baf06"
    }
   }
  },
@@ -97984,6 +100289,1322 @@
    "min_z": 0.0
   },
   {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 1338,
+   "min_z": -10000.0,
+   "assignment": 41781
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1339,
+   "min_z": -10000.0,
+   "assignment": 41717
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1340,
+   "min_z": -10000.0,
+   "assignment": 41718
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1341,
+   "min_z": -10000.0,
+   "assignment": 41719
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1343,
+   "min_z": -10000.0,
+   "assignment": 41720
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1344,
+   "min_z": -10000.0,
+   "assignment": 41721
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1345,
+   "min_z": -10000.0,
+   "assignment": 41722
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1346,
+   "min_z": -10000.0,
+   "assignment": 41723
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 1347,
+   "min_z": -10000.0,
+   "assignment": 41782
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 1348,
+   "min_z": -10000.0,
+   "assignment": 41783
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 1349,
+   "min_z": -10000.0,
+   "assignment": 41784
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1350,
+   "min_z": -10000.0,
+   "assignment": 41724
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1351,
+   "min_z": -10000.0,
+   "assignment": 41725
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1352,
+   "min_z": -10000.0,
+   "assignment": 41726
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1353,
+   "min_z": -10000.0,
+   "assignment": 41727
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1354,
+   "min_z": -10000.0,
+   "assignment": 41728
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1355,
+   "min_z": -10000.0,
+   "assignment": 41729
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 1357,
+   "min_z": -10000.0,
+   "assignment": 41785
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 311,
+   "bounds": [
+    -303.2149963378906,
+    -161.5970001220703,
+    2147.556640625,
+    2359.9833984375
+   ],
+   "wmo_group": 1359,
+   "min_z": -10000.0,
+   "assignment": 41753
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1360,
+   "min_z": -10000.0,
+   "assignment": 41730
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1361,
+   "min_z": -10000.0,
+   "assignment": 41731
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1362,
+   "min_z": -10000.0,
+   "assignment": 41732
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1363,
+   "min_z": -10000.0,
+   "assignment": 41733
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1364,
+   "min_z": -10000.0,
+   "assignment": 41734
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1365,
+   "min_z": -10000.0,
+   "assignment": 41735
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1366,
+   "min_z": -10000.0,
+   "assignment": 41736
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1367,
+   "min_z": -10000.0,
+   "assignment": 41737
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1368,
+   "min_z": -10000.0,
+   "assignment": 41738
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1369,
+   "min_z": -10000.0,
+   "assignment": 41739
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1370,
+   "min_z": -10000.0,
+   "assignment": 41740
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1371,
+   "min_z": -10000.0,
+   "assignment": 41741
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1372,
+   "min_z": -10000.0,
+   "assignment": 41742
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1373,
+   "min_z": -10000.0,
+   "assignment": 41743
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1374,
+   "min_z": -10000.0,
+   "assignment": 41744
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 1375,
+   "min_z": -10000.0,
+   "assignment": 41786
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 1376,
+   "min_z": -10000.0,
+   "assignment": 41787
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1377,
+   "min_z": -10000.0,
+   "assignment": 41745
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 314,
+   "bounds": [
+    -193.21499633789062,
+    -91.59030151367188,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1379,
+   "min_z": -10000.0,
+   "assignment": 41771
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 312,
+   "bounds": [
+    -193.21603393554688,
+    -91.5960693359375,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1381,
+   "min_z": -10000.0,
+   "assignment": 41758
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 312,
+   "bounds": [
+    -193.21603393554688,
+    -91.5960693359375,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1382,
+   "min_z": -10000.0,
+   "assignment": 41759
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 312,
+   "bounds": [
+    -193.21603393554688,
+    -91.5960693359375,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1383,
+   "min_z": -10000.0,
+   "assignment": 41760
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 312,
+   "bounds": [
+    -193.21603393554688,
+    -91.5960693359375,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1384,
+   "min_z": -10000.0,
+   "assignment": 41761
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 312,
+   "bounds": [
+    -193.21603393554688,
+    -91.5960693359375,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1385,
+   "min_z": -10000.0,
+   "assignment": 41762
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 313,
+   "bounds": [
+    -193.21499633789062,
+    -91.59030151367188,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1386,
+   "min_z": -10000.0,
+   "assignment": 41765
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 313,
+   "bounds": [
+    -193.21499633789062,
+    -91.59030151367188,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1387,
+   "min_z": -10000.0,
+   "assignment": 41766
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 313,
+   "bounds": [
+    -193.21499633789062,
+    -91.59030151367188,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1388,
+   "min_z": -10000.0,
+   "assignment": 41767
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 313,
+   "bounds": [
+    -193.21499633789062,
+    -91.59030151367188,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1389,
+   "min_z": -10000.0,
+   "assignment": 41768
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 314,
+   "bounds": [
+    -193.21499633789062,
+    -91.59030151367188,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1391,
+   "min_z": -10000.0,
+   "assignment": 41773
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 314,
+   "bounds": [
+    -193.21499633789062,
+    -91.59030151367188,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1392,
+   "min_z": -10000.0,
+   "assignment": 41774
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 314,
+   "bounds": [
+    -193.21499633789062,
+    -91.59030151367188,
+    2103.77001953125,
+    2256.199951171875
+   ],
+   "wmo_group": 1393,
+   "min_z": -10000.0,
+   "assignment": 41775
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 315,
+   "bounds": [
+    -182.5460205078125,
+    -50.25939178466797,
+    2080.77001953125,
+    2279.199951171875
+   ],
+   "wmo_group": 1396,
+   "min_z": -10000.0,
+   "assignment": 41779
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 315,
+   "bounds": [
+    -182.5460205078125,
+    -50.25939178466797,
+    2080.77001953125,
+    2279.199951171875
+   ],
+   "wmo_group": 1397,
+   "min_z": 150.0,
+   "assignment": 41780
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 311,
+   "bounds": [
+    -303.2149963378906,
+    -161.5970001220703,
+    2147.556640625,
+    2359.9833984375
+   ],
+   "wmo_group": 1398,
+   "min_z": -10000.0,
+   "assignment": 41754
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 311,
+   "bounds": [
+    -303.2149963378906,
+    -161.5970001220703,
+    2147.556640625,
+    2359.9833984375
+   ],
+   "wmo_group": 1399,
+   "min_z": -10000.0,
+   "assignment": 41755
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1400,
+   "min_z": -10000.0,
+   "assignment": 41746
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 311,
+   "bounds": [
+    -303.2149963378906,
+    -161.5970001220703,
+    2147.556640625,
+    2359.9833984375
+   ],
+   "wmo_group": 1401,
+   "min_z": -10000.0,
+   "assignment": 41756
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1402,
+   "min_z": -10000.0,
+   "assignment": 41747
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1403,
+   "min_z": -10000.0,
+   "assignment": 41748
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1404,
+   "min_z": -10000.0,
+   "assignment": 41749
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1405,
+   "min_z": -10000.0,
+   "assignment": 41750
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 1406,
+   "min_z": -10000.0,
+   "assignment": 41788
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 1407,
+   "min_z": -10000.0,
+   "assignment": 41789
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 1408,
+   "min_z": -10000.0,
+   "assignment": 41790
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 1409,
+   "min_z": -10000.0,
+   "assignment": 41791
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 310,
+   "bounds": [
+    -319.88299560546875,
+    -84.92960357666016,
+    2003.7698974609375,
+    2356.199951171875
+   ],
+   "wmo_group": 1411,
+   "min_z": -10000.0,
+   "assignment": 41751
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 5542,
+   "min_z": -10000.0,
+   "assignment": 41793
+  },
+  {
+   "map": 33,
+   "area": 209,
+   "ui_map": 316,
+   "bounds": [
+    -278.2160339355469,
+    -96.5960693359375,
+    2023.77001953125,
+    2296.199951171875
+   ],
+   "wmo_group": 5543,
+   "min_z": -10000.0,
+   "assignment": 41794
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 193,
+   "min_z": -10000.0,
+   "assignment": 41289
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 194,
+   "min_z": -10000.0,
+   "assignment": 41290
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 195,
+   "min_z": -10000.0,
+   "assignment": 41291
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 196,
+   "min_z": -10000.0,
+   "assignment": 41292
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 197,
+   "min_z": -10000.0,
+   "assignment": 41293
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 198,
+   "min_z": -10000.0,
+   "assignment": 41294
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 199,
+   "min_z": -10000.0,
+   "assignment": 41295
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 200,
+   "min_z": -10000.0,
+   "assignment": 41296
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 201,
+   "min_z": -10000.0,
+   "assignment": 41297
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 202,
+   "min_z": -10000.0,
+   "assignment": 41298
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 203,
+   "min_z": -10000.0,
+   "assignment": 41299
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 205,
+   "min_z": -10000.0,
+   "assignment": 41300
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 292,
+   "bounds": [
+    -267.5090026855469,
+    65.33329772949219,
+    -1016.6199951171875,
+    -517.3569946289062
+   ],
+   "wmo_group": 206,
+   "min_z": -10000.0,
+   "assignment": 41307
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 292,
+   "bounds": [
+    -267.5090026855469,
+    65.33329772949219,
+    -1016.6199951171875,
+    -517.3569946289062
+   ],
+   "wmo_group": 207,
+   "min_z": -10000.0,
+   "assignment": 41308
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 292,
+   "bounds": [
+    -267.5090026855469,
+    65.33329772949219,
+    -1016.6199951171875,
+    -517.3569946289062
+   ],
+   "wmo_group": 209,
+   "min_z": -10000.0,
+   "assignment": 41309
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 292,
+   "bounds": [
+    -267.5090026855469,
+    65.33329772949219,
+    -1016.6199951171875,
+    -517.3569946289062
+   ],
+   "wmo_group": 210,
+   "min_z": -10000.0,
+   "assignment": 41310
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 211,
+   "min_z": -10000.0,
+   "assignment": 41301
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 212,
+   "min_z": -10000.0,
+   "assignment": 41302
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 213,
+   "min_z": -10000.0,
+   "assignment": 41303
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 292,
+   "bounds": [
+    -267.5090026855469,
+    65.33329772949219,
+    -1016.6199951171875,
+    -517.3569946289062
+   ],
+   "wmo_group": 227,
+   "min_z": -10000.0,
+   "assignment": 41312
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 292,
+   "bounds": [
+    -267.5090026855469,
+    65.33329772949219,
+    -1016.6199951171875,
+    -517.3569946289062
+   ],
+   "wmo_group": 233,
+   "min_z": -10000.0,
+   "assignment": 41313
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 292,
+   "bounds": [
+    -267.5090026855469,
+    65.33329772949219,
+    -1016.6199951171875,
+    -517.3569946289062
+   ],
+   "wmo_group": 239,
+   "min_z": -10000.0,
+   "assignment": 41314
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 240,
+   "min_z": -10000.0,
+   "assignment": 41305
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 292,
+   "bounds": [
+    -267.5090026855469,
+    65.33329772949219,
+    -1016.6199951171875,
+    -517.3569946289062
+   ],
+   "wmo_group": 245,
+   "min_z": -10000.0,
+   "assignment": 41315
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 291,
+   "bounds": [
+    -337.5090026855469,
+    35.333499908447266,
+    -796.6220092773438,
+    -237.35800170898438
+   ],
+   "wmo_group": 246,
+   "min_z": -10000.0,
+   "assignment": 41306
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 292,
+   "bounds": [
+    -267.5090026855469,
+    65.33329772949219,
+    -1016.6199951171875,
+    -517.3569946289062
+   ],
+   "wmo_group": 12510,
+   "min_z": -10000.0,
+   "assignment": 41316
+  },
+  {
+   "map": 36,
+   "area": 1581,
+   "ui_map": 292,
+   "bounds": [
+    -267.5090026855469,
+    65.33329772949219,
+    -1016.6199951171875,
+    -517.3569946289062
+   ],
+   "wmo_group": 12511,
+   "min_z": -10000.0,
+   "assignment": 41317
+  },
+  {
    "map": 48,
    "area": 719,
    "ui_map": 221,
@@ -99958,6 +103579,1252 @@
    "assignment": 40717
   },
   {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7874,
+   "min_z": -10000.0,
+   "assignment": 41602
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7875,
+   "min_z": -10000.0,
+   "assignment": 41603
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7876,
+   "min_z": -10000.0,
+   "assignment": 41604
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7877,
+   "min_z": -10000.0,
+   "assignment": 41605
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7878,
+   "min_z": -10000.0,
+   "assignment": 41606
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7879,
+   "min_z": -10000.0,
+   "assignment": 41607
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7883,
+   "min_z": -10000.0,
+   "assignment": 41608
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7884,
+   "min_z": -10000.0,
+   "assignment": 41609
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7885,
+   "min_z": -10000.0,
+   "assignment": 41610
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7886,
+   "min_z": -10000.0,
+   "assignment": 41611
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7887,
+   "min_z": -10000.0,
+   "assignment": 41612
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7888,
+   "min_z": -10000.0,
+   "assignment": 41613
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7889,
+   "min_z": -10000.0,
+   "assignment": 41614
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7890,
+   "min_z": -10000.0,
+   "assignment": 41615
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7891,
+   "min_z": -10000.0,
+   "assignment": 41616
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7892,
+   "min_z": -10000.0,
+   "assignment": 41617
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7893,
+   "min_z": -10000.0,
+   "assignment": 41618
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7894,
+   "min_z": -10000.0,
+   "assignment": 41619
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7895,
+   "min_z": -10000.0,
+   "assignment": 41620
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7896,
+   "min_z": -10000.0,
+   "assignment": 41621
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7897,
+   "min_z": -10000.0,
+   "assignment": 41622
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7898,
+   "min_z": -10000.0,
+   "assignment": 41623
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7899,
+   "min_z": -10000.0,
+   "assignment": 41624
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 302,
+   "bounds": [
+    1616.858642578125,
+    2030.181396484375,
+    947.9860229492188,
+    1567.969970703125
+   ],
+   "wmo_group": 7900,
+   "min_z": -10000.0,
+   "assignment": 41625
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7901,
+   "min_z": -10000.0,
+   "assignment": 41667
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7903,
+   "min_z": -10000.0,
+   "assignment": 41668
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7904,
+   "min_z": -10000.0,
+   "assignment": 41669
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7905,
+   "min_z": -10000.0,
+   "assignment": 41670
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7906,
+   "min_z": -10000.0,
+   "assignment": 41671
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7907,
+   "min_z": -10000.0,
+   "assignment": 41672
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7908,
+   "min_z": -10000.0,
+   "assignment": 41673
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7910,
+   "min_z": -10000.0,
+   "assignment": 41674
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7911,
+   "min_z": -10000.0,
+   "assignment": 41675
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7912,
+   "min_z": -10000.0,
+   "assignment": 41676
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7913,
+   "min_z": -10000.0,
+   "assignment": 41677
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7914,
+   "min_z": -10000.0,
+   "assignment": 41678
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7915,
+   "min_z": -10000.0,
+   "assignment": 41679
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7916,
+   "min_z": -10000.0,
+   "assignment": 41680
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7917,
+   "min_z": -10000.0,
+   "assignment": 41681
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7918,
+   "min_z": -10000.0,
+   "assignment": 41682
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7919,
+   "min_z": -10000.0,
+   "assignment": 41683
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7920,
+   "min_z": -10000.0,
+   "assignment": 41684
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7921,
+   "min_z": -10000.0,
+   "assignment": 41685
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7923,
+   "min_z": -10000.0,
+   "assignment": 41626
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7924,
+   "min_z": -10000.0,
+   "assignment": 41627
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7925,
+   "min_z": -10000.0,
+   "assignment": 41628
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7926,
+   "min_z": -10000.0,
+   "assignment": 41629
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7927,
+   "min_z": -10000.0,
+   "assignment": 41630
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7928,
+   "min_z": -10000.0,
+   "assignment": 41631
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7929,
+   "min_z": -10000.0,
+   "assignment": 41632
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7930,
+   "min_z": -10000.0,
+   "assignment": 41633
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7932,
+   "min_z": -10000.0,
+   "assignment": 41634
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7933,
+   "min_z": -10000.0,
+   "assignment": 41635
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7934,
+   "min_z": -10000.0,
+   "assignment": 41636
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7935,
+   "min_z": -10000.0,
+   "assignment": 41637
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7936,
+   "min_z": -10000.0,
+   "assignment": 41638
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7937,
+   "min_z": -10000.0,
+   "assignment": 41639
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7938,
+   "min_z": -10000.0,
+   "assignment": 41640
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7939,
+   "min_z": -10000.0,
+   "assignment": 41641
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7940,
+   "min_z": -10000.0,
+   "assignment": 41642
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7941,
+   "min_z": -10000.0,
+   "assignment": 41643
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7943,
+   "min_z": -10000.0,
+   "assignment": 41644
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7944,
+   "min_z": -10000.0,
+   "assignment": 41645
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 303,
+   "bounds": [
+    93.90550231933594,
+    307.3659973144531,
+    -482.4639892578125,
+    -162.2729949951172
+   ],
+   "wmo_group": 7947,
+   "min_z": -10000.0,
+   "assignment": 41646
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7949,
+   "min_z": -10000.0,
+   "assignment": 41647
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7951,
+   "min_z": -10000.0,
+   "assignment": 41648
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7952,
+   "min_z": -10000.0,
+   "assignment": 41649
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7953,
+   "min_z": -10000.0,
+   "assignment": 41650
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7954,
+   "min_z": -10000.0,
+   "assignment": 41651
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7955,
+   "min_z": -10000.0,
+   "assignment": 41652
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7956,
+   "min_z": -10000.0,
+   "assignment": 41653
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7957,
+   "min_z": -10000.0,
+   "assignment": 41654
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7958,
+   "min_z": -10000.0,
+   "assignment": 41655
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7959,
+   "min_z": -10000.0,
+   "assignment": 41656
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7960,
+   "min_z": -10000.0,
+   "assignment": 41657
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7961,
+   "min_z": -10000.0,
+   "assignment": 41658
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7962,
+   "min_z": -10000.0,
+   "assignment": 41659
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 7963,
+   "min_z": -10000.0,
+   "assignment": 41660
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 7968,
+   "min_z": -10000.0,
+   "assignment": 41686
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 8548,
+   "min_z": -10000.0,
+   "assignment": 41687
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 14690,
+   "min_z": -10000.0,
+   "assignment": 41688
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 14691,
+   "min_z": -10000.0,
+   "assignment": 41689
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 305,
+   "bounds": [
+    812.4237060546875,
+    1281.2904052734375,
+    1040.68994140625,
+    1743.989990234375
+   ],
+   "wmo_group": 14692,
+   "min_z": -10000.0,
+   "assignment": 41690
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 14693,
+   "min_z": -10000.0,
+   "assignment": 41661
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 14694,
+   "min_z": -10000.0,
+   "assignment": 41662
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 14695,
+   "min_z": -10000.0,
+   "assignment": 41663
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 14696,
+   "min_z": -10000.0,
+   "assignment": 41664
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 14697,
+   "min_z": -10000.0,
+   "assignment": 41665
+  },
+  {
+   "map": 189,
+   "area": 0,
+   "ui_map": 304,
+   "bounds": [
+    1600.6400146484375,
+    2009.0999755859375,
+    -562.4240112304688,
+    50.27259826660156
+   ],
+   "wmo_group": 14698,
+   "min_z": -10000.0,
+   "assignment": 41666
+  },
+  {
    "map": 229,
    "area": 1583,
    "ui_map": 253,
@@ -101132,6 +105999,1308 @@
    "wmo_group": 13558,
    "min_z": -10000.0,
    "assignment": 40950
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 306,
+   "bounds": [
+    104.33300018310547,
+    317.697998046875,
+    -68.63890075683594,
+    251.41000366210938
+   ],
+   "wmo_group": 17294,
+   "min_z": -10000.0,
+   "assignment": 41691
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 308,
+   "bounds": [
+    34.32120132446289,
+    307.7070007324219,
+    -113.63899993896484,
+    296.4389953613281
+   ],
+   "wmo_group": 17304,
+   "min_z": -10000.0,
+   "assignment": 41704
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 308,
+   "bounds": [
+    34.32120132446289,
+    307.7070007324219,
+    -113.63899993896484,
+    296.4389953613281
+   ],
+   "wmo_group": 17305,
+   "min_z": -10000.0,
+   "assignment": 41705
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 308,
+   "bounds": [
+    34.32120132446289,
+    307.7070007324219,
+    -113.63899993896484,
+    296.4389953613281
+   ],
+   "wmo_group": 17306,
+   "min_z": -10000.0,
+   "assignment": 41706
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 309,
+   "bounds": [
+    -66.32119750976562,
+    287.7070007324219,
+    -174.1219940185547,
+    356.9200134277344
+   ],
+   "wmo_group": 17307,
+   "min_z": -10000.0,
+   "assignment": 41711
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 309,
+   "bounds": [
+    -66.32119750976562,
+    287.7070007324219,
+    -174.1219940185547,
+    356.9200134277344
+   ],
+   "wmo_group": 17308,
+   "min_z": -10000.0,
+   "assignment": 41712
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 306,
+   "bounds": [
+    104.33300018310547,
+    317.697998046875,
+    -68.63890075683594,
+    251.41000366210938
+   ],
+   "wmo_group": 17312,
+   "min_z": 110.0,
+   "assignment": 41693
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 307,
+   "bounds": [
+    44.33259963989258,
+    337.6990051269531,
+    -128.63900756835938,
+    311.4100036621094
+   ],
+   "wmo_group": 17313,
+   "min_z": -10000.0,
+   "assignment": 41695
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 307,
+   "bounds": [
+    44.33259963989258,
+    337.6990051269531,
+    -128.63900756835938,
+    311.4100036621094
+   ],
+   "wmo_group": 17314,
+   "min_z": -10000.0,
+   "assignment": 41696
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 307,
+   "bounds": [
+    44.33259963989258,
+    337.6990051269531,
+    -128.63900756835938,
+    311.4100036621094
+   ],
+   "wmo_group": 17315,
+   "min_z": -10000.0,
+   "assignment": 41697
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 309,
+   "bounds": [
+    -66.32119750976562,
+    287.7070007324219,
+    -174.1219940185547,
+    356.9200134277344
+   ],
+   "wmo_group": 17318,
+   "min_z": -10000.0,
+   "assignment": 41714
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 307,
+   "bounds": [
+    44.33259963989258,
+    337.6990051269531,
+    -128.63900756835938,
+    311.4100036621094
+   ],
+   "wmo_group": 17321,
+   "min_z": 95.0,
+   "assignment": 41701
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 307,
+   "bounds": [
+    44.33259963989258,
+    337.6990051269531,
+    -128.63900756835938,
+    311.4100036621094
+   ],
+   "wmo_group": 17323,
+   "min_z": -10000.0,
+   "assignment": 41702
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 309,
+   "bounds": [
+    -66.32119750976562,
+    287.7070007324219,
+    -174.1219940185547,
+    356.9200134277344
+   ],
+   "wmo_group": 17471,
+   "min_z": -10000.0,
+   "assignment": 41716
+  },
+  {
+   "map": 289,
+   "area": 2057,
+   "ui_map": 307,
+   "bounds": [
+    44.33259963989258,
+    337.6990051269531,
+    -128.63900756835938,
+    311.4100036621094
+   ],
+   "wmo_group": 17870,
+   "min_z": -10000.0,
+   "assignment": 41703
+  },
+  {
+   "map": 289,
+   "area": 0,
+   "ui_map": 308,
+   "bounds": [
+    34.32120132446289,
+    307.7070007324219,
+    -113.63899993896484,
+    296.4389953613281
+   ],
+   "wmo_group": 18950,
+   "min_z": -10000.0,
+   "assignment": 41710
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17737,
+   "min_z": -10000.0,
+   "assignment": 41796
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17738,
+   "min_z": -10000.0,
+   "assignment": 41797
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17739,
+   "min_z": -10000.0,
+   "assignment": 41798
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17740,
+   "min_z": -10000.0,
+   "assignment": 41799
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17741,
+   "min_z": -10000.0,
+   "assignment": 41800
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17742,
+   "min_z": -10000.0,
+   "assignment": 41801
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17743,
+   "min_z": -10000.0,
+   "assignment": 41802
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17744,
+   "min_z": -10000.0,
+   "assignment": 41837
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17745,
+   "min_z": -10000.0,
+   "assignment": 41803
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17746,
+   "min_z": -10000.0,
+   "assignment": 41804
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17751,
+   "min_z": -10000.0,
+   "assignment": 41806
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17752,
+   "min_z": -10000.0,
+   "assignment": 41839
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17753,
+   "min_z": -10000.0,
+   "assignment": 41840
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17754,
+   "min_z": -10000.0,
+   "assignment": 41841
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17755,
+   "min_z": -10000.0,
+   "assignment": 41842
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17756,
+   "min_z": -10000.0,
+   "assignment": 41843
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17757,
+   "min_z": -10000.0,
+   "assignment": 41844
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17758,
+   "min_z": -10000.0,
+   "assignment": 41845
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17759,
+   "min_z": -10000.0,
+   "assignment": 41846
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17760,
+   "min_z": -10000.0,
+   "assignment": 41847
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17761,
+   "min_z": -10000.0,
+   "assignment": 41848
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17762,
+   "min_z": -10000.0,
+   "assignment": 41849
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17763,
+   "min_z": -10000.0,
+   "assignment": 41850
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17764,
+   "min_z": -10000.0,
+   "assignment": 41851
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17765,
+   "min_z": -10000.0,
+   "assignment": 41852
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17766,
+   "min_z": -10000.0,
+   "assignment": 41853
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17767,
+   "min_z": -10000.0,
+   "assignment": 41854
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17768,
+   "min_z": -10000.0,
+   "assignment": 41855
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17769,
+   "min_z": -10000.0,
+   "assignment": 41856
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17770,
+   "min_z": -10000.0,
+   "assignment": 41857
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17771,
+   "min_z": -10000.0,
+   "assignment": 41858
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17772,
+   "min_z": -10000.0,
+   "assignment": 41859
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17773,
+   "min_z": -10000.0,
+   "assignment": 41860
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17774,
+   "min_z": -10000.0,
+   "assignment": 41861
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17775,
+   "min_z": -10000.0,
+   "assignment": 41862
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17776,
+   "min_z": -10000.0,
+   "assignment": 41807
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17777,
+   "min_z": -10000.0,
+   "assignment": 41808
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17778,
+   "min_z": -10000.0,
+   "assignment": 41809
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17779,
+   "min_z": -10000.0,
+   "assignment": 41810
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17780,
+   "min_z": -10000.0,
+   "assignment": 41811
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17781,
+   "min_z": -10000.0,
+   "assignment": 41812
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17782,
+   "min_z": -10000.0,
+   "assignment": 41863
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17783,
+   "min_z": -10000.0,
+   "assignment": 41864
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17784,
+   "min_z": -10000.0,
+   "assignment": 41865
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17785,
+   "min_z": -10000.0,
+   "assignment": 41866
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17786,
+   "min_z": -10000.0,
+   "assignment": 41867
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17787,
+   "min_z": -10000.0,
+   "assignment": 41813
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17788,
+   "min_z": -10000.0,
+   "assignment": 41814
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17789,
+   "min_z": -10000.0,
+   "assignment": 41815
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17790,
+   "min_z": -10000.0,
+   "assignment": 41816
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17791,
+   "min_z": -10000.0,
+   "assignment": 41817
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17792,
+   "min_z": -10000.0,
+   "assignment": 41818
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17793,
+   "min_z": -10000.0,
+   "assignment": 41819
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17794,
+   "min_z": -10000.0,
+   "assignment": 41820
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17795,
+   "min_z": -10000.0,
+   "assignment": 41821
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17800,
+   "min_z": -10000.0,
+   "assignment": 41822
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17802,
+   "min_z": -10000.0,
+   "assignment": 41868
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17803,
+   "min_z": -10000.0,
+   "assignment": 41869
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17806,
+   "min_z": -10000.0,
+   "assignment": 41823
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17807,
+   "min_z": -10000.0,
+   "assignment": 41824
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17808,
+   "min_z": -10000.0,
+   "assignment": 41870
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17812,
+   "min_z": -10000.0,
+   "assignment": 41871
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17813,
+   "min_z": -10000.0,
+   "assignment": 41872
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17814,
+   "min_z": -10000.0,
+   "assignment": 41873
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17815,
+   "min_z": -10000.0,
+   "assignment": 41874
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 318,
+   "bounds": [
+    3498.969970703125,
+    4169.4501953125,
+    -3967.68017578125,
+    -2961.959716796875
+   ],
+   "wmo_group": 17816,
+   "min_z": -10000.0,
+   "assignment": 41875
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17817,
+   "min_z": -10000.0,
+   "assignment": 41825
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17818,
+   "min_z": -10000.0,
+   "assignment": 41826
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17819,
+   "min_z": -10000.0,
+   "assignment": 41827
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17820,
+   "min_z": -10000.0,
+   "assignment": 41828
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17821,
+   "min_z": -10000.0,
+   "assignment": 41829
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17822,
+   "min_z": -10000.0,
+   "assignment": 41830
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17823,
+   "min_z": -10000.0,
+   "assignment": 41831
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17824,
+   "min_z": -10000.0,
+   "assignment": 41832
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17825,
+   "min_z": -10000.0,
+   "assignment": 41833
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17826,
+   "min_z": -10000.0,
+   "assignment": 41834
+  },
+  {
+   "map": 329,
+   "area": 0,
+   "ui_map": 317,
+   "bounds": [
+    3338.969970703125,
+    3809.449951171875,
+    -3617.679931640625,
+    -2911.9599609375
+   ],
+   "wmo_group": 17827,
+   "min_z": -10000.0,
+   "assignment": 41835
   },
   {
    "map": 349,
@@ -106496,6 +112665,566 @@
    "assignment": 41019
   },
   {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 340,
+   "bounds": [
+    -240.0,
+    594.8330078125,
+    23.87053871154785,
+    1276.1201171875
+   ],
+   "wmo_group": 22363,
+   "min_z": -10000.0,
+   "assignment": 42029
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 340,
+   "bounds": [
+    -240.0,
+    594.8330078125,
+    23.87053871154785,
+    1276.1201171875
+   ],
+   "wmo_group": 22364,
+   "min_z": -10000.0,
+   "assignment": 42030
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 340,
+   "bounds": [
+    -240.0,
+    594.8330078125,
+    23.87053871154785,
+    1276.1201171875
+   ],
+   "wmo_group": 22365,
+   "min_z": -10000.0,
+   "assignment": 42031
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 340,
+   "bounds": [
+    -240.0,
+    594.8330078125,
+    23.87053871154785,
+    1276.1201171875
+   ],
+   "wmo_group": 22366,
+   "min_z": -10000.0,
+   "assignment": 42032
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 340,
+   "bounds": [
+    -240.0,
+    594.8330078125,
+    23.87053871154785,
+    1276.1201171875
+   ],
+   "wmo_group": 22367,
+   "min_z": -10000.0,
+   "assignment": 42033
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 340,
+   "bounds": [
+    -240.0,
+    594.8330078125,
+    23.87053871154785,
+    1276.1201171875
+   ],
+   "wmo_group": 22368,
+   "min_z": -10000.0,
+   "assignment": 42034
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 340,
+   "bounds": [
+    -240.0,
+    594.8330078125,
+    23.87053871154785,
+    1276.1201171875
+   ],
+   "wmo_group": 22369,
+   "min_z": -10000.0,
+   "assignment": 42035
+  },
+  {
+   "map": 564,
+   "area": 0,
+   "ui_map": 340,
+   "bounds": [
+    -240.0,
+    594.8330078125,
+    23.87053871154785,
+    1276.1201171875
+   ],
+   "wmo_group": 22500,
+   "min_z": -10000.0,
+   "assignment": 42036
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 21697,
+   "min_z": -10000.0,
+   "assignment": 42037
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 21700,
+   "min_z": -10000.0,
+   "assignment": 42038
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 21701,
+   "min_z": -10000.0,
+   "assignment": 42039
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 22071,
+   "min_z": -10000.0,
+   "assignment": 42040
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 22072,
+   "min_z": -10000.0,
+   "assignment": 42041
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 22340,
+   "min_z": -10000.0,
+   "assignment": 42042
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 22355,
+   "min_z": -10000.0,
+   "assignment": 42043
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 22360,
+   "min_z": -10000.0,
+   "assignment": 42044
+  },
+  {
+   "map": 564,
+   "area": 0,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 22427,
+   "min_z": -10000.0,
+   "assignment": 42045
+  },
+  {
+   "map": 564,
+   "area": 0,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 22428,
+   "min_z": -10000.0,
+   "assignment": 42046
+  },
+  {
+   "map": 564,
+   "area": 0,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 22442,
+   "min_z": -10000.0,
+   "assignment": 42047
+  },
+  {
+   "map": 564,
+   "area": 0,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 22496,
+   "min_z": -10000.0,
+   "assignment": 42048
+  },
+  {
+   "map": 564,
+   "area": 0,
+   "ui_map": 341,
+   "bounds": [
+    380.0,
+    1030.0,
+    -176.0,
+    799.0
+   ],
+   "wmo_group": 22499,
+   "min_z": -10000.0,
+   "assignment": 42049
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 342,
+   "bounds": [
+    400.0,
+    1070.0,
+    -191.0,
+    814.0
+   ],
+   "wmo_group": 22070,
+   "min_z": -10000.0,
+   "assignment": 42050
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 342,
+   "bounds": [
+    400.0,
+    1070.0,
+    -191.0,
+    814.0
+   ],
+   "wmo_group": 22073,
+   "min_z": -10000.0,
+   "assignment": 42051
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 342,
+   "bounds": [
+    400.0,
+    1070.0,
+    -191.0,
+    814.0
+   ],
+   "wmo_group": 22074,
+   "min_z": -10000.0,
+   "assignment": 42052
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 342,
+   "bounds": [
+    400.0,
+    1070.0,
+    -191.0,
+    814.0
+   ],
+   "wmo_group": 22075,
+   "min_z": -10000.0,
+   "assignment": 42053
+  },
+  {
+   "map": 564,
+   "area": 0,
+   "ui_map": 342,
+   "bounds": [
+    400.0,
+    1070.0,
+    -191.0,
+    814.0
+   ],
+   "wmo_group": 22429,
+   "min_z": -10000.0,
+   "assignment": 42054
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 343,
+   "bounds": [
+    343.3330078125,
+    636.6669921875,
+    134.99951171875,
+    575.00048828125
+   ],
+   "wmo_group": 21697,
+   "min_z": 185.0,
+   "assignment": 42055
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 343,
+   "bounds": [
+    343.3330078125,
+    636.6669921875,
+    134.99951171875,
+    575.00048828125
+   ],
+   "wmo_group": 22344,
+   "min_z": -10000.0,
+   "assignment": 42056
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 343,
+   "bounds": [
+    343.3330078125,
+    636.6669921875,
+    134.99951171875,
+    575.00048828125
+   ],
+   "wmo_group": 22348,
+   "min_z": -10000.0,
+   "assignment": 42057
+  },
+  {
+   "map": 564,
+   "area": 0,
+   "ui_map": 343,
+   "bounds": [
+    343.3330078125,
+    636.6669921875,
+    134.99951171875,
+    575.00048828125
+   ],
+   "wmo_group": 22426,
+   "min_z": -10000.0,
+   "assignment": 42058
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 344,
+   "bounds": [
+    664.1636352539062,
+    1110.830322265625,
+    -70.0,
+    600.0
+   ],
+   "wmo_group": 22341,
+   "min_z": -10000.0,
+   "assignment": 42059
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 344,
+   "bounds": [
+    664.1636352539062,
+    1110.830322265625,
+    -70.0,
+    600.0
+   ],
+   "wmo_group": 22342,
+   "min_z": -10000.0,
+   "assignment": 42060
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 344,
+   "bounds": [
+    664.1636352539062,
+    1110.830322265625,
+    -70.0,
+    600.0
+   ],
+   "wmo_group": 22346,
+   "min_z": -10000.0,
+   "assignment": 42061
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 344,
+   "bounds": [
+    664.1636352539062,
+    1110.830322265625,
+    -70.0,
+    600.0
+   ],
+   "wmo_group": 22353,
+   "min_z": -10000.0,
+   "assignment": 42062
+  },
+  {
+   "map": 564,
+   "area": 0,
+   "ui_map": 344,
+   "bounds": [
+    664.1636352539062,
+    1110.830322265625,
+    -70.0,
+    600.0
+   ],
+   "wmo_group": 22478,
+   "min_z": -10000.0,
+   "assignment": 42063
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 345,
+   "bounds": [
+    450.0,
+    920.0,
+    -67.5,
+    637.5
+   ],
+   "wmo_group": 22343,
+   "min_z": -10000.0,
+   "assignment": 42064
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 345,
+   "bounds": [
+    450.0,
+    920.0,
+    -67.5,
+    637.5
+   ],
+   "wmo_group": 22345,
+   "min_z": -10000.0,
+   "assignment": 42065
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 345,
+   "bounds": [
+    450.0,
+    920.0,
+    -67.5,
+    637.5
+   ],
+   "wmo_group": 22347,
+   "min_z": -10000.0,
+   "assignment": 42066
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 345,
+   "bounds": [
+    450.0,
+    920.0,
+    -67.5,
+    637.5
+   ],
+   "wmo_group": 22352,
+   "min_z": -10000.0,
+   "assignment": 42067
+  },
+  {
+   "map": 564,
+   "area": 3959,
+   "ui_map": 346,
+   "bounds": [
+    606.6666870117188,
+    843.3333129882812,
+    137.5,
+    492.5
+   ],
+   "wmo_group": 22351,
+   "min_z": -10000.0,
+   "assignment": 42068
+  },
+  {
    "map": 565,
    "area": 3923,
    "ui_map": 330,
@@ -106582,6 +113311,115 @@
  ],
  "dungeon_map_chunk_sha256": "c9fda294ce565501518aa782957a5fe45d92147a79c34a5f29493194a8d318c3",
  "wrath_geometry": {
+  "33": {
+   "3.3.5a": {
+    "033.vmtree": "0a1646d497baf75bd41b40fc02904b6c6b99767dbeef871791bafd34be69c437",
+    "033_27_30.vmtile": "91aa5c77c863f60041885c4925f5ce9397e81c770e78e2dc3135711080036be5",
+    "033_27_31.vmtile": "0629024d0b9a41d6942ed99b1f37538cd7f6f17758e71bfbd20f1408d47cd753",
+    "033_27_32.vmtile": "b4145ab503f0eca1a22d429d13f3acca814fa8beeb84c27b81e9fddf454f5da1",
+    "033_27_33.vmtile": "09b0d6ed0f9c17ac66b840db4cd00370314679abbba153146d7139e786b3b977",
+    "033_28_30.vmtile": "d0620f3903c49c1704c59013367ac7592322e08c00131c7652ebb2e76910fed7",
+    "033_28_31.vmtile": "a0bc2a8342d8b9fbce661cf7c56dd5b94d9797810330885fb5c7e0d1e8180a4f",
+    "033_28_32.vmtile": "6e6ad9dc6b59918bc2e96221c3d576a96f8dafb48f68ba5441138446fdd648af",
+    "033_28_33.vmtile": "b84fda1f16cc51a473e273e23ca7249fb35c4bfc894070b766f04ab30f2a0d9c",
+    "033_29_30.vmtile": "ce83b471592db383dc6709b943579ffe8abaf233acfa4be3c3bcff631a90a135",
+    "033_29_31.vmtile": "a6e6d66c44ff944d33fd1563c371d3fd22cc6cdd8a9f21149035ed72028fb5bc",
+    "033_29_32.vmtile": "d9017ab1090e9a797362edfaf392076c846c164553e564406a279c838d58d7b6",
+    "033_29_33.vmtile": "5455b5be1ee1ac3a8c72f9d48e9ffd9577b4b0bd91336b59dfeb75936e75be51",
+    "Shipwreck_A.wmo.vmo": "c7c9cd6a748ff23124c141160a3f5665e0a3a710f2bc46a96b0d2dae011d8f44",
+    "Duskwoodabandoned_Human_Farm.wmo.vmo": "b5e3557fd0b56d3504dc18c5c1b51f3b30d076a653a85a0a5e5db74862c26f9b",
+    "Md_Cryptonerm.wmo.vmo": "3c4e0be1ed810a7d9ab35cc683cab275ac83169ab3b869ca3f9c2e1a72abbd89",
+    "Duskwood_Human_Farm.wmo.vmo": "b21af387b92bc553ad26b83afb40f74aaa5e53f5ace4ad37c3cd48020e3e087d",
+    "Ld_Shadowfanginterior.wmo.vmo": "011bfc5673323446d7d188a4ccf174de545c11766fc33009b595679b7608b79a",
+    "Duskwood_Stable.wmo.vmo": "e7b0aaeb22f40a07cd31d02671f473ed66a819e0b55bd2c5938239e26f9f7e58",
+    "Duskwood_Inn.wmo.vmo": "bb5c50575807b82a0fcbbb0631d3a06090571d194f1610b8c8bf137bc9e700f2",
+    "Greatwall_Wall_04.wmo.vmo": "f088f05df4c51bbb36261b416293779f48ee1b3ec0e1231677e4220bdecb41b3",
+    "Greatwall_Gate.wmo.vmo": "9cc08a0ac0e4ada5c673a1b0c4b54e74668d917f27640aaefa4c8c5a7aad84c9",
+    "Duskwoodabandoned_Barn.wmo.vmo": "276a9fb15cb2e39c09957d431bc2118964bab3ce5ec027cde891bb0f2b0d2148",
+    "Duskwoodabandoned_Humantwostory.wmo.vmo": "8f99805e86f1169b0472eb5ac3a33eb549bb397ee7c867bbd3b7520734868faf",
+    "Duskwood_Humantwostory.wmo.vmo": "828bae83177971c4a3d50a93ab34c022554c94af7c17e45686a94f64b64d768a",
+    "Duskwood_Blacksmith.wmo.vmo": "697c8abf977344c76130f6581c66fb2e3d85a6e37ac4130d6339235bfea2dea1",
+    "Duskwood_Townhall_Nowall.wmo.vmo": "adeb028b6da6b5971df71e74fb7cc18a2b42d738d74e7cf91de1a145c36e192f"
+   },
+   "63697": {
+    "0033/0033_29_27.vmtile": "06a490af709307dace543871bc6346e4c308b5f16dd5da1973290cb1503a948c",
+    "0033/0033_29_28.vmtile": "6a284c56a305646049786c74a6872c54420be48e729a78ae6a9d223b6602438d",
+    "0033/0033_30_27.vmtile": "259cf0850f168d09e486bef1096d650bb39ef9822c96633529796dbf3232d5c7",
+    "0033/0033_30_28.vmtile": "7d09203b35d2c1a34917b4b35ea56283f82e8aa73b6129e74f39ef71db8b953c",
+    "0033/0033_30_29.vmtile": "ea78aed3414c0d8469c578f8a5c8e1bdb0f677250fe88d038c51ac4e86faa032",
+    "0033/0033_31_27.vmtile": "16155bcbc2f7406dc6857ab5820e8a9f18db313e167c65ad18851fb2adc857a6",
+    "0033/0033_31_28.vmtile": "82ca426ce7673b92e9965b678e8b4cb6a5bffef3b4910295f9c1df243c7a1c1c",
+    "0033/0033_31_29.vmtile": "03a3e4ad4f9907d0afc92e3b2eb645ccf9c8d295cb36515f17c54f6bca8b85f8",
+    "0033/0033_32_27.vmtile": "0c422a18f809853cbe02ed6fb7459270ec1c26a6909ed7947e879c9421d44bc9",
+    "0033/0033_32_28.vmtile": "044dcdee844c6abdbcfbea842fce7e8ad7d304e275e6e4ce27d77092975dcbe4",
+    "0033/0033_32_29.vmtile": "32c24b65491e92bfb93782b25a22952db45a0a25becdd9f694855ab7abccd81c",
+    "0033/0033_33_27.vmtile": "dd7a6fd21f4ab9b82ebe9ffeaf3b86f6643c2908039d1a98bf1988db74ed69fe",
+    "0033/0033_33_28.vmtile": "04cc25d5d21f4e803566f591bcbaf103f0180decab1684811ae7a0e1a0ccf443",
+    "0033/0033_33_29.vmtile": "831c20a800fe7178dc4f4b3e23bb274e7353e31c8d21f1eebef1787a3b61aaba",
+    "FILE0001A130.xxx.vmo": "4cfd31bc0e816ba061c1866cb7f9980f771b8114e775b65d10269a4e44a0a1cc",
+    "FILE0001B399.xxx.vmo": "5656d73f41c12e09bc6703605bebc93c1a76a6d722e10359b7ae6ad6cc3e8c22",
+    "FILE0001B03A.xxx.vmo": "5264bd1b47ee964893206d5bc45eaeef12e27a3fefed5a3ac4669dc71d877ce8",
+    "FILE0001A129.xxx.vmo": "59d644643ae89fc8c8c4456aba7b86d5a784c5241f5b98fa8469165bea40b814",
+    "FILE0001A133.xxx.vmo": "aa305504d4657bebad9dafb5c4385cdec39f512e7d5eb58a4140df813aa51a7c",
+    "FILE0001A0EF.xxx.vmo": "957c4a415d9afab393faae4bd89f0146a1410a987428419e82e80a0b60ee1962",
+    "FILE0001A11B.xxx.vmo": "83e30a69496fa594d12d490d77191e7aaf2f7495b6f47ac509a79356571843a1",
+    "FILE0001A0FB.xxx.vmo": "871d576e51bebf0d425383a3708215cfef72e7b74e82d2deecdd4f23aa7d206b",
+    "FILE0001AD93.xxx.vmo": "2b91c3f87a82b862476bf48b06e0684a30153b3260b8478c7c8a6ed6f6e2efa6",
+    "FILE0001A0F4.xxx.vmo": "2041177b8e655dd15cca716054bb08412df84569dab76cf5d53df24c79ce4c6c",
+    "FILE0001A0EC.xxx.vmo": "6e29697b7659c10fce85e638c2bda03718120a4c33acea1a6827a2bcac420a20",
+    "FILE0001A123.xxx.vmo": "eb592df47a0b718cdfbb0c312274c0daed48c34c5355067489ee609662dc60dd",
+    "FILE0001BD38.xxx.vmo": "ae527b18411c7e09cb15e1c67cde484d791f4477b62aae4fdca7dfdabd9fdf25",
+    "FILE0001BD2C.xxx.vmo": "18c24daf46acf0f25065a0d7dc0dc0a060500145251f0070b7589677032ccf11"
+   }
+  },
+  "36": {
+   "3.3.5a": {
+    "036.vmtree": "8c9f839528411cd936d945373751c23a54e0407c5721b89efef5c2c81509aa2d",
+    "036_30_33.vmtile": "e575d4176ea6fcba6cf07eb6adeeee430f1db8b8d41f3d370374716b465cf10b",
+    "036_30_34.vmtile": "1f63f2c24b52251d4fe5d50240d2e6a41a0ee0a915bfe41939cf4908af945648",
+    "036_30_35.vmtile": "a861470d0e7de31c01087f712a75f9cc356f4ea0b511dc52e322d7c4e329c171",
+    "036_31_33.vmtile": "e575d4176ea6fcba6cf07eb6adeeee430f1db8b8d41f3d370374716b465cf10b",
+    "036_31_34.vmtile": "9fac96c870beec8222d651c6a85b320db56321cfe31ead78259a7f23f86babcb",
+    "036_31_35.vmtile": "52bc0e10743ef04a73aab10efa321f5ac83ee21bca7d2a7a920f38fd1e819d38",
+    "036_32_31.vmtile": "6a63703d02f4ed676babbad81679892ad2497174c703a44867b49ae2a26ca3c5",
+    "036_32_32.vmtile": "6a63703d02f4ed676babbad81679892ad2497174c703a44867b49ae2a26ca3c5",
+    "036_32_34.vmtile": "81dce3bf384434b381aa9c59f024a3f048f2cdac3071b2ad5eb2a990d6b6c2f6",
+    "036_32_35.vmtile": "81dce3bf384434b381aa9c59f024a3f048f2cdac3071b2ad5eb2a990d6b6c2f6",
+    "036_33_31.vmtile": "b5c90a81ecf1f50753d32914cf53f5f98f3f8f64ff838ebb973402107c72f3da",
+    "036_33_32.vmtile": "6aa74501e7b534122ac165b3591bc16559c23f5dfa84ba6466c55a8fe0f293f9",
+    "Az_Deadmines_B.wmo.vmo": "0e5e6cb770a48591205bfd1e441019d832bd078fc1c6a7a245da0010dc041550",
+    "Greatwall_Wall_01.wmo.vmo": "a02a815599cbdcba3f27f4558a7ae9b606ec3d32bde4ee0d1040f88720375029",
+    "Greatwall_Tower_01.wmo.vmo": "d89391efdbc0f24f73736795efcce6fadf266a89ece7158c0190bdf53d948cdf",
+    "Az_Deadmines_D.wmo.vmo": "f51ab330c119bde5f0110f6e03f059bf6f55ae420b2adaec64eb51e1ab5eb997",
+    "Excavationplatform02.wmo.vmo": "3f146cd39b2b9229781ca838175a9a4e777c87bcb3d617145031911646ddc4c8",
+    "Excavationplatform01.wmo.vmo": "0a47e7c69e493435a74c23f0fae003efddae1024431e39a15fce8ae136fa11e4"
+   },
+   "63697": {
+    "0036/0036_31_32.vmtile": "ca1bf7a9b347339877f34a9c905feefa93ba9c674acf5677e900a4be4c16936b",
+    "0036/0036_31_33.vmtile": "f59498d5a48ed5040d08d54e598c971b56797ac4405099915d79c812a4e64762",
+    "0036/0036_32_32.vmtile": "b5e90285e5946e4e87e3ad1a31cbb6a95ef34560041ccd386ce432748ee2edf9",
+    "0036/0036_32_33.vmtile": "b89ffef182f6d21767b8f2c653e69ee085c1d54e4d2e3971f158135fd8f339ec",
+    "0036/0036_33_30.vmtile": "1bef7fc202f48cb53edbdb3964465cea334ca64b85decf1f189090fd97ac78a4",
+    "0036/0036_33_31.vmtile": "b223a4d3ca0a5e3258a347449dfd425a2dff34d7815b35c865d33b1b9374c191",
+    "0036/0036_34_29.vmtile": "845f3441875b44ddf33d28afeaade5bae084c3ef5113558f01a0f1e40d14ec2f",
+    "0036/0036_34_30.vmtile": "d1581fdb7d087193ead6016050ffd7f359a2eec924adb7e36ec549a74d92c118",
+    "0036/0036_34_31.vmtile": "5dd0fabed8d25bf56217715a2dfa45e02e4fd5e09369b39d36a12f763e64040d",
+    "0036/0036_34_32.vmtile": "39b9b8a699a8349c8c933ccbf81e77e42d2d7c3a8ef2561a1bea7ea002d10536",
+    "0036/0036_35_29.vmtile": "845f3441875b44ddf33d28afeaade5bae084c3ef5113558f01a0f1e40d14ec2f",
+    "0036/0036_35_30.vmtile": "0c6a0dddfd9cbeb21f960335b22c7452f4e9d60c9a41272be773f008cff2dc17",
+    "0036/0036_35_31.vmtile": "087e56f3641716567f58f000d76934ce99cc253ed62a4bdb86ac13393abe0742",
+    "0036/0036_35_32.vmtile": "39b9b8a699a8349c8c933ccbf81e77e42d2d7c3a8ef2561a1bea7ea002d10536",
+    "0036/0036_36_29.vmtile": "4a36a527916aba08b0fb6758b8162b1be85280b9e5b0ce561c6b926134d4aa11",
+    "0036/0036_36_30.vmtile": "3b30f6d40eeecede6aa402e288f915dec6d0ac3b16cb1bea21f87534d755bd57",
+    "0036/0036_36_31.vmtile": "2e73bc20cdb02e38a31053cdb80173d8a56e24db6d19e74128b1d3180963db3d",
+    "FILE0001A7C3.xxx.vmo": "416ac26f536b9034f8ad23fff61eab6230d746cd29c57d93451153e91776a975",
+    "FILE0001BD2E.xxx.vmo": "1a088787900ba54d54b28b039005f3ba7edd0f3346249cd0e8d89a26d4c3b460",
+    "FILE0001BD32.xxx.vmo": "4106e2cbeb8eadb4e3570be8c12ff0ec4653646cba9a851b89affdd5a76323ee",
+    "FILE0001A7FA.xxx.vmo": "58d4aee4b263b07ae3e2cb8b930ec845eed3b101f78f0a2f8fbc1eac91ad9788",
+    "FILE0001BDBB.xxx.vmo": "e41f8902897ea8db5ba76c6d498b8e87e9c6f3908e955a75d88e0b58ff63ac65",
+    "FILE0001BDBD.xxx.vmo": "6ddcaa4684bc2c76429f379ec35c48527d5163a06ceeb3868db0d5d2a114a6e5"
+   }
+  },
   "48": {
    "3.3.5a": {
     "048.vmtree": "14ed274d00ab20ba629d0ea471bd4a45698e01231b08fba2c5f66beeb5c448f2",
@@ -106622,6 +113460,35 @@
     "0090/0090_33_31.vmtile": "bd0f84993f2e89aaf6c50f76ea786a763c32816862a41d39fbb5527e2bf06108",
     "0090/0090_33_32.vmtile": "c3a1554678a158fcc95c5a168e7f60fe9e9b27696bb7db200b451a950463cdf0",
     "FILE0001AC35.xxx.vmo": "2e2cf4f4c144f9d7d95dbfd0909c84fa847f4a04e958bd9a2d335249ad2a81aa"
+   }
+  },
+  "189": {
+   "3.3.5a": {
+    "189.vmtree": "4d7f43fd68ddfc4e743dfa82cc5c19741820ad47a7ce8aaa5e96ec36480d1dd7",
+    "189_29_28.vmtile": "b348e08df778356aee41f25217e594ea406959d71eb816e4846d232ce4f95139",
+    "189_29_29.vmtile": "8238c5d195eb8f71cfdebcf56e1f10dd31f31296e3ced8bba0756973a92f1165",
+    "189_29_30.vmtile": "8238c5d195eb8f71cfdebcf56e1f10dd31f31296e3ced8bba0756973a92f1165",
+    "189_30_28.vmtile": "b348e08df778356aee41f25217e594ea406959d71eb816e4846d232ce4f95139",
+    "189_32_28.vmtile": "3d0a0a1724dfafd245fbec1202a35dbb1de0d2f312297cc184bee5813207a38e",
+    "189_32_29.vmtile": "3d0a0a1724dfafd245fbec1202a35dbb1de0d2f312297cc184bee5813207a38e",
+    "189_32_31.vmtile": "f82996c6f56f8ec9f2713b7673a8edbcfa2debef80132b9bffd90456a71688ba",
+    "Monestary_Cemetery.wmo.vmo": "642e18c4bb73ff3fdb124103be1e76b83a7494e1d61713148fd9e38d236198ca",
+    "Monestary_Cathedral.wmo.vmo": "f7ac22a96847eb19f760a990f6f816a5f548c6f8707ec202bfd1f59995ed6d0c",
+    "Monestary_War.wmo.vmo": "b2132a80dc7b83d34ab0fb45eee208ae794acbd4fb6221f09293d4c17b462ae7",
+    "Monestary_Library.wmo.vmo": "75de183da45138b59ba4d85e53d823c99cb2743696d5f0fee0f43b5296fa0807"
+   },
+   "63697": {
+    "0189/0189_28_29.vmtile": "cf7584ea7529cd29075354c96addeadfe4824a2b0b1f9bba358d3fb008ac5ba6",
+    "0189/0189_28_30.vmtile": "1f30e7b9d03c856affd066f5216cec6cf3515cfeb526ede122177496f53a0e13",
+    "0189/0189_28_32.vmtile": "b25957e84513dd296c801c5c38e1532e243326c0fd657f658360667e8c1f72bc",
+    "0189/0189_29_29.vmtile": "ef3e5bbb4c616ad3bff1f6519420cbfe3a1fe4eba702fb02b647cec1c42c1cc0",
+    "0189/0189_29_32.vmtile": "09261da0fce1ab03bd71ffced097c7b89cd7c6a15dbce5a6d9054f89d59a15a4",
+    "0189/0189_30_29.vmtile": "ebbc97e92076929a50a54d0b488fd4dcee3894a1d168a7a6bcf8bd143306598d",
+    "0189/0189_31_32.vmtile": "b1beb86303e92fa3b2fb1c61c1fc7e7ae45f42df3a9e4c7c9f412c2274a5fbc4",
+    "FILE0001AD3F.xxx.vmo": "aa7bc0a3ee5b2e6bd3ea6251a7b9fbdc6b2857ff69f8478642b4cbd442573d21",
+    "FILE0001AD73.xxx.vmo": "bffe082630c94a28417a51e9add71cc9048cc68472e727695a8b19a802ed1cec",
+    "FILE0001AD26.xxx.vmo": "3f712468a105d34cff3accbf00e4cd2a9cc261f4d4262d269b95224f2dc3b75b",
+    "FILE0001AD58.xxx.vmo": "3d5c3654d5134d2a3b7372911bf20f0f1e40c08c5a047af408a4872b8ce290b0"
    }
   },
   "229": {
@@ -106669,6 +113536,99 @@
     "0249/0249_32_31.vmtile": "8f610447857bfd7d07caeb49f3e654dee479ee189204dd70daf4c5fd036531ef",
     "0249/0249_32_32.vmtile": "0889a14f5b2857db7ea2891df8c4ca05b34f0fb5806e1f806239ddf884a25220",
     "FILE0001ABA2.xxx.vmo": "3ccfcb9f06c237e3426ebbc308e694d77861d8670d58e61f3047af1cab4e00a8"
+   }
+  },
+  "289": {
+   "3.3.5a": {
+    "289.vmtree": "d12deda8e8008443a5c2e5ea4be7dfeee9a63bbad266eb0a74117f850bc0bd6b",
+    "289_30_30.vmtile": "71e3497861b03e2b801af7614302263b5b113c72d250be8812cbaed0f07f4b61",
+    "289_30_31.vmtile": "c10836ac93149bafd1351194cf9d7582bf0bdd8b0b84eb54bd6e233965d4cf16",
+    "289_31_29.vmtile": "1c921a6b38faa927d5dd63da9ed68550a06cd18489dde7a30a8525084227c574",
+    "289_31_30.vmtile": "f854f5742e533cd2810053006cfe295d622e8c6c20435d155e9892208b17d5f4",
+    "289_31_31.vmtile": "0f66bfe5b1c55bb1dc16c597c27761e9bb29fe87e87f159cd1c9bd351afae803",
+    "289_31_32.vmtile": "d658bd7568947e089f6e0720f1913611deb5829bcacea2a7b29e84233ad886fd",
+    "289_32_30.vmtile": "d73407383d0137948debd05f90a0c286192dca19d12373095c1730198481270f",
+    "289_32_31.vmtile": "6c215404aa6ce0fee82baa006fc6fd5668f1b231ce8d6980d93aac980ed97106",
+    "289_32_32.vmtile": "d658bd7568947e089f6e0720f1913611deb5829bcacea2a7b29e84233ad886fd",
+    "289_33_30.vmtile": "fcbad33ad13094a23dfe69c2e539659f382431326d97f7afd96a5f2d5d29a09a",
+    "289_33_31.vmtile": "a322e7ec1ce830c7b09e3f268deff9d42e8234f52aadf6a86218f693c2167d3c",
+    "Duskwoodabandoned_Human_Farm.wmo.vmo": "b5e3557fd0b56d3504dc18c5c1b51f3b30d076a653a85a0a5e5db74862c26f9b",
+    "Duskwoodabandoned_Humantwostory.wmo.vmo": "8f99805e86f1169b0472eb5ac3a33eb549bb397ee7c867bbd3b7520734868faf",
+    "Duskwoodabandoned_Barn.wmo.vmo": "276a9fb15cb2e39c09957d431bc2118964bab3ce5ec027cde891bb0f2b0d2148",
+    "Plaguelandsbridge.wmo.vmo": "7f30d97a29f6d20ff2f105ef79076daccf94287e4182c8404722b6105091d346",
+    "Ruinedkeep_Crypt_Instance.wmo.vmo": "2ebc43967777e886d149c1f9b0d534395f8281d60ac427a50f25bd812b372e0a"
+   },
+   "63697": {
+    "0289/0289_30_30.vmtile": "c753059fbc29838d3598ba9e47c6a501fffa49841a3f96b5dbedd6fb2ea334b7",
+    "0289/0289_30_31.vmtile": "79365e55b8323d60615cb73267510344ffd09ff6ae7464a85eca4bf733451d15",
+    "0289/0289_30_32.vmtile": "2cdd2b2fd036aa2ed8efbde5943e458d218b15126de7880c655fb6646fb2a652",
+    "0289/0289_30_33.vmtile": "bd7a9883a38860be4fb94f0e943217128af063af9daeb2bcfb43a69d3a9e10d8",
+    "0289/0289_31_30.vmtile": "6674ed9518620cf078858df24c8cced28079edccdc17389dcbe1a676d40d7699",
+    "0289/0289_31_31.vmtile": "be78293f6321ea459b46837071ba6ec3143df4394d57e66be7b210e7f7cafebf",
+    "0289/0289_31_32.vmtile": "c041a0b0d1412782c8944f407eb4f9c74f5d21d5a1150ab74f5acb9d31e0ddc6",
+    "0289/0289_31_33.vmtile": "0e8f8ca8422541bd5fe28f61c5612742fc177ece22731934abb2bfdb41ebd5aa",
+    "0289/0289_32_31.vmtile": "203ff238904cd242805f096ac5dd12b6168eeed8d2532515610f8a65ac84d0d2",
+    "0289/0289_32_32.vmtile": "0e2786305be3ff119c4e7d7dd5bc780eec7ef09d0c70a72f33143e755804f1ca",
+    "FILE0001BFB2.xxx.vmo": "c70312aa62a67b3b72d833c18cda43721135f79fb76d98a2986e5827c8653fee",
+    "FILE0001A129.xxx.vmo": "59d644643ae89fc8c8c4456aba7b86d5a784c5241f5b98fa8469165bea40b814",
+    "FILE0001A133.xxx.vmo": "aa305504d4657bebad9dafb5c4385cdec39f512e7d5eb58a4140df813aa51a7c",
+    "FILE0001A130.xxx.vmo": "4cfd31bc0e816ba061c1866cb7f9980f771b8114e775b65d10269a4e44a0a1cc",
+    "FILE0001B382.xxx.vmo": "dcfbcc57d5feaadacc836ca3576c2037af99f166d53769ab2145f77af007a121"
+   }
+  },
+  "329": {
+   "3.3.5a": {
+    "329.vmtree": "270a57ae2e9e3bea1c493c6775ee958983c41797111c93bbd6ac5e17d99cd18c",
+    "329_36_26.vmtile": "80c787fc445b1dbca846d7932ffa2a35556e197404d52b5ffb1b4bff66214003",
+    "329_36_27.vmtile": "1710d1fb9b23f2266cb5106310c1b2e276ce52dd53eb649ee5de398c7363040a",
+    "329_37_24.vmtile": "d2b0d4919fd5e557a12cd5985472b2c9d87ebde6642fdc1a5a773ba24eee0f7c",
+    "329_37_25.vmtile": "51a9e2aefee360ce1745f600412e10a823026c59f301fff5560eb5061f1005f6",
+    "329_37_26.vmtile": "3fd56583b0433e43ec78b7ecb79c023d08916fce3f3e9d6b26e4f0af484d1796",
+    "329_37_27.vmtile": "df6cc01b4ae0e03d7c72caff3ed0afe4907d90b02946c2cea8cfcec6705a985e",
+    "329_38_24.vmtile": "d2b0d4919fd5e557a12cd5985472b2c9d87ebde6642fdc1a5a773ba24eee0f7c",
+    "329_38_25.vmtile": "800a2d2efb638dd13abcdf4d86c49baacc91a886a10043e199fa3a6bb5718c6d",
+    "329_38_26.vmtile": "b96d817f3618f6a79b745c3fdca7af60e97a6f7ba97843a7cf8e697f62b8b964",
+    "329_38_27.vmtile": "162bc26c8609b9201ca68b272c894de9bb84ff8ecd84a456c36ed0e2b76d10e9",
+    "329_39_24.vmtile": "d2b0d4919fd5e557a12cd5985472b2c9d87ebde6642fdc1a5a773ba24eee0f7c",
+    "329_39_25.vmtile": "655089a7833c09c05a739bd75adb7aaafd6eb816e3985ebfb053413ee5bcb6cc",
+    "329_39_26.vmtile": "66d04c278d0f21e0a1803a20b921017c3ec82eaba1eadc971c023f379401cb46",
+    "329_39_27.vmtile": "56fdfd8f31b9b8fab80e201d3e24c63b068fbc39dce5e34b36b5afcd391866e9",
+    "329_40_25.vmtile": "20dbf553aaf377fce14f21577cbf1431f18ecb55c59afdf290bb9ea74ef36c94",
+    "329_40_26.vmtile": "dce67a4c5386c253de7636df4c21de2ded3b2fd619e85ed61fe06810043a9f3d",
+    "329_40_27.vmtile": "3f839a3c8f9cc3919c969dee3f2aa18109e8020f4fd39f460130db2a6a1b4346",
+    "Stratholme_B.wmo.vmo": "a7f9e98883e966a2c7f003fb02dde1d65eebd28b849fed03211638684e957f1b",
+    "Md_Cavetunnel01.wmo.vmo": "dda0ced582d2e11f43a63ee8f05658d7d2de7dcb584243f0df4a92632f3f72cb",
+    "Undeadziggurat.wmo.vmo": "c77002689827458f7cc974faea7ed1923cdb1caf67ddd25e59b8592c85809a12",
+    "Slaughterhouse.wmo.vmo": "0206957153c8db566d309c09ca134e046262dd01ece0c3e80708eb715c30ca21",
+    "Duskwoodabandoned_Human_Farm.wmo.vmo": "b5e3557fd0b56d3504dc18c5c1b51f3b30d076a653a85a0a5e5db74862c26f9b",
+    "Duskwoodfarmhouseburnt.wmo.vmo": "2956e2864f027c03c64d71b8a5a0f4590bcd3df8ed2e8fc3dbba54007851dd2f",
+    "Huruinedbuildingssmall01.wmo.vmo": "c148294f1e9bd1a691c0bb42e35954901270cb0809a9c07fa94c35c60e54d6ac"
+   },
+   "63697": {
+    "0329/0329_24_37.vmtile": "5d6f09d1f8fad03a66d28792c23b3dae4aba4b99fc7bca629b10636d76533c4e",
+    "0329/0329_24_38.vmtile": "63e9c9d5041e7cd7b043f786d1389b4006f87d24961bdcc45ed21610d8d2db35",
+    "0329/0329_24_39.vmtile": "620c2503f44850a4fa38421e00728f0bf00350c7b4adca4f0b93f91256b33770",
+    "0329/0329_25_37.vmtile": "55ec0c70597dff7eb2d2bbe76fa3aa06dee9edd96c5eebcf4fae27970e6470e3",
+    "0329/0329_25_38.vmtile": "6f92baba92e42bcd19f052060b02c588216519cfdcbbd516fe5d247772f48937",
+    "0329/0329_25_39.vmtile": "b4d12eb8115915046f15852c03e2388d51c86dae1e948f005d2b074d19ff29bd",
+    "0329/0329_25_40.vmtile": "8b85d79150c1db2b7c80ee275d99265270a348bc797e322d88bd6dc1469df3f9",
+    "0329/0329_26_36.vmtile": "90c5136f1830af32433efdf3594d3bec9a278caee87669eef908604751a87720",
+    "0329/0329_26_37.vmtile": "a02ad519b7fdfe2353276129bbc1226acac94a4985dc1184e4471d0fd8a46750",
+    "0329/0329_26_38.vmtile": "94f8e3dd3f7c63ed76cd0b6c7b090b20085f6c7a43649095774c52b656f736c6",
+    "0329/0329_26_39.vmtile": "a95a09c6fb28d9f43a2c477af164c5a7a63477cbe3ba35c330ac56d7e2ec1826",
+    "0329/0329_26_40.vmtile": "5cbbe9511f983f0adc41232bcd56dad5ad02c53dba31a222017a0a69fbfccf02",
+    "0329/0329_27_36.vmtile": "c3d1dd45857f5bf101a73e07e9f58f8dd976338a4a1766238ae4a7a393227dc4",
+    "0329/0329_27_37.vmtile": "1f004c316f8ea35c0a408df36191341658f5593b2eb59c7abe4fe789e52f8d2f",
+    "0329/0329_27_38.vmtile": "d6f82267fd5a89f1bb9b60e84ded9c77588150478d7ff45fcfc944c3cdb02c10",
+    "0329/0329_27_39.vmtile": "76fc637e2faec08f61d9e8b9aec9d7fbdb8e1fbe9e01f6a956c3b9acb6979bc6",
+    "0329/0329_27_40.vmtile": "f6b0fc7989a2eaaf48d1c73027f7ca5b6c4779a57cdf3a537a00705c99772585",
+    "FILE0001AE4F.xxx.vmo": "8319584ff215d64da0c31a637f9cbd28c53fee6d0ee0ac27e60721abbebee083",
+    "FILE0001AFD9.xxx.vmo": "3c677d20808425b4375a7805cd3cc79437c37c887688d4323fec383484846fd5",
+    "FILE0001BE0F.xxx.vmo": "b8e96fa4372259ca8b43caed0ba06a08695a1db5ca0d281aa28046c7cc4087b8",
+    "FILE0001BDF1.xxx.vmo": "e1d9a6c5325912bf83ad552d12aea0be51c601e6a6a19f8b065f64f226fa5fc7",
+    "FILE0001A0F2.xxx.vmo": "cc6f686b2deebe903735de8429b437fa7f6b924482f7bf022addf3dabc4cd3b3",
+    "FILE0001BF94.xxx.vmo": "aa77ba1474e5819851277a19c5b6318cf99b9430a6838258a70081366ae658e6",
+    "FILE0001A130.xxx.vmo": "4cfd31bc0e816ba061c1866cb7f9980f771b8114e775b65d10269a4e44a0a1cc"
    }
   },
   "349": {
@@ -107125,6 +114085,63 @@
     "0558/0558_32_31.vmtile": "f03d2e7d24d18c7fd3d8fe8eac03e2e0493b13c098468760c1548392f6eb3f8a",
     "0558/0558_32_32.vmtile": "c74a593fab350e92d29e1980240b9f1372b2bdbb50027ad2c7613f4d64b21ee3",
     "FILE0001B546.xxx.vmo": "699293ce29676da86b01a6f2ca0175656f9fbdda05e4700e99797142d3472e25"
+   }
+  },
+  "564": {
+   "3.3.5a": {
+    "564.vmtree": "67a991d11f545e334aabed3681e16870ac6368e2a6efdbde029b978c27f77a29",
+    "564_29_28.vmtile": "19db1306a0398324b5b6975c1a349f0425137e85a1008631bd3cad772230f772",
+    "564_29_29.vmtile": "db491934cb6c89faaf3673c8f574abc982e787a43eaf34851ac66ced83f0fb37",
+    "564_29_30.vmtile": "3400d457e2d49919304e049a9ac54a80fef28978d0e035c2b8ff8b68598b1914",
+    "564_29_31.vmtile": "29d51ea8473d15a3191d3cad4849fd6699b20161e24d87255576f2f6be741a27",
+    "564_29_32.vmtile": "5df8db6927a12453253a0b01de7b059cc353bd0f917f52345134412f1d1bc3cb",
+    "564_30_28.vmtile": "2644bf942fb7d891af782aa4c576a25fba6fb855f8481ee1a0294a5433c430b4",
+    "564_30_29.vmtile": "f1077d5faabf3019f36b2110671065b521cc18d5767d55110a7a523acecd4f6e",
+    "564_30_30.vmtile": "cb014d015254aad6c63b90a3f031fab14917989931087d3a95ea4ce285a941d5",
+    "564_30_31.vmtile": "bde6b1f8e0fed57d61d69d8737e657ca3b96a878cc9992fe99bc4932526a2ee6",
+    "564_30_32.vmtile": "186683233ad0da786aee38c905dcb28d410ddfef1fca974b7f6cc8dc79bb1adb",
+    "564_31_29.vmtile": "8cd274dd93b95ff940529b00d58d72db77100990a5756803ac87d04659a8e5f3",
+    "564_31_30.vmtile": "96ff61eb87c76ff0580e8f2648e8aa02c5dbd1fcf25be24905c2e902ceece677",
+    "564_31_31.vmtile": "f7e7f863a26b3b7790e5347af9dc307039debf6b12079f63a24b1eea9d62b210",
+    "564_31_32.vmtile": "33b1c96b97d59d1a537ca9dd923d395a19ae8d63078c1bb290fc14d0ae0d932e",
+    "564_32_29.vmtile": "069d5ed4621d8cf76de8d32426f3f3c5875026f36c5176403f0f0a2f3046c0de",
+    "564_32_30.vmtile": "157d5ce1c2570da5bfec16f1fceacf34416ad4d3c0f98625527b33c8257d75f8",
+    "564_32_31.vmtile": "e544a151db4d1cf52736bc1385518f7ad7037aa9ecf7ac0fe99257b6f9ff069d",
+    "564_32_32.vmtile": "ae7be5d6e60f3e71572491a0659262da35584c754afc47151a6758d8f4e92f8f",
+    "Shadowmoon_Battlementright.wmo.vmo": "a785f645cc244ff38efee890cae1db5dd0103c4d589cbd94cc3da66754588ee6",
+    "Blacktemple.wmo.vmo": "02f5fe6802d7b5975430c2b0f9d1bd6b80948114befe895e9556d97dfe861edb",
+    "Shadowmoon_Battlementleft.wmo.vmo": "68e8cf3d0826a6233ade571704fe38e7ff654ef48e2c4bbb0979cc71a9fe34c8",
+    "Hellfire_Human_Seigetower_B.wmo.vmo": "a0fda98db7c576c4d8b7f5699cc4635f275de5b37817d3f3ab78cb5070ddaa96",
+    "Hellfire_Human_Seigetower_C.wmo.vmo": "f70ff22b6fa5ce2855557f1f6138f3a7502edc1358663072e382bc2dddcd16ae",
+    "Bt_Barrierspikeswall01.wmo.vmo": "85c984f4362b2128a9c4f62630bf41e2e40e938754e6e6dd338f3a85656f98bc",
+    "Bt_Barrierspikeswall02.wmo.vmo": "737d80f2a75e98e2f272c82fbba08a58c9a97332403245614f649b7d299a40ce"
+   },
+   "63697": {
+    "0564/0564_28_29.vmtile": "ff63bbc377dc7b288a70a8b08605b592441846880ea03e304764ffa4522f3fd9",
+    "0564/0564_28_30.vmtile": "b3772120b7d0e34589fbfad4da678c46dc2cfbd14dd0c12d77c0aecb4bc07273",
+    "0564/0564_29_29.vmtile": "dccb3331e16212f53dfd73c8c36078e70ac449d9d75ada9c02bc6077a55a331e",
+    "0564/0564_29_30.vmtile": "9a86ed31a3d94923e9be7c19a18a422584e4a96dc9d79cbe3759125ac2be610c",
+    "0564/0564_29_31.vmtile": "bb350ca71b45e8af0b0351e432f80ae431a0e61e38300d0fc5e301d2af5e2420",
+    "0564/0564_29_32.vmtile": "7ba291f2d07232193c3acfc41dbc817bae1389d7094c1b5646ca4ca259e62002",
+    "0564/0564_30_29.vmtile": "b4163ec7a23fc49331a65e8b81408630ac970119e328dd2b8249093907fb5e87",
+    "0564/0564_30_30.vmtile": "40e8e1c0215c8a6edcc834a3ebb847347190a8d2e869e0f1196ec4df9732ab36",
+    "0564/0564_30_31.vmtile": "28f7ff56fea3189ef3939341deef0378508b9777a7192536243ffa88c0a65fce",
+    "0564/0564_30_32.vmtile": "98276746da455c63d30a2a239161842a54abb7c57252be4a7774f1e58e8e03b1",
+    "0564/0564_31_29.vmtile": "9128c66343c53add61553f76943873b35d5162dab5bf8f3c6145df3950c502de",
+    "0564/0564_31_30.vmtile": "35f3fcb9b1bb33f0028ed0b0e29f9e9825159d23539966640f064cc4d9e5704a",
+    "0564/0564_31_31.vmtile": "550d21e64bb2fcebe2f7bb765a9216459d293d6a76bf50a717beca62aea4f488",
+    "0564/0564_31_32.vmtile": "8f49798c0f7a1b39413169f5e4c904e13df05aa97b8c29d6e07c33d27da2fa7e",
+    "0564/0564_32_29.vmtile": "b39cd361d716e6f88c17015162aff879a69839a3f4057f1a5d5ad36d9aa35297",
+    "0564/0564_32_30.vmtile": "795edb9d948c9b6e0231ccec0859fb10126c79f808da10009dfd8fd0dc4a8294",
+    "0564/0564_32_31.vmtile": "b726974682a3d077fa859f395f074b1d22213a0ce372012fd385ebe8f0d70e79",
+    "0564/0564_32_32.vmtile": "38ec7443faca73e298094f55696489fb0d9bb47da5a21a97a8d241d7bdf379f6",
+    "FILE0001A8E8.xxx.vmo": "ffee9856715ad329158417ca03d7736db432702e9ed82d0e26a9d3598fc7e002",
+    "FILE0001A8A9.xxx.vmo": "c3773e1389c8ab33feb48a3104d20d1fdc3dad51aa35f83d7f8f360a399de7fe",
+    "FILE0001B10B.xxx.vmo": "f18c397904c93919ed33a4d366df42de0e16d3fe69bc938a8cfe7bbc3937b2ec",
+    "FILE0001B109.xxx.vmo": "c8481849709fff02f0e4655a3b243e60e7ea25b87a4053b064d1d874472d3fd7",
+    "FILE0001A6A5.xxx.vmo": "bb8a784e099fd77c9ddc480c1fc56b836108295135977580ca0f866515f57042",
+    "FILE0001A6A7.xxx.vmo": "00e3a37ffb7fef7a5fd013d01737d6eee6f5b93374cb12fa640267e7eee35afa",
+    "FILE0001A8E4.xxx.vmo": "18f0d30c175f18bb1414c5a2770b3d287477b37f4ea2cccd4750ce2958f957fa"
    }
   },
   "565": {
