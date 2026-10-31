@@ -40802,6 +40802,18 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-blackwing-lair-1.webp",
     "sha256": "2cac5134985868528d03b15f0d7c56fa2869d927dbf4f05a4969e466d275564c"
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:160",
+   "floor_name": "Dragonmaw Garrison",
+   "floor_names": {
+    "deDE": "Garnison des Drachenmals",
+    "enUS": "Dragonmaw Garrison",
+    "esES": "Cuartel Faucedraco",
+    "frFR": "Garnison des Gueules-de-dragon",
+    "ptBR": "Guarni\u00e7\u00e3o Presa do Drag\u00e3o",
+    "ruRU": "\u0413\u0430\u0440\u043d\u0438\u0437\u043e\u043d \u0414\u0440\u0430\u043a\u043e\u043d\u044c\u0435\u0439 \u041f\u0430\u0441\u0442\u0438",
+    "zhCN": "\u9f99\u5589\u5175\u8425"
+   },
    "file": "287.webp",
    "sha256": "2cac5134985868528d03b15f0d7c56fa2869d927dbf4f05a4969e466d275564c"
   },
@@ -40897,6 +40909,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-blackwing-lair-2.webp",
     "sha256": "503ee1e4f6e7ab1b60a44ecab7e4d64d7d8d6e42ad25a442a462faf570818580"
+   },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:160",
+   "floor_name": "Halls of Strife",
+   "floor_names": {
+    "deDE": "Hallen des Zwists",
+    "enUS": "Halls of Strife",
+    "esES": "Salas de los Conflictos",
+    "frFR": "Halls des conflits",
+    "ptBR": "Sal\u00f5es da Contenda",
+    "ruRU": "\u0417\u0430\u043b \u0420\u0430\u0437\u0434\u043e\u0440\u0430",
+    "zhCN": "\u5f81\u6218\u5927\u5385"
    },
    "file": "288.webp",
    "sha256": "503ee1e4f6e7ab1b60a44ecab7e4d64d7d8d6e42ad25a442a462faf570818580"
@@ -41011,6 +41035,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-blackwing-lair-3.webp",
     "sha256": "1bb41f8d71abd8ede5df985e018b33c7151b25d9d88fb5f37e42cee15d916568"
+   },
+   "floor_index": 3,
+   "group_id": "4.4.2.60895:160",
+   "floor_name": "Crimson Laboratories",
+   "floor_names": {
+    "deDE": "Die Blutroten Labore",
+    "enUS": "Crimson Laboratories",
+    "esES": "Laboratorios Carmes\u00ed",
+    "frFR": "Laboratoires Cramoisis",
+    "ptBR": "Laborat\u00f3rios Rubros",
+    "ruRU": "\u0411\u0430\u0433\u0440\u043e\u0432\u044b\u0435 \u043b\u0430\u0431\u043e\u0440\u0430\u0442\u043e\u0440\u0438\u0438",
+    "zhCN": "\u8840\u8272\u5b9e\u9a8c\u5ba4"
    },
    "file": "289.webp",
    "sha256": "1bb41f8d71abd8ede5df985e018b33c7151b25d9d88fb5f37e42cee15d916568"
@@ -41179,6 +41215,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-blackwing-lair-4.webp",
     "sha256": "a9e874913ec1a8edefd9b62249198e05fd13f4a30d86caa16a7c195c88db91b5"
+   },
+   "floor_index": 4,
+   "group_id": "4.4.2.60895:160",
+   "floor_name": "Nefarian's Lair",
+   "floor_names": {
+    "deDE": "Nefarians Unterschlupf",
+    "enUS": "Nefarian's Lair",
+    "esES": "Guarida de Nefarian",
+    "frFR": "Antre de Nefarian",
+    "ptBR": "Covil do Nefarian",
+    "ruRU": "\u041b\u043e\u0433\u043e\u0432\u043e \u041d\u0435\u0444\u0430\u0440\u0438\u0430\u043d\u0430",
+    "zhCN": "\u5948\u6cd5\u5229\u5b89\u7684\u5de2\u7a74"
    },
    "file": "290.webp",
    "sha256": "a9e874913ec1a8edefd9b62249198e05fd13f4a30d86caa16a7c195c88db91b5"
@@ -41852,6 +41900,18 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-temple-of-ahnqiraj-1.webp",
     "sha256": "ab0b2ac24de99eac746599f837167ffbc4a3872ac7161b60b3f7503bfa088449"
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:161",
+   "floor_name": "The Hive Undergrounds",
+   "floor_names": {
+    "deDE": "Untergrund des Schwarmbaus",
+    "enUS": "The Hive Undergrounds",
+    "esES": "El Subterr\u00e1neo de la Colmena",
+    "frFR": "Les souterrains de la ruche",
+    "ptBR": "A Colmeia Subterr\u00e2nea",
+    "ruRU": "\u041f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u0435 \u0443\u043b\u044c\u044f",
+    "zhCN": "\u5730\u4e0b\u866b\u5de2"
+   },
    "file": "319.webp",
    "sha256": "ab0b2ac24de99eac746599f837167ffbc4a3872ac7161b60b3f7503bfa088449"
   },
@@ -41965,6 +42025,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-temple-of-ahnqiraj-2.webp",
     "sha256": "45ada11513cdf12b6cb8c14dc9dabb3f9669a9b937efa4421a91ef3ca837e32e"
+   },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:161",
+   "floor_name": "The Temple Gates",
+   "floor_names": {
+    "deDE": "Die Tempeltore",
+    "enUS": "The Temple Gates",
+    "esES": "Las Puertas del Templo",
+    "frFR": "Portes du Temple",
+    "ptBR": "Port\u00f5es do Templo",
+    "ruRU": "\u0412\u043e\u0440\u043e\u0442\u0430 \u0445\u0440\u0430\u043c\u0430",
+    "zhCN": "\u795e\u6bbf\u5927\u95e8"
    },
    "file": "320.webp",
    "sha256": "45ada11513cdf12b6cb8c14dc9dabb3f9669a9b937efa4421a91ef3ca837e32e"
@@ -42187,6 +42259,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-temple-of-ahnqiraj-3.webp",
     "sha256": "65fed0adcdbb7a43eea26d12ac16eaeaf195a65ec0ebfdaad43a2bb3a1667593"
+   },
+   "floor_index": 3,
+   "group_id": "4.4.2.60895:161",
+   "floor_name": "Vault of C'Thun",
+   "floor_names": {
+    "deDE": "H\u00f6hle von C'Thun",
+    "enUS": "Vault of C'Thun",
+    "esES": "C\u00e1mara de C'Thun",
+    "frFR": "Caveau de C'Thun",
+    "ptBR": "Ab\u00f3bada de C'Thun",
+    "ruRU": "\u041e\u0431\u0438\u0442\u0435\u043b\u044c \u041a'\u0422\u0443\u043d\u0430",
+    "zhCN": "\u514b\u82cf\u6069\u5730\u7a74"
    },
    "file": "321.webp",
    "sha256": "65fed0adcdbb7a43eea26d12ac16eaeaf195a65ec0ebfdaad43a2bb3a1667593"
@@ -43104,6 +43188,18 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-sunwell-plateau-1.webp",
     "sha256": "25e14680b4e445525ce0e34408eab1896a10aafd0708f88750e102dac0e5ed1a"
    },
+   "floor_index": 0,
+   "group_id": "4.4.2.60895:174",
+   "floor_name": "Sunwell Plateau",
+   "floor_names": {
+    "deDE": "Sonnenbrunnenplateau",
+    "enUS": "Sunwell Plateau",
+    "esES": "Meseta de La Fuente del Sol",
+    "frFR": "Plateau du Puits de soleil",
+    "ptBR": "Plat\u00f4 da Nascente do Sol",
+    "ruRU": "\u041f\u043b\u0430\u0442\u043e \u0421\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0433\u043e \u041a\u043e\u043b\u043e\u0434\u0446\u0430",
+    "zhCN": "\u592a\u9633\u4e4b\u4e95\u9ad8\u5730"
+   },
    "file": "335.webp",
    "sha256": "25e14680b4e445525ce0e34408eab1896a10aafd0708f88750e102dac0e5ed1a"
   },
@@ -43161,6 +43257,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-sunwell-plateau-2.webp",
     "sha256": "e6789c0781ecec9ef75b803d548ba284972972a0f64ca05769090886f00bf324"
+   },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:174",
+   "floor_name": "Shrine of the Eclipse",
+   "floor_names": {
+    "deDE": "Schrein der Finsternis",
+    "enUS": "Shrine of the Eclipse",
+    "esES": "Santuario del Eclipse",
+    "frFR": "Sanctuaire de l'\u00e9clipse",
+    "ptBR": "Santu\u00e1rio do Eclipse",
+    "ruRU": "\u0421\u0432\u044f\u0442\u0438\u043b\u0438\u0449\u0435 \u0417\u0430\u0442\u043c\u0435\u043d\u0438\u044f",
+    "zhCN": "\u65e5\u8680\u795e\u6bbf"
    },
    "file": "336.webp",
    "sha256": "e6789c0781ecec9ef75b803d548ba284972972a0f64ca05769090886f00bf324"
@@ -43294,6 +43402,18 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-1.webp",
     "sha256": "ae48bedf7f75d983f88b9486a7dc928d58a9a1b3771f7d91b1bb08256d69ec08"
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "Servant's Quarters",
+   "floor_names": {
+    "deDE": "Bedienstetenunterk\u00fcnfte",
+    "enUS": "Servant's Quarters",
+    "esES": "Alcobas de los Sirvientes",
+    "frFR": "Quartiers des serviteurs",
+    "ptBR": "\u00c1rea dos Servi\u00e7ais",
+    "ruRU": "\u041a\u043e\u043c\u043d\u0430\u0442\u044b c\u043b\u0443\u0433",
+    "zhCN": "\u4ec6\u5f79\u5bbf\u820d"
+   },
    "file": "350.webp",
    "sha256": "ae48bedf7f75d983f88b9486a7dc928d58a9a1b3771f7d91b1bb08256d69ec08"
   },
@@ -43372,6 +43492,18 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-2.webp",
     "sha256": "b4ddaff89deed3bde18690d22061c884676fa2aa2190017eb272458e057fb99b"
    },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "Upper Livery Stables",
+   "floor_names": {
+    "deDE": "Obere Nobelst\u00e4lle",
+    "enUS": "Upper Livery Stables",
+    "esES": "Caballerizas superiores",
+    "frFR": "\u00c9curies sup\u00e9rieures",
+    "ptBR": "Est\u00e1bulos de Alto N\u00edvel",
+    "ruRU": "C\u0442\u043e\u0439\u043b\u0430",
+    "zhCN": "\u4e0a\u5c42\u9a6c\u53a9"
+   },
    "file": "351.webp",
    "sha256": "b4ddaff89deed3bde18690d22061c884676fa2aa2190017eb272458e057fb99b"
   },
@@ -43449,6 +43581,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-3.webp",
     "sha256": "58aafd2eba0e051cfd138425ec792965553a0d1c89cbbf48d952f96ec8ed7a27"
+   },
+   "floor_index": 3,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "The Banquet Hall",
+   "floor_names": {
+    "deDE": "Der Bankettsaal",
+    "enUS": "The Banquet Hall",
+    "esES": "La Sala de Banquetes",
+    "frFR": "La salle de banquet",
+    "ptBR": "O Sal\u00e3o de Banquete",
+    "ruRU": "\u041f\u0438\u0440\u0448\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0439 \u0437\u0430\u043b",
+    "zhCN": "\u5bb4\u4f1a\u5385"
    },
    "file": "352.webp",
    "sha256": "58aafd2eba0e051cfd138425ec792965553a0d1c89cbbf48d952f96ec8ed7a27"
@@ -43762,6 +43906,18 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-4.webp",
     "sha256": "a43be3955afce07c53ae659ee7e010732c0ed1aa4661c61db0ecc4c2a00e5910"
    },
+   "floor_index": 4,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "The Guest Chambers",
+   "floor_names": {
+    "deDE": "Die G\u00e4stezimmer",
+    "enUS": "The Guest Chambers",
+    "esES": "Los Aposentos de Invitados",
+    "frFR": "Les Appartements des h\u00f4tes",
+    "ptBR": "Aposentos de H\u00f3spedes",
+    "ruRU": "\u0413\u043e\u0441\u0442\u0435\u0432\u044b\u0435 \u043a\u043e\u043c\u043d\u0430\u0442\u044b",
+    "zhCN": "\u4f1a\u5ba2\u95f4"
+   },
    "file": "353.webp",
    "sha256": "a43be3955afce07c53ae659ee7e010732c0ed1aa4661c61db0ecc4c2a00e5910"
   },
@@ -43803,6 +43959,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-5.webp",
     "sha256": "06638949eb89ee7a43b72889070fca5757fb187571379b9081eb9e1b2d2eb7b8"
+   },
+   "floor_index": 5,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "Opera Hall Balcony",
+   "floor_names": {
+    "deDE": "Balkon des Opernsaals",
+    "enUS": "Opera Hall Balcony",
+    "esES": "Balc\u00f3n de la Sala de la \u00d3pera",
+    "frFR": "Balcon de l'Op\u00e9ra",
+    "ptBR": "Sacada do Sal\u00e3o de \u00d3pera",
+    "ruRU": "\u0411\u0430\u043b\u043a\u043e\u043d \u0432 \u043e\u043f\u0435\u0440\u0435",
+    "zhCN": "\u6b4c\u5267\u9662\u697c\u5ea7"
    },
    "file": "354.webp",
    "sha256": "06638949eb89ee7a43b72889070fca5757fb187571379b9081eb9e1b2d2eb7b8"
@@ -43990,6 +44158,17 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-6.webp",
     "sha256": "57ab42bb3c21ddbf8f1b8e40b200597a8b56918d43ada23734b9409ea9ec052d"
    },
+   "floor_index": 6,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "Master's Terrace",
+   "floor_names": {
+    "enUS": "Master's Terrace",
+    "esES": "El Bancal del Maestro",
+    "frFR": "Terrasse du Ma\u00eetre",
+    "ptBR": "Terra\u00e7o do Mestre",
+    "ruRU": "\u0422\u0435\u0440\u0440\u0430\u0441\u0430 \u041c\u0435\u0434\u0438\u0432\u0430",
+    "zhCN": "\u4e3b\u5bb0\u7684\u9732\u53f0"
+   },
    "file": "355.webp",
    "sha256": "57ab42bb3c21ddbf8f1b8e40b200597a8b56918d43ada23734b9409ea9ec052d"
   },
@@ -44086,6 +44265,18 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-7.webp",
     "sha256": "91f5d2d15b4bf1b573068e3bb48189a502145f74a21faf5f0ba9b6832c60c0bc"
    },
+   "floor_index": 7,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "Lower Broken Stair",
+   "floor_names": {
+    "deDE": "Untere Eingest\u00fcrzte Treppe",
+    "enUS": "Lower Broken Stair",
+    "esES": "La Escalera Quebrada inferior",
+    "frFR": "Partie inf\u00e9rieure de l'Escalier bris\u00e9",
+    "ptBR": "A Escadaria Partida Inferior",
+    "ruRU": "\u041d\u0438\u0437 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u043d\u043e\u0439 \u043b\u0435\u0441\u0442\u043d\u0438\u0446\u044b",
+    "zhCN": "\u4e0b\u5c42\u65ad\u9636"
+   },
    "file": "356.webp",
    "sha256": "91f5d2d15b4bf1b573068e3bb48189a502145f74a21faf5f0ba9b6832c60c0bc"
   },
@@ -44145,6 +44336,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-8.webp",
     "sha256": "137450922fe259e41774b6b414f54ee5d6f2337809d9c90a0f36b7f23db1e850"
+   },
+   "floor_index": 8,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "Upper Broken Stair",
+   "floor_names": {
+    "deDE": "Obere Eingest\u00fcrzte Treppe",
+    "enUS": "Upper Broken Stair",
+    "esES": "La Escalera Quebrada superior",
+    "frFR": "Partie sup\u00e9rieure de l'Escalier bris\u00e9",
+    "ptBR": "A Escadaria Partida Superior",
+    "ruRU": "\u0412\u0435\u0440\u0445 \u0440\u0430\u0437\u0440\u0443\u0448\u0435\u043d\u043d\u043e\u0439 \u043b\u0435\u0441\u0442\u043d\u0438\u0446\u044b",
+    "zhCN": "\u4e0a\u5c42\u65ad\u9636"
    },
    "file": "357.webp",
    "sha256": "137450922fe259e41774b6b414f54ee5d6f2337809d9c90a0f36b7f23db1e850"
@@ -44278,6 +44481,17 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-9.webp",
     "sha256": "ccc07fd14f10d5f2c38b76c6f5c5881940cb2cf92fb0587b3aec032439c82a78"
    },
+   "floor_index": 9,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "The Menagerie",
+   "floor_names": {
+    "deDE": "Die Menagerie",
+    "enUS": "The Menagerie",
+    "esES": "La Sala de las Fieras",
+    "frFR": "La M\u00e9nagerie",
+    "ptBR": "O Viveiro",
+    "ruRU": "\u0417\u0432\u0435\u0440\u0438\u043d\u0435\u0446"
+   },
    "file": "358.webp",
    "sha256": "ccc07fd14f10d5f2c38b76c6f5c5881940cb2cf92fb0587b3aec032439c82a78"
   },
@@ -44392,6 +44606,18 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-10.webp",
     "sha256": "134780d4a0cd458aa715bcb52f046ed3e9ba21d7a67e80a68b8f03fbc6b51def"
    },
+   "floor_index": 10,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "Guardian's Library",
+   "floor_names": {
+    "deDE": "Bibliothek des W\u00e4chters",
+    "enUS": "Guardian's Library",
+    "esES": "Biblioteca del Guardi\u00e1n",
+    "frFR": "Biblioth\u00e8que du Gardien",
+    "ptBR": "Biblioteca do Guardi\u00e3o",
+    "ruRU": "\u0411\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0425\u0440\u0430\u043d\u0438\u0442\u0435\u043b\u044f",
+    "zhCN": "\u5b88\u62a4\u8005\u7684\u56fe\u4e66\u9986"
+   },
    "file": "359.webp",
    "sha256": "134780d4a0cd458aa715bcb52f046ed3e9ba21d7a67e80a68b8f03fbc6b51def"
   },
@@ -44452,6 +44678,16 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-11.webp",
     "sha256": "8613e6f9d8aaf2541fa5c1ecbd2f93076d3515e652e4568a974a57fc9e08adb6"
    },
+   "floor_index": 11,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "The Repository",
+   "floor_names": {
+    "enUS": "The Repository",
+    "esES": "El Repositorio",
+    "frFR": "Le D\u00e9p\u00f4t",
+    "ptBR": "O Reposit\u00f3rio",
+    "ruRU": "\u0425\u0440\u0430\u043d\u0438\u043b\u0438\u0449\u0435"
+   },
    "file": "360.webp",
    "sha256": "8613e6f9d8aaf2541fa5c1ecbd2f93076d3515e652e4568a974a57fc9e08adb6"
   },
@@ -44511,6 +44747,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-12.webp",
     "sha256": "7a2a378d5db5683a02789c0371a523f8badc82aed0386988715bc9250db02bd7"
+   },
+   "floor_index": 12,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "Upper Library",
+   "floor_names": {
+    "deDE": "Obere Bibliothek",
+    "enUS": "Upper Library",
+    "esES": "La Biblioteca superior",
+    "frFR": "Biblioth\u00e8que sup\u00e9rieure",
+    "ptBR": "Biblioteca Superior",
+    "ruRU": "\u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u044f\u0440\u0443\u0441 \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0438",
+    "zhCN": "\u4e0a\u5c42\u56fe\u4e66\u9986"
    },
    "file": "361.webp",
    "sha256": "7a2a378d5db5683a02789c0371a523f8badc82aed0386988715bc9250db02bd7"
@@ -44589,6 +44837,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-13.webp",
     "sha256": "861796760b5b7cbe97bbd103b4eb58983ba9a03fd202dd30156539985d5deab0"
+   },
+   "floor_index": 13,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "The Celestial Watch",
+   "floor_names": {
+    "deDE": "Die Himmelswacht",
+    "enUS": "The Celestial Watch",
+    "esES": "El Mirador Celestial",
+    "frFR": "Le Guet c\u00e9leste",
+    "ptBR": "A Vig\u00edlia Celestial",
+    "ruRU": "\u041e\u0431\u0441\u0435\u0440\u0432\u0430\u0442\u043e\u0440\u0438\u044f",
+    "zhCN": "\u89c2\u661f\u5927\u5385"
    },
    "file": "362.webp",
    "sha256": "861796760b5b7cbe97bbd103b4eb58983ba9a03fd202dd30156539985d5deab0"
@@ -44704,6 +44964,18 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-14.webp",
     "sha256": "4b43c7a3a7901ab0b65780e0719caa88d6f361fbff18edc851c498edc18ceec4"
    },
+   "floor_index": 14,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "Gamesman's Hall",
+   "floor_names": {
+    "deDE": "Halle der Spiele",
+    "enUS": "Gamesman's Hall",
+    "esES": "Sala del Tablero",
+    "frFR": "Hall du Flambeur",
+    "ptBR": "Sal\u00e3o de Jogos",
+    "ruRU": "\u0418\u0433\u0440\u043e\u0432\u043e\u0439 \u0437\u0430\u043b",
+    "zhCN": "\u8c61\u68cb\u5927\u5385"
+   },
    "file": "363.webp",
    "sha256": "4b43c7a3a7901ab0b65780e0719caa88d6f361fbff18edc851c498edc18ceec4"
   },
@@ -44818,6 +45090,18 @@
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-15.webp",
     "sha256": "307804141d3a941a32a5c6d2b859e43cf2c1a9ec4ca60ebd8dc912a14631d074"
    },
+   "floor_index": 15,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "Medivh's Chambers",
+   "floor_names": {
+    "deDE": "Medivhs Gem\u00e4cher",
+    "enUS": "Medivh's Chambers",
+    "esES": "Estancias de Medivh",
+    "frFR": "Appartements de Medivh",
+    "ptBR": "Aposentos de Medivh",
+    "ruRU": "\u041f\u043e\u043a\u043e\u0438 \u041c\u0435\u0434\u0438\u0432\u0430",
+    "zhCN": "\u9ea6\u8fea\u6587\u7684\u623f\u95f4"
+   },
    "file": "364.webp",
    "sha256": "307804141d3a941a32a5c6d2b859e43cf2c1a9ec4ca60ebd8dc912a14631d074"
   },
@@ -44895,6 +45179,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-16.webp",
     "sha256": "299e9cb614a65fa77fcf9f2b6b5bde4ca4f17aaf56f4ff1a880029f8076c8581"
+   },
+   "floor_index": 16,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "The Power Station",
+   "floor_names": {
+    "deDE": "Die Energiekammer",
+    "enUS": "The Power Station",
+    "esES": "La Central El\u00e9ctrica",
+    "frFR": "Centrale \u00e9lectrique",
+    "ptBR": "Usina de For\u00e7a",
+    "ruRU": "\u042d\u043d\u0435\u0440\u0433\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0431\u043b\u043e\u043a",
+    "zhCN": "\u80fd\u91cf\u7ad9"
    },
    "file": "365.webp",
    "sha256": "299e9cb614a65fa77fcf9f2b6b5bde4ca4f17aaf56f4ff1a880029f8076c8581"
@@ -45117,6 +45413,18 @@
     "client_version": "4.4.2.60895",
     "file": "application/modules/raid_logs/images/replay_maps/instance-map-karazhan-17.webp",
     "sha256": "30137597b9684a1a0527a74ef28d69df7201a98708bd72914877c45f58ca5f48"
+   },
+   "floor_index": 17,
+   "group_id": "4.4.2.60895:162",
+   "floor_name": "Netherspace",
+   "floor_names": {
+    "deDE": "Netherraum",
+    "enUS": "Netherspace",
+    "esES": "Espacio Abisal",
+    "frFR": "N\u00e9antespace",
+    "ptBR": "Eterespa\u00e7o",
+    "ruRU": "\u041f\u0443\u0441\u0442\u043e\u043c\u0430\u0440\u044c",
+    "zhCN": "\u865a\u7a7a\u5f02\u754c"
    },
    "file": "366.webp",
    "sha256": "30137597b9684a1a0527a74ef28d69df7201a98708bd72914877c45f58ca5f48"
@@ -46047,6 +46355,18 @@
     "client_version": "4.4.2.60895",
     "archive_map": 70
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:150",
+   "floor_name": "Hall of the Keepers",
+   "floor_names": {
+    "deDE": "Halle der Bewahrer",
+    "enUS": "Hall of the Keepers",
+    "esES": "Sala de los Guardianes",
+    "frFR": "Hall des Gardiens",
+    "ptBR": "Sal\u00e3o dos Guardi\u00f5es",
+    "ruRU": "\u0417\u0430\u043b \u0425\u0440\u0430\u043d\u0438\u0442\u0435\u043b\u0435\u0439",
+    "zhCN": "\u5b88\u62a4\u8005\u5927\u5385"
+   },
    "file": "230.webp",
    "sha256": "28c2fbff74163f5dd7f4f73af4cc30768f1ee4195dae38a9b1cdbd4c5a0ca6ed"
   },
@@ -46219,6 +46539,18 @@
    "artwork_source": {
     "client_version": "4.4.2.60895",
     "archive_map": 70
+   },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:150",
+   "floor_name": "Khaz'Goroth's Seat",
+   "floor_names": {
+    "deDE": "Khaz'goroths Sitz",
+    "enUS": "Khaz'Goroth's Seat",
+    "esES": "Trono de Khaz'goroth",
+    "frFR": "Si\u00e8ge de Khaz'goroth",
+    "ptBR": "Trono de Khaz'Goroth",
+    "ruRU": "\u0422\u0440\u043e\u043d \u041a\u0430\u0437'\u0433\u043e\u0440\u043e\u0442\u0430",
+    "zhCN": "\u5361\u5179\u683c\u7f57\u65af\u4e4b\u5ea7"
    },
    "file": "231.webp",
    "sha256": "452a0adfa07512dfb3a621bdc7c198c3935481d08eaf2d793ec71e27bdb5b05f"
@@ -47092,6 +47424,18 @@
     "client_version": "4.4.2.60895",
     "archive_map": 545
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:164",
+   "floor_name": "The Steamvault",
+   "floor_names": {
+    "deDE": "Die Dampfkammer",
+    "enUS": "The Steamvault",
+    "esES": "La C\u00e1mara de Vapor",
+    "frFR": "Le caveau de la Vapeur",
+    "ptBR": "C\u00e2mara dos Vapores",
+    "ruRU": "\u041f\u0430\u0440\u043e\u0432\u043e\u0435 \u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u0435",
+    "zhCN": "\u84b8\u6c7d\u5730\u7a9f"
+   },
    "file": "263.webp",
    "sha256": "e420a10e269fe8509d989fc417deba614c7a5f5a73ae4cd70618570dd2ed3b22"
   },
@@ -47264,6 +47608,18 @@
    "artwork_source": {
     "client_version": "4.4.2.60895",
     "archive_map": 545
+   },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:164",
+   "floor_name": "The Cooling Pools",
+   "floor_names": {
+    "deDE": "Die K\u00fchlteiche",
+    "enUS": "The Cooling Pools",
+    "esES": "Las Charcas Refrescantes",
+    "frFR": "Les bassins de refroidissement",
+    "ptBR": "Po\u00e7os Refrescantes",
+    "ruRU": "\u041e\u0445\u043b\u0430\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0440\u0435\u0437\u0435\u0440\u0432\u0443\u0430\u0440\u044b",
+    "zhCN": "\u51b7\u5374\u6c60"
    },
    "file": "264.webp",
    "sha256": "6ae978e38cf60e60258e13e56f3bbaccb8d1704fa7b7da1fce9a28b4b5e3d2d4"
@@ -47730,6 +48086,18 @@
     "client_version": "4.4.2.60895",
     "archive_map": 552
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:165",
+   "floor_name": "Stasis Block: Trion",
+   "floor_names": {
+    "deDE": "Stasisblock: Trion",
+    "enUS": "Stasis Block: Trion",
+    "esES": "Bloque de Estasis: Trion",
+    "frFR": "Bloc de stase\u00a0: Trion",
+    "ptBR": "Quadra de Estase: Trion",
+    "ruRU": "\u0418\u0437\u043e\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430: \u0422\u0440\u0438\u043e\u043d",
+    "zhCN": "\u9759\u6b62\u9694\u95f4\uff1a\u7279\u96f7\u5965"
+   },
    "file": "269.webp",
    "sha256": "43d3b3ae4a7b25ed0a24580a1b36b276f1a183e0c83c548693ee579c4d93b71e"
   },
@@ -47975,6 +48343,18 @@
     "client_version": "4.4.2.60895",
     "archive_map": 552
    },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:165",
+   "floor_name": "Stasis Block: Maximus",
+   "floor_names": {
+    "deDE": "Stasisblock: Maximus",
+    "enUS": "Stasis Block: Maximus",
+    "esES": "Bloque de Estasis: Maximus",
+    "frFR": "Bloc de stase\u00a0: Maximus",
+    "ptBR": "Quadra de Estase: Maximus",
+    "ruRU": "\u0418\u0437\u043e\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u0430\u044f \u043a\u0430\u043c\u0435\u0440\u0430: \u041c\u0430\u043a\u0441\u0438\u043c\u0443\u0441",
+    "zhCN": "\u9759\u6b62\u9694\u95f4\uff1a\u739b\u514b\u5e0c\u59c6"
+   },
    "file": "270.webp",
    "sha256": "c0f53c8e9cdedb44ca51e901284eac85c6a44852a1569f2cd59b1411c4687e21"
   },
@@ -48165,6 +48545,18 @@
    "artwork_source": {
     "client_version": "4.4.2.60895",
     "archive_map": 552
+   },
+   "floor_index": 3,
+   "group_id": "4.4.2.60895:165",
+   "floor_name": "Containment Core",
+   "floor_names": {
+    "deDE": "Eind\u00e4mmungskern",
+    "enUS": "Containment Core",
+    "esES": "Pabell\u00f3n de Aislamiento",
+    "frFR": "C\u0153ur de confinement",
+    "ptBR": "N\u00facleo de Conten\u00e7\u00e3o",
+    "ruRU": "\u042f\u0434\u0440\u043e \u0441\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u043d\u0438\u044f",
+    "zhCN": "\u5bc6\u5c01\u6838\u5fc3"
    },
    "file": "271.webp",
    "sha256": "d81c6ba1f004fcbcf544bcb8238bb2258381bc156abd01ce46c9078619349737"
@@ -48393,6 +48785,18 @@
     "client_version": "4.4.2.60895",
     "archive_map": 554
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:166",
+   "floor_name": "The Mechanar",
+   "floor_names": {
+    "deDE": "Die Mechanar",
+    "enUS": "The Mechanar",
+    "esES": "El Mechanar",
+    "frFR": "Le M\u00e9chanar",
+    "ptBR": "Mecanar",
+    "ruRU": "\u041c\u0435\u0445\u0430\u043d\u0430\u0440",
+    "zhCN": "\u80fd\u6e90\u8230"
+   },
    "file": "267.webp",
    "sha256": "b5ee76de8a365075071046a86c7194a051644868ecdc25aeca142e94efcc5c6e"
   },
@@ -48601,6 +49005,18 @@
    "artwork_source": {
     "client_version": "4.4.2.60895",
     "archive_map": 554
+   },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:166",
+   "floor_name": "Calculation Chamber",
+   "floor_names": {
+    "deDE": "Berechnungskammer",
+    "enUS": "Calculation Chamber",
+    "esES": "Estancias de Calculaci\u00f3n",
+    "frFR": "Chambre des Calculs",
+    "ptBR": "C\u00e2mara dos C\u00e1lculos",
+    "ruRU": "\u041a\u043e\u043c\u043d\u0430\u0442\u0430 \u0412\u044b\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439",
+    "zhCN": "\u8ba1\u7b97\u5bc6\u5ba4"
    },
    "file": "268.webp",
    "sha256": "264525d184636d03ff2a26627dc50d673670592a39c679e5e766e8c762c77030"
@@ -48865,6 +49281,18 @@
     "client_version": "4.4.2.60895",
     "archive_map": 556
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:167",
+   "floor_name": "Veil Sethekk",
+   "floor_names": {
+    "deDE": "Sethekkversteck",
+    "enUS": "Veil Sethekk",
+    "esES": "Velo Sethekk",
+    "frFR": "Voile Sethekk",
+    "ptBR": "V\u00e9u Sethekk",
+    "ruRU": "\u0413\u043d\u0435\u0437\u0434\u043e\u0432\u044c\u0435 \u0421\u0435\u0442\u0435\u043a\u043a",
+    "zhCN": "\u585e\u6cf0\u514b\u9e26\u5de2"
+   },
    "file": "258.webp",
    "sha256": "b47566509eb2f1ef7338c92ad889c5a43504dcd4d3e280f00036ec5a4bfa6fd7"
   },
@@ -49109,6 +49537,18 @@
    "artwork_source": {
     "client_version": "4.4.2.60895",
     "archive_map": 556
+   },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:167",
+   "floor_name": "Halls of Mourning",
+   "floor_names": {
+    "deDE": "Hallen der Trauer",
+    "enUS": "Halls of Mourning",
+    "esES": "Salas del Luto",
+    "frFR": "Les salles du Deuil",
+    "ptBR": "Sal\u00f5es da Lamenta\u00e7\u00e3o",
+    "ruRU": "\u0417\u0430\u043b\u044b \u041f\u043b\u0430\u0447\u0430",
+    "zhCN": "\u54c0\u60bc\u5927\u5385"
    },
    "file": "259.webp",
    "sha256": "94013b864d308b0897e13d61d5cddcaad1fd1f50df8ab576ba9e34beb10b84d0"
@@ -49582,6 +50022,18 @@
     "client_version": "4.4.2.60895",
     "archive_map": 558
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:168",
+   "floor_name": "Halls of the Hereafter",
+   "floor_names": {
+    "deDE": "Hallen des Jenseits",
+    "enUS": "Halls of the Hereafter",
+    "esES": "Salas del M\u00e1s All\u00e1",
+    "frFR": "Les salles de l'Apr\u00e8s-vie",
+    "ptBR": "Sal\u00f5es do Porvir",
+    "ruRU": "\u041f\u043e\u0442\u0443\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0438\u0435 \u0437\u0430\u043b\u044b",
+    "zhCN": "\u8f6c\u751f\u5927\u5385"
+   },
    "file": "256.webp",
    "sha256": "ac3e1013a7f91e891132319fffd4522ba6d97bfe083a7a95fb76c31fc3543b99"
   },
@@ -49862,6 +50314,18 @@
    "artwork_source": {
     "client_version": "4.4.2.60895",
     "archive_map": 558
+   },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:168",
+   "floor_name": "Bridge of Souls",
+   "floor_names": {
+    "deDE": "Br\u00fccke der Seelen",
+    "enUS": "Bridge of Souls",
+    "esES": "Puente de las Almas",
+    "frFR": "Le pont des \u00e2mes",
+    "ptBR": "Ponte das Almas",
+    "ruRU": "\u041c\u043e\u0441\u0442 \u0414\u0443\u0448",
+    "zhCN": "\u7075\u9b42\u4e4b\u6865"
    },
    "file": "257.webp",
    "sha256": "1f3614aed6646311abe9b99be6328eac753c43d325151d11a968ae658338b242"
@@ -50264,6 +50728,8 @@
     "client_version": "3.4.5.63697",
     "minimap_map": 564
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:169",
    "file": "339.webp",
    "sha256": "733350c4f1ade718e50b9afbbd4d89938e805b34aa02b454a9c73fbfd7579038"
   },
@@ -51655,6 +52121,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 33
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:147",
+   "floor_name": "The Courtyard",
+   "floor_names": {
+    "deDE": "Der Hof",
+    "enUS": "The Courtyard",
+    "esES": "El Patio",
+    "frFR": "La cour",
+    "ptBR": "P\u00e1tio",
+    "ruRU": "\u0412\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0439 \u0434\u0432\u043e\u0440",
+    "zhCN": "\u5ead\u9662"
+   },
    "file": "310.webp",
    "sha256": "d562991a011bc14a579eeb5d7b703fa6ed03ac36626853ac909736070bf9d083"
   },
@@ -51849,6 +52327,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 33
+   },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:147",
+   "floor_name": "Dining Hall",
+   "floor_names": {
+    "deDE": "Speisesaal",
+    "enUS": "Dining Hall",
+    "esES": "Comedor",
+    "frFR": "Salle \u00e0 manger",
+    "ptBR": "Refeit\u00f3rio",
+    "ruRU": "\u041e\u0431\u0435\u0434\u0435\u043d\u043d\u044b\u0439 \u0437\u0430\u043b",
+    "zhCN": "\u996d\u5385"
    },
    "file": "311.webp",
    "sha256": "6e76c02189af69d6184068c1f2bb87638c4c724caddf85260905a8612a17114f"
@@ -52156,6 +52646,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 33
    },
+   "floor_index": 3,
+   "group_id": "4.4.2.60895:147",
+   "floor_name": "The Vacant Den",
+   "floor_names": {
+    "deDE": "Die Verwaiste H\u00f6hle",
+    "enUS": "The Vacant Den",
+    "esES": "El Cubil Vac\u00edo",
+    "frFR": "Antre Vacant",
+    "ptBR": "O Covil Vazio",
+    "ruRU": "\u0421\u0432\u043e\u0431\u043e\u0434\u043d\u0430\u044f \u0431\u0435\u0440\u043b\u043e\u0433\u0430",
+    "zhCN": "\u7a7a\u5de2"
+   },
    "file": "312.webp",
    "sha256": "7026f489c0ffd942087458155077eefb7abb3cf40223a156fab1701358aebbee"
   },
@@ -52461,6 +52963,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 33
+   },
+   "floor_index": 4,
+   "group_id": "4.4.2.60895:147",
+   "floor_name": "Lower Observatory",
+   "floor_names": {
+    "deDE": "Das Tiefere Observatorium",
+    "enUS": "Lower Observatory",
+    "esES": "Observatorio inferior",
+    "frFR": "Observatoire Inf\u00e9rieur",
+    "ptBR": "Observat\u00f3rio Inferior",
+    "ruRU": "\u041d\u0438\u0436\u043d\u044f\u044f \u043e\u0431\u0441\u0435\u0440\u0432\u0430\u0442\u043e\u0440\u0438\u044f",
+    "zhCN": "\u4e0b\u5c42\u77ad\u671b\u53f0"
    },
    "file": "313.webp",
    "sha256": "30c719883ac013c119a0878a2078dac704c8824da6f61a0d9f5f7f995cc6ad0c"
@@ -52768,6 +53282,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 33
    },
+   "floor_index": 5,
+   "group_id": "4.4.2.60895:147",
+   "floor_name": "Upper Observatory",
+   "floor_names": {
+    "deDE": "Das Obere Observatorium",
+    "enUS": "Upper Observatory",
+    "esES": "Observatorio superior",
+    "frFR": "Observatoire Sup\u00e9rieur",
+    "ptBR": "Observat\u00f3rio Superior",
+    "ruRU": "\u0412\u0435\u0440\u0445\u043d\u044f\u044f \u043e\u0431\u0441\u0435\u0440\u0432\u0430\u0442\u043e\u0440\u0438\u044f",
+    "zhCN": "\u4e0a\u5c42\u77ad\u671b\u53f0"
+   },
    "file": "314.webp",
    "sha256": "1c9c77ef79382e1c38669a0c7c711a9ad1162598bc72c1c5007c2cd44727e9b8"
   },
@@ -52925,6 +53451,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 33
+   },
+   "floor_index": 6,
+   "group_id": "4.4.2.60895:147",
+   "floor_name": "Lord Godfrey's Chamber",
+   "floor_names": {
+    "deDE": "Lord Godfreys Kammer",
+    "enUS": "Lord Godfrey's Chamber",
+    "esES": "C\u00e1mara de lord Godfrey",
+    "frFR": "Chambre du seigneur Godfrey",
+    "ptBR": "C\u00e2mara do Lorde Godfrey",
+    "ruRU": "\u041f\u0430\u043b\u0430\u0442\u0430 \u043b\u043e\u0440\u0434\u0430 \u0413\u043e\u0434\u0444\u0440\u0438",
+    "zhCN": "\u9ad8\u5f17\u96f7\u52cb\u7235\u7684\u5927\u5385"
    },
    "file": "315.webp",
    "sha256": "bf69a982fcede73b95999b45dc684169385107692368cadc4b7a3246dee62ef7"
@@ -53525,6 +54063,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 33
+   },
+   "floor_index": 7,
+   "group_id": "4.4.2.60895:147",
+   "floor_name": "The Wall Walk",
+   "floor_names": {
+    "deDE": "Der Wehrgang",
+    "enUS": "The Wall Walk",
+    "esES": "El Camino de la Muralla",
+    "frFR": "Le chemin de ronde",
+    "ptBR": "Caminho da Ronda",
+    "ruRU": "\u041a\u0440\u0435\u043f\u043e\u0441\u0442\u043d\u043e\u0439 \u0432\u0430\u043b",
+    "zhCN": "\u57ce\u5899\u8d70\u9053"
    },
    "file": "316.webp",
    "sha256": "bb5de6a5623853cc6bc6648f9aa14629a4f14a5f901f37990c4c4cb6425b5aa0"
@@ -55804,6 +56354,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 36
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:148",
+   "floor_name": "The Deadmines",
+   "floor_names": {
+    "deDE": "Die Todesminen",
+    "enUS": "The Deadmines",
+    "esES": "Las Minas de la Muerte",
+    "frFR": "Les Mortemines",
+    "ptBR": "Minas Mortas",
+    "ruRU": "\u041c\u0435\u0440\u0442\u0432\u044b\u0435 \u043a\u043e\u043f\u0438",
+    "zhCN": "\u6b7b\u4ea1\u77ff\u4e95"
+   },
    "file": "291.webp",
    "sha256": "89020949fc5ad03293fc76ca35da1a70f6db76fe835a1b170d26d2d3a5b6a99b"
   },
@@ -56186,6 +56748,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 36
+   },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:148",
+   "floor_name": "Ironclad Cove",
+   "floor_names": {
+    "deDE": "Eiserne Bucht",
+    "enUS": "Ironclad Cove",
+    "esES": "Cala del Acorazado",
+    "frFR": "Crique du Cuirass\u00e9",
+    "ptBR": "Covil Encoura\u00e7ado",
+    "ruRU": "\u041f\u043e\u0442\u0430\u0439\u043d\u0430\u044f \u0431\u0443\u0445\u0442\u0430",
+    "zhCN": "\u94c1\u7532\u6e7e"
    },
    "file": "292.webp",
    "sha256": "f6b6a69d14a17621645ae57829214f8f3a61976db26bb8db1b14661b5ebf5ca5"
@@ -59201,6 +59775,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 48
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:149",
+   "floor_name": "The Pool of Ask'Ar",
+   "floor_names": {
+    "deDE": "Der Teich von Ask'Ar",
+    "enUS": "The Pool of Ask'Ar",
+    "esES": "La Alberca de Ask'ar",
+    "frFR": "Le Bassin d'Ask'ar",
+    "ptBR": "O Po\u00e7o de Ask'Ar",
+    "ruRU": "\u041f\u0440\u0443\u0434 \u0410\u0441\u043a'\u0430\u0440\u0430",
+    "zhCN": "\u963f\u65af\u5361\u4e4b\u6c60"
+   },
    "file": "221.webp",
    "sha256": "b3f67a36acefa3ba160ecc1adbb82751c0953dead6337f0fef5d778d50b28661"
   },
@@ -59594,6 +60180,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 48
    },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:149",
+   "floor_name": "Moonshrine Sanctum",
+   "floor_names": {
+    "deDE": "Mondschreinsanktum",
+    "enUS": "Moonshrine Sanctum",
+    "esES": "Sagrario Lunar",
+    "frFR": "Sanctuaire d'\u00c9crin-de-Lune",
+    "ptBR": "Sacr\u00e1rio Lunar",
+    "ruRU": "\u0410\u043b\u0442\u0430\u0440\u044c \u0441\u0432\u044f\u0442\u0438\u043b\u0438\u0449\u0430 \u041b\u0443\u043d\u044b",
+    "zhCN": "\u6708\u795e\u5723\u5730\u5bc6\u5ba4"
+   },
    "file": "222.webp",
    "sha256": "30d21e53a408feb2b792b3995aad5cdafe1aa30ac58d4c6b7c130237127ec262"
   },
@@ -59675,6 +60273,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 48
+   },
+   "floor_index": 3,
+   "group_id": "4.4.2.60895:149",
+   "floor_name": "The Forgotten Pool",
+   "floor_names": {
+    "deDE": "Der Vergessene Teich",
+    "enUS": "The Forgotten Pool",
+    "esES": "Las Charcas del Olvido",
+    "frFR": "Les Bassins oubli\u00e9s",
+    "ptBR": "Charcos Esquecidos",
+    "ruRU": "\u0417\u0430\u0431\u044b\u0442\u044b\u0439 \u043f\u0440\u0443\u0434",
+    "zhCN": "\u9057\u5fd8\u4e4b\u6c60"
    },
    "file": "223.webp",
    "sha256": "2db4deae1f0a8a11ba0ebea5c9c93511286f9309c23cd53de81bd1ab5969eb9a"
@@ -60221,6 +60831,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 90
+   },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:151",
+   "floor_name": "The Hall of Gears",
+   "floor_names": {
+    "deDE": "Die Halle der Zahnr\u00e4der",
+    "enUS": "The Hall of Gears",
+    "esES": "La Sala de M\u00e1quinas",
+    "frFR": "Le Hall des engrenages",
+    "ptBR": "Sal\u00e3o das Engrenagens",
+    "ruRU": "\u041c\u0430\u0448\u0438\u043d\u043d\u044b\u0439 \u0437\u0430\u043b",
+    "zhCN": "\u9f7f\u8f6e\u5927\u5385"
    },
    "file": "226.webp",
    "sha256": "6fe2312656c9a830016b6f66bc4565fde592783ff36c3588768cb7ba06051b42"
@@ -61227,6 +61849,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 90
    },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:151",
+   "floor_name": "The Dormitory",
+   "floor_names": {
+    "deDE": "Der Schlafsaal",
+    "enUS": "The Dormitory",
+    "esES": "Los Dormitorios",
+    "frFR": "Le dortoir",
+    "ptBR": "Alojamentos",
+    "ruRU": "\u0421\u043f\u0430\u043b\u044c\u043d\u0438",
+    "zhCN": "\u5bbf\u820d"
+   },
    "file": "227.webp",
    "sha256": "dfe653a19c2042a081ac6b293d95b0546e89ffd3a68e0c73d132f5bdf0574a08"
   },
@@ -62158,6 +62792,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 90
    },
+   "floor_index": 3,
+   "group_id": "4.4.2.60895:151",
+   "floor_name": "Launch Bay",
+   "floor_names": {
+    "deDE": "Startrampe",
+    "enUS": "Launch Bay",
+    "esES": "Aeropuerto",
+    "frFR": "Baie de lancement",
+    "ptBR": "Baia de Lan\u00e7amento",
+    "ruRU": "\u041f\u0443\u0441\u043a\u043e\u0432\u0430\u044f \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u043a\u0430",
+    "zhCN": "\u53d1\u5c04\u53f0"
+   },
    "file": "228.webp",
    "sha256": "39b504d51ab0c69ebbecbc1122c10263d43e8729e329ad726ed7f2c9d2b37db9"
   },
@@ -62883,6 +63529,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 90
+   },
+   "floor_index": 4,
+   "group_id": "4.4.2.60895:151",
+   "floor_name": "Tinkers' Court",
+   "floor_names": {
+    "deDE": "T\u00fcftlerhof",
+    "enUS": "Tinkers' Court",
+    "esES": "C\u00e1mara Manitas",
+    "frFR": "Cour du Bricoleur",
+    "ptBR": "Pa\u00e7o dos Faz-tudo",
+    "ruRU": "\u0414\u0432\u043e\u0440 \u041c\u0435\u0445\u0430\u043d\u0438\u043a\u043e\u0432",
+    "zhCN": "\u5de5\u5320\u8bae\u4f1a"
    },
    "file": "229.webp",
    "sha256": "ffc22a312e43f7c6c1814741d979ca1dea2e0b4da9900fdeaaaf31a23b12f5db"
@@ -71956,6 +72614,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 229
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:153",
+   "floor_name": "Tazz'Alor",
+   "floor_names": {
+    "deDE": "Tazz'Alor",
+    "enUS": "Tazz'Alor",
+    "esES": "Tazz'Alaor",
+    "frFR": "Tazz'Alor",
+    "ptBR": "Tazz'Alor",
+    "ruRU": "\u0422\u0430\u0437\u0437'\u0410\u043b\u043e\u0440",
+    "zhCN": "\u5854\u8428\u6d1b\u5c14"
+   },
    "file": "250.webp",
    "sha256": "43779ffaf69346dc8ed3819394a10b12f66eef9ad81bf84b2d31aa801acfee1e"
   },
@@ -72327,6 +72997,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 229
    },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:153",
+   "floor_name": "Skitterweb Tunnels",
+   "floor_names": {
+    "deDE": "Listspinnertunnel",
+    "enUS": "Skitterweb Tunnels",
+    "esES": "T\u00faneles de Ar\u00e1cnidas",
+    "frFR": "Tunnels de Toile-grouillante",
+    "ptBR": "T\u00faneis Tremeteia",
+    "ruRU": "\u041f\u0430\u0443\u0447\u0438\u0439 \u043b\u0430\u0431\u0438\u0440\u0438\u043d\u0442",
+    "zhCN": "\u86db\u7f51\u96a7\u9053"
+   },
    "file": "251.webp",
    "sha256": "fbc9e85ba77a6424dc70df5e95543add9aa3e331d9ee6f4e3fb246efa4f5c9f4"
   },
@@ -72623,6 +73305,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 229
+   },
+   "floor_index": 3,
+   "group_id": "4.4.2.60895:153",
+   "floor_name": "Hordemar City",
+   "floor_names": {
+    "deDE": "Hordemar",
+    "enUS": "Hordemar City",
+    "esES": "Ciudad Hordemar",
+    "frFR": "Cit\u00e9 d'Hordemar",
+    "ptBR": "Hordamar",
+    "ruRU": "\u041e\u0440\u0434\u0430\u043c\u0430\u0440",
+    "zhCN": "\u970d\u5fb7\u739b\u5c14\u57ce"
    },
    "file": "252.webp",
    "sha256": "c9eb9ac7f6ef9facd9dc097dc4f5311fffdd23ac206913df3d85dd7c875fb843"
@@ -73175,6 +73869,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 229
    },
+   "floor_index": 4,
+   "group_id": "4.4.2.60895:153",
+   "floor_name": "Hall of Blackhand",
+   "floor_names": {
+    "deDE": "Schwarzfausthalle",
+    "enUS": "Hall of Blackhand",
+    "esES": "Sala de Pu\u00f1o Negro",
+    "frFR": "Salle de Main-noire",
+    "ptBR": "Sal\u00e3o do M\u00e3o Negra",
+    "ruRU": "\u0417\u0430\u043b \u0427\u0435\u0440\u043d\u043e\u0440\u0443\u043a\u0430",
+    "zhCN": "\u9ed1\u624b\u5927\u5385"
+   },
    "file": "253.webp",
    "sha256": "7ce77b4938e454a2deff405d3449a05ed9f718db68097b7dbcd580ecdf9cc5b6"
   },
@@ -73674,6 +74380,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 229
    },
+   "floor_index": 5,
+   "group_id": "4.4.2.60895:153",
+   "floor_name": "Halycon's Lair",
+   "floor_names": {
+    "deDE": "Halycons Hort",
+    "enUS": "Halycon's Lair",
+    "esES": "Guarida de Halycon",
+    "frFR": "Antre d'Halycon",
+    "ptBR": "Covil de Halycon",
+    "ruRU": "\u041b\u043e\u0433\u043e\u0432\u043e \u0425\u0430\u043b\u0438\u043a\u043e\u043d",
+    "zhCN": "\u54c8\u96f7\u80af\u4e4b\u5de2"
+   },
    "file": "254.webp",
    "sha256": "db6f3aac2fa6e3d2cddbeacd6201732ea68d944cd0b3563f18ee8442d428c5a1"
   },
@@ -74002,6 +74720,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 229
+   },
+   "floor_index": 6,
+   "group_id": "4.4.2.60895:153",
+   "floor_name": "Chamber of Battle",
+   "floor_names": {
+    "deDE": "Kammer der Schlachten",
+    "enUS": "Chamber of Battle",
+    "esES": "Sala de la Batalla",
+    "frFR": "Chambre de guerre",
+    "ptBR": "C\u00e2mara de Batalha",
+    "ruRU": "\u0427\u0435\u0440\u0442\u043e\u0433 \u0411\u0438\u0442\u0432\u044b",
+    "zhCN": "\u6218\u6597\u4e4b\u5385"
    },
    "file": "255.webp",
    "sha256": "fa8cb8651dfb2b5ba9c212bc2054931775853bbb5cc498498cccb7dcf92e1bcb"
@@ -74975,6 +75705,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 230
+   },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:154",
+   "floor_name": "Detention Block",
+   "floor_names": {
+    "deDE": "Gef\u00e4ngnisblock",
+    "enUS": "Detention Block",
+    "esES": "Bloque de Detenci\u00f3n",
+    "frFR": "Le mitard",
+    "ptBR": "Bloco de Deten\u00e7\u00e3o",
+    "ruRU": "\u0422\u044e\u0440\u0435\u043c\u043d\u044b\u0439 \u0431\u043b\u043e\u043a",
+    "zhCN": "\u7981\u95ed\u5ba4"
    },
    "file": "242.webp",
    "sha256": "6efa3cb85933d095b7e3a60a72d4f9bbaadbc65c6a084d6a30fd10ab968851f4"
@@ -76507,6 +77249,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 230
    },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:154",
+   "floor_name": "Shadowforge City",
+   "floor_names": {
+    "deDE": "Die Schattenschmiede",
+    "enUS": "Shadowforge City",
+    "esES": "Ciudad Forjatiniebla",
+    "frFR": "Ville des Ombreforges",
+    "ptBR": "Cidade de Umbraforja",
+    "ruRU": "\u0422\u0435\u043d\u0435\u0433\u043e\u0440\u043d",
+    "zhCN": "\u6697\u7089\u57ce"
+   },
    "file": "243.webp",
    "sha256": "b4a78b7a3bf1a9bf863640880c9ea5ca9e173896d2ee3fd695f1e43287bb7c43"
   },
@@ -76664,6 +77418,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 289
+   },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:155",
+   "floor_name": "The Reliquary",
+   "floor_names": {
+    "deDE": "Das Reliquiarium",
+    "enUS": "The Reliquary",
+    "esES": "El Relicario",
+    "frFR": "Le Reliquaire",
+    "ptBR": "O Relic\u00e1rio",
+    "ruRU": "\u0423\u0441\u044b\u043f\u0430\u043b\u044c\u043d\u0438\u0446\u0430",
+    "zhCN": "\u9057\u9aa8\u4e4b\u7a74"
    },
    "file": "306.webp",
    "sha256": "4735f2cbb0f05846ce6608b09fc117e94d607dceb24290583c6e31305e4c5f7d"
@@ -77094,6 +77860,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 289
    },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:155",
+   "floor_name": "Chamber of Summoning",
+   "floor_names": {
+    "deDE": "Kammer der Beschw\u00f6rung",
+    "enUS": "Chamber of Summoning",
+    "esES": "C\u00e1mara de la Invocaci\u00f3n",
+    "frFR": "Chambre d'invocation",
+    "ptBR": "C\u00e2mara de Evoca\u00e7\u00e3o",
+    "ruRU": "\u0427\u0435\u0440\u0442\u043e\u0433 \u041f\u0440\u0438\u0437\u044b\u0432\u0430",
+    "zhCN": "\u53ec\u5524\u5927\u5385"
+   },
    "file": "307.webp",
    "sha256": "a0293a7c6e2b52c8786b235bf577bfa9898318e19e4504f0d8f6e849a537726d"
   },
@@ -77400,6 +78178,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 289
    },
+   "floor_index": 3,
+   "group_id": "4.4.2.60895:155",
+   "floor_name": "The Upper Study",
+   "floor_names": {
+    "deDE": "Das Obere Arbeitszimmer",
+    "enUS": "The Upper Study",
+    "esES": "El Estudio Superior",
+    "frFR": "\u00c9tude sup\u00e9rieure",
+    "ptBR": "Gabinete Superior",
+    "ruRU": "\u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u043a\u0430\u0431\u0438\u043d\u0435\u0442",
+    "zhCN": "\u4e66\u623f\u4e0a\u5c42"
+   },
    "file": "308.webp",
    "sha256": "ecad6ab0b9b4c95ca06a7133e4675ca6d0baa9be4a4889c0b2a2de4e39e12c52"
   },
@@ -77668,6 +78458,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 289
+   },
+   "floor_index": 4,
+   "group_id": "4.4.2.60895:155",
+   "floor_name": "Headmaster's Study",
+   "floor_names": {
+    "deDE": "Das Arbeitszimmer des Direktors",
+    "enUS": "Headmaster's Study",
+    "esES": "Sala Rectoral",
+    "frFR": "Bureau du proviseur",
+    "ptBR": "Gabinete do Diretor",
+    "ruRU": "\u041a\u0430\u0431\u0438\u043d\u0435\u0442 \u0414\u0438\u0440\u0435\u043a\u0442\u043e\u0440\u0430",
+    "zhCN": "\u9662\u957f\u7684\u4e66\u623f"
    },
    "file": "309.webp",
    "sha256": "c152e58b14b7bb24bb60d21fea8301414d555e7114ed93e8f651d19de9a8bcaa"
@@ -79300,6 +80102,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 329
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:156",
+   "floor_name": "Crusader's Square",
+   "floor_names": {
+    "deDE": "Kreuzz\u00fcglerplatz",
+    "enUS": "Crusader's Square",
+    "esES": "Plaza de los Cruzados",
+    "frFR": "Place des Crois\u00e9s",
+    "ptBR": "Quadra do Cruzado",
+    "ruRU": "\u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0440\u044b\u0446\u0430\u0440\u0435\u0439",
+    "zhCN": "\u5341\u5b57\u519b\u5e7f\u573a"
+   },
    "file": "317.webp",
    "sha256": "f51a7535c643a7ec326f88146e9f7044b22ad75fa9bb762801d250032b0f2820"
   },
@@ -80875,6 +81689,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 329
    },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:156",
+   "floor_name": "The Gauntlet",
+   "floor_names": {
+    "deDE": "Der Spie\u00dfrutenlauf",
+    "enUS": "The Gauntlet",
+    "esES": "El Guantelete",
+    "frFR": "Le D\u00e9fi",
+    "ptBR": "Forquilha",
+    "ruRU": "\u0423\u043b\u0438\u0446\u0430 \u0418\u0441\u043f\u044b\u0442\u0430\u043d\u0438\u0439",
+    "zhCN": "\u8857\u5df7"
+   },
    "file": "318.webp",
    "sha256": "89d6a87a9839a397135f6a375456e5bc8981dd4905716a70b3146f8661d5f267"
   },
@@ -81859,6 +82685,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 349
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:157",
+   "floor_name": "Caverns of Maraudon",
+   "floor_names": {
+    "deDE": "H\u00f6hlen von Maraudon",
+    "enUS": "Caverns of Maraudon",
+    "esES": "Cavernas de Maraudon",
+    "frFR": "Cavernes de Maraudon",
+    "ptBR": "Cavernas de Maraudon",
+    "ruRU": "\u041f\u0435\u0449\u0435\u0440\u044b \u041c\u0430\u0440\u043e\u0434\u043e\u043d\u0430",
+    "zhCN": "\u739b\u62c9\u987f\u7684\u6d1e\u7a74"
+   },
    "file": "280.webp",
    "sha256": "74a0a76212bc63cefa8e9e0bb40326535ad38140d09b270d4e840c9de2d3d270"
   },
@@ -82831,6 +83669,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 349
    },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:157",
+   "floor_name": "Zaetar's Grave",
+   "floor_names": {
+    "deDE": "Zaetars Grab",
+    "enUS": "Zaetar's Grave",
+    "esES": "Tumba de Zaetar",
+    "frFR": "Tombe de Zaetar",
+    "ptBR": "T\u00famulo de Zaetar",
+    "ruRU": "\u041c\u043e\u0433\u0438\u043b\u0430 \u0417\u0435\u0439\u0442\u0430\u0440\u0430",
+    "zhCN": "\u624e\u5c14\u5854\u4e4b\u5893"
+   },
    "file": "281.webp",
    "sha256": "576933c5168516434713c56c6b008df5ea44b264254330386d5ddc692bcc49a9"
   },
@@ -83538,6 +84388,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 429
    },
+   "floor_index": 1,
+   "group_id": "4.4.2.60895:159",
+   "floor_name": "Gordok Commons",
+   "floor_names": {
+    "deDE": "Gordokhallen",
+    "enUS": "Gordok Commons",
+    "esES": "\u00c1gora de Gordok",
+    "frFR": "Communs gordok",
+    "ptBR": "P\u00e1tio Gordok",
+    "ruRU": "\u041f\u0430\u043b\u0430\u0442\u044b \u0413\u043e\u0440\u0434\u043e\u043a\u0430",
+    "zhCN": "\u6208\u591a\u514b\u8bae\u4f1a"
+   },
    "file": "235.webp",
    "sha256": "93d45f683207d1362add0e0eec6a5f33066f1cc3d9b577426e525332341222ef"
   },
@@ -83966,6 +84828,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 429
    },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:159",
+   "floor_name": "Capital Gardens",
+   "floor_names": {
+    "deDE": "Hauptstadtg\u00e4rten",
+    "enUS": "Capital Gardens",
+    "esES": "Jardines de la Capital",
+    "frFR": "Grands jardins",
+    "ptBR": "Jardins Capitais",
+    "ruRU": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0430\u0434",
+    "zhCN": "\u4e2d\u5fc3\u82b1\u56ed"
+   },
    "file": "236.webp",
    "sha256": "f68447dd597dadc9c5367e0276323425e764e22a86b28a2bc7a56c7229bc5571"
   },
@@ -84104,6 +84978,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 429
+   },
+   "floor_index": 3,
+   "group_id": "4.4.2.60895:159",
+   "floor_name": "Court of the Highborne",
+   "floor_names": {
+    "deDE": "Hof der Hochgeborenen",
+    "enUS": "Court of the Highborne",
+    "esES": "Corte de los Altonato",
+    "frFR": "Cour des Bien-n\u00e9s",
+    "ptBR": "A Corte dos Altaneiros",
+    "ruRU": "\u0414\u0432\u043e\u0440 \u0412\u044b\u0441\u043e\u043a\u043e\u0440\u043e\u0436\u0434\u0435\u043d\u043d\u044b\u0445",
+    "zhCN": "\u4e0a\u5c42\u7cbe\u7075\u5ead\u9662"
    },
    "file": "237.webp",
    "sha256": "218442187345c6a0c49638ccf394d4ab08d64628019e6a0c54fe9d92e88535eb"
@@ -84505,6 +85391,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 429
+   },
+   "floor_index": 4,
+   "group_id": "4.4.2.60895:159",
+   "floor_name": "Prison of Immol'Thar",
+   "floor_names": {
+    "deDE": "Das Gef\u00e4ngnis von Immol'thar",
+    "enUS": "Prison of Immol'Thar",
+    "esES": "Prisi\u00f3n de Immol'thar",
+    "frFR": "Prison d'Immol'Thar",
+    "ptBR": "Pris\u00e3o de Immol'thar",
+    "ruRU": "\u0422\u044e\u0440\u044c\u043c\u0430 \u041f\u043b\u0430\u043c\u0435'\u0442\u0430\u0440\u0430",
+    "zhCN": "\u4f0a\u83ab\u5854\u5c14\u7684\u7262\u7b3c"
    },
    "file": "238.webp",
    "sha256": "cc7fb5f19165329e2999bc22a1671829a9a810eb4695461e0a9cadffdd6f318b"
@@ -85288,6 +86186,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 429
+   },
+   "floor_index": 5,
+   "group_id": "4.4.2.60895:159",
+   "floor_name": "Warpwood Quarter",
+   "floor_names": {
+    "deDE": "Wucherborkenviertel",
+    "enUS": "Warpwood Quarter",
+    "esES": "Barrio Alabeo",
+    "frFR": "Quartier de Crochebois",
+    "ptBR": "Distrito Lenhatorta",
+    "ruRU": "\u041a\u0432\u0430\u0440\u0442\u0430\u043b \u041a\u0440\u0438\u0432\u043e\u0434\u0440\u0435\u0432\u043e\u0432",
+    "zhCN": "\u626d\u6728\u5e7f\u573a"
    },
    "file": "239.webp",
    "sha256": "c2eb182c87b59318751f9d8f88b357f709af81000a8eb16bc3fef29083332637"
@@ -86106,6 +87016,18 @@
    "artwork_source": {
     "client_version": "3.4.5.63697",
     "interior_map": 429
+   },
+   "floor_index": 6,
+   "group_id": "4.4.2.60895:159",
+   "floor_name": "The Shrine of Eldretharr",
+   "floor_names": {
+    "deDE": "Der Schrein von Eldretharr",
+    "enUS": "The Shrine of Eldretharr",
+    "esES": "Santuario de Eldretharr",
+    "frFR": "Le sanctuaire d'Eldretharr",
+    "ptBR": "Altar de Eldretharr",
+    "ruRU": "\u0421\u0432\u044f\u0442\u0438\u043b\u0438\u0449\u0435 \u042d\u043b\u0434\u0440\u0435\u0442\u0430\u0440\u0440",
+    "zhCN": "\u827e\u5fb7\u96f7\u65af\u795e\u6bbf"
    },
    "file": "240.webp",
    "sha256": "abb24093c7b1887c41c6c4d311d19fc924641affb344ab0e77086bb4f932fb70"
@@ -87934,6 +88856,18 @@
     "interior_map": 564,
     "partition_version": "4.4.2.60895"
    },
+   "floor_index": 0,
+   "group_id": "4.4.2.60895:169",
+   "floor_name": "Karabor Sewers",
+   "floor_names": {
+    "deDE": "Kan\u00e4le von Karabor",
+    "enUS": "Karabor Sewers",
+    "esES": "Cloacas de Karabor",
+    "frFR": "\u00c9gouts de Karabor",
+    "ptBR": "Esgotos de Karabor",
+    "ruRU": "\u041a\u0430\u043d\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044f",
+    "zhCN": "\u5361\u62c9\u6ce2\u4e0b\u6c34\u9053"
+   },
    "file": "340.webp",
    "sha256": "41043f6e0c3668d3ad79b22910b44aa6bfb1d4d44f143ee4833681197ad00655"
   },
@@ -88555,6 +89489,18 @@
     "interior_map": 564,
     "partition_version": "4.4.2.60895"
    },
+   "floor_index": 2,
+   "group_id": "4.4.2.60895:169",
+   "floor_name": "Sanctuary of Shadows",
+   "floor_names": {
+    "deDE": "Zuflucht der Schatten",
+    "enUS": "Sanctuary of Shadows",
+    "esES": "Santuario de las Sombras",
+    "frFR": "Sanctuaire des Ombres",
+    "ptBR": "Santu\u00e1rio das Sombras",
+    "ruRU": "\u0421\u0432\u044f\u0442\u0438\u043b\u0438\u0449\u0435 \u0422\u0435\u043d\u0435\u0439",
+    "zhCN": "\u6697\u5f71\u5723\u6bbf"
+   },
    "file": "341.webp",
    "sha256": "6229adeed8bf184d52381d5cbe1a5f0a3f0f3dbbab01ff6fb000853ae65c5660"
   },
@@ -88848,6 +89794,18 @@
     "interior_map": 564,
     "partition_version": "4.4.2.60895"
    },
+   "floor_index": 3,
+   "group_id": "4.4.2.60895:169",
+   "floor_name": "Halls of Anguish",
+   "floor_names": {
+    "deDE": "Hallen der Pein",
+    "enUS": "Halls of Anguish",
+    "esES": "Salas de Angustia",
+    "frFR": "Les salles de l'Angoisse",
+    "ptBR": "Sal\u00f5es da Ang\u00fastia",
+    "ruRU": "\u0417\u0430\u043b\u044b \u0421\u0442\u0440\u0430\u0434\u0430\u043d\u0438\u0439",
+    "zhCN": "\u82e6\u75db\u5927\u5385"
+   },
    "file": "342.webp",
    "sha256": "586a7c6059b7425ea078086d96cc1de524d364a28ef2ad31d6c1d828ba701256"
   },
@@ -89128,6 +90086,18 @@
     "client_version": "3.4.5.63697",
     "interior_map": 564,
     "partition_version": "4.4.2.60895"
+   },
+   "floor_index": 4,
+   "group_id": "4.4.2.60895:169",
+   "floor_name": "Gorefiend's Vigil",
+   "floor_names": {
+    "deDE": "Blutschattens Wacht",
+    "enUS": "Gorefiend's Vigil",
+    "esES": "Vigilia de Sanguino",
+    "frFR": "Veill\u00e9e de Fielsang",
+    "ptBR": "Vigia do Sanguin\u00e1vido",
+    "ruRU": "\u041f\u043e\u0441\u0442 \u041a\u0440\u043e\u0432\u043e\u0436\u0430\u0434\u0430",
+    "zhCN": "\u8840\u9b54\u4e4b\u5385"
    },
    "file": "343.webp",
    "sha256": "bc944eb4829388cc776de52e2ab519af60ce8e4cb68f506e099a4260add618c3"
@@ -89412,6 +90382,18 @@
     "interior_map": 564,
     "partition_version": "4.4.2.60895"
    },
+   "floor_index": 5,
+   "group_id": "4.4.2.60895:169",
+   "floor_name": "Den of Mortal Delights",
+   "floor_names": {
+    "deDE": "Hof der Irdischen Gel\u00fcste",
+    "enUS": "Den of Mortal Delights",
+    "esES": "Guarida de los Placeres Mortales",
+    "frFR": "Tani\u00e8re des d\u00e9lices mortels",
+    "ptBR": "Covil dos Prazeres Mortais",
+    "ruRU": "\u041f\u0440\u0438\u044e\u0442 \u0417\u0435\u043c\u043d\u044b\u0445 \u041d\u0430\u0441\u043b\u0430\u0436\u0434\u0435\u043d\u0438\u0439",
+    "zhCN": "\u6b22\u6109\u4e4b\u56ed"
+   },
    "file": "344.webp",
    "sha256": "cb9b0713e96b748ac219a09fae21385092a2c4470617d5731d6e8a3766995e4e"
   },
@@ -89663,6 +90645,18 @@
     "interior_map": 564,
     "partition_version": "4.4.2.60895"
    },
+   "floor_index": 6,
+   "group_id": "4.4.2.60895:169",
+   "floor_name": "Chamber of Command",
+   "floor_names": {
+    "deDE": "Kommandoraum",
+    "enUS": "Chamber of Command",
+    "esES": "C\u00e1mara de Mando",
+    "frFR": "Chambre de commandement",
+    "ptBR": "C\u00e2mara de Comando",
+    "ruRU": "\u0427\u0435\u0440\u0442\u043e\u0433 \u0412\u043b\u0430\u0441\u0442\u0438",
+    "zhCN": "\u547d\u4ee4\u5927\u5385"
+   },
    "file": "345.webp",
    "sha256": "62b5f6f9cf80d60e7d626a0b99020bf6bcbf3a0bcb928d296e3a888dd7e9c056"
   },
@@ -89763,6 +90757,18 @@
     "interior_map": 564,
     "partition_version": "4.4.2.60895"
    },
+   "floor_index": 7,
+   "group_id": "4.4.2.60895:169",
+   "floor_name": "Temple Summit",
+   "floor_names": {
+    "deDE": "Tempelspitze",
+    "enUS": "Temple Summit",
+    "esES": "Cima del Templo",
+    "frFR": "Sommet du temple",
+    "ptBR": "\u00c1pice do Templo",
+    "ruRU": "\u0425\u0440\u0430\u043c\u043e\u0432\u0430\u044f \u0432\u0435\u0440\u0448\u0438\u043d\u0430",
+    "zhCN": "\u795e\u6bbf\u4e4b\u5dc5"
+   },
    "file": "346.webp",
    "sha256": "53499104cd886b96272cce4bc1118ebef07914af655ea76cac1a342c1e0ff608"
   }
@@ -89782,7 +90788,8 @@
    "UiMapArtTile": "68bca659611d0ded08fc224a3a3c67d825b5214fc5d1c1ea8d0dec2e9ecd903a",
    "UiMapArtStyleLayer": "ea1d1be56586d9ee184445f5b92777e31afce9355073751db58b6aaeea27fae4",
    "WorldMapOverlay": "7487791ccf110df69683008f91e6025c8ca13c6f320621da79f423bae94137ba",
-   "WorldMapOverlayTile": "8c5cbbe16e54881690342a93a161de76ab0eacba1156198f1dcd69fc61493d22"
+   "WorldMapOverlayTile": "8c5cbbe16e54881690342a93a161de76ab0eacba1156198f1dcd69fc61493d22",
+   "UiMapGroupMember": "b6c86ce56aae012c536aa57114783b40d50182b9b82d08dd836807a538c369f4"
   },
   "world_receipt_sha256": "f677ff2250460ea4ed745ac3775b70507308ef250342b8b5ec33e74b9a12c0d9",
   "maps": {
@@ -90336,6 +91343,46 @@
      "515257.blp": "78d83d0c96df37b99c2c81a143470e2b201c777218b17836ec5bc7e57a3cfe7f",
      "515258.blp": "3ed0e4c76b754f6ff6d318d0e0acaa54f68b519bf8505a39a73c3cf519711128"
     }
+   }
+  },
+  "floors": {
+   "taken": [
+    147,
+    148,
+    149,
+    150,
+    151,
+    153,
+    154,
+    155,
+    156,
+    157,
+    159,
+    160,
+    161,
+    162,
+    164,
+    165,
+    166,
+    167,
+    168,
+    169,
+    174
+   ],
+   "left": {
+    "152": "no DUNGEON_FLOOR_ string for Graveyard",
+    "163": "a build-12340 level orders it",
+    "170": "a build-12340 level orders it",
+    "171": "a build-12340 level orders it",
+    "172": "a build-12340 level orders it",
+    "173": "not all the sheets of one map",
+    "176": "a build-12340 level orders it",
+    "177": "a build-12340 level orders it",
+    "178": "a build-12340 level orders it",
+    "179": "a build-12340 level orders it",
+    "180": "a build-12340 level orders it",
+    "181": "a build-12340 level orders it",
+    "187": "a build-12340 level orders it"
    }
   },
   "texture_receipt_sha256": "ef70b73e2be69b708e3bbadd9d94d87ffcdda579ac8d9734fb419ca2ec5fba4f"
