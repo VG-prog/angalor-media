@@ -37,7 +37,7 @@ válidas de archivos ya descargados.
 Para seleccionar GitHub, el comando de infraestructura es:
 
 ```sh
-sudo python3 /srv/angalor/local-ecosystem/tools/configure-public-media.py --apply --receipt /var/lib/angalor/media-github-AAAA-MM-DD
+sudo python3 /srv/angalor/local-ecosystem/tools/configure-public-media.py --gateway /home/debian/cluster-workspace/launcher-bolivia --apply --receipt /var/lib/angalor/media-github-AAAA-MM-DD
 ```
 
 Usa un directorio de recibo nuevo en cada cambio. Añadir `--local` sirve los archivos
@@ -59,3 +59,14 @@ anterior, no el `current` del checkout que se está modificando. Después de ter
 y verificar la subida, `configure-public-media.py` selecciona el checkout completo
 y su nuevo origen. Los commits sólo incluyen las rutas de cada lote y conservan
 cualquier trabajo ajeno que ya esté en el índice de Git.
+
+Las vistas previas usan el ID de esa generación en su ruta. Antes de activarla,
+incluir también las imágenes de ficha, galería y miniaturas bajo ese ID. Una
+adición exclusiva de audio permite reutilizar sus bytes sólo después de comprobar
+que todos los modelos, texturas y recursos del visor anteriores son idénticos y
+que las imágenes coinciden con la publicación previa. Si cambian esos recursos,
+hay que regenerar las imágenes afectadas.
+
+Si Git falla, `.publish/git-failure.log` conserva su diagnóstico con permisos
+privados. Comprobar el commit remoto antes de reintentar un envío interrumpido;
+un timeout no confirma si GitHub recibió la operación.

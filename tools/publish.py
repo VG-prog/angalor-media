@@ -40,9 +40,21 @@ def main() -> None:
 
     def git(*command: str, **kwargs):
         prefix = ['runuser', '-u', args.git_user, '--'] if args.git_user else []
-        return subprocess.run(prefix + ['git', '-C', str(repo), *command],
-                              check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE,
-                              **kwargs).stdout
+        try:
+            return subprocess.run(prefix + ['git', '-C', str(repo), *command],
+                                  check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+                                  **kwargs).stdout
+        except subprocess.CalledProcessError as error:
+            # Preserve the provider's actual rejection without printing credential-helper diagnostics.
+            failure = state / 'git-failure.log'
+            descriptor = os.open(failure, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0o600)
+            with os.fdopen(descriptor, 'wb') as stream:
+                os.fchmod(stream.fileno(), 0o600)
+                for output in (error.stdout, error.stderr):
+                    if output:
+                        stream.write(output.encode() if isinstance(output, str) else output)
+            error.add_note(f'Git {command[0]} failed; private diagnostics: {failure}')
+            raise
 
     assert git('branch', '--show-current', text=True).strip() == 'main'
     assert git('remote', 'get-url', 'origin', text=True).strip() == 'https://github.com/VG-prog/angalor-media.git'
