@@ -16,7 +16,7 @@ MEDIA = {'.png', '.jpg', '.jpeg', '.gif', '.webp', '.avif', '.svg', '.ico', '.mp
          '.webm', '.mp3', '.ogg', '.wav', '.woff', '.woff2', '.ttf', '.otf', '.eot', '.bmp'}
 PUBLIC = ('application/images', 'application/themes', 'application/fonts',
           'application/media', 'application/modules', 'forums/styles', 'forums/images', 'forums/ext')
-BATCH_BYTES = 600 * 1024 * 1024
+BATCH_BYTES = 64 * 1024 * 1024
 MAX_FILE_BYTES = 100 * 1024 * 1024
 
 
