@@ -75,8 +75,9 @@ class Publication(unittest.TestCase):
             raise subprocess.CalledProcessError(1, command, stderr=b'Lost push acknowledgement')
         return result
 
-    def publish(self):
+    def publish(self, *extra):
         arguments = ['publish.py', '--web-root', str(self.web), '--model-root', str(self.models), '--repo', str(self.repo)]
+        arguments.extend(extra)
         output = io.StringIO()
         with patch.object(sys, 'argv', arguments), patch.object(publisher.subprocess, 'run', self.dispatch), contextlib.redirect_stdout(output):
             publisher.main()
@@ -134,6 +135,38 @@ class Publication(unittest.TestCase):
         self.assertEqual(first['commit'], second['commit'])
         self.assertTrue(second['unchanged'])
         self.assertEqual(self.staged, [])
+
+    def test_foreign_staged_work_is_preserved_and_not_published(self):
+        self.publish()
+        (self.repo / 'operator-notes.txt').write_text('Private unfinished work\n')
+        self.git('add', 'operator-notes.txt')
+        before = self.git('diff', '--cached', '--binary')
+        previous = self.git('rev-parse', 'HEAD')
+        (self.web / 'application/images/1.png').write_bytes(b'new public image')
+        self.publish()
+        self.assertEqual(self.git('diff', '--cached', '--binary'), before)
+        self.assertNotIn('operator-notes.txt', self.git('ls-tree', '-r', '--name-only', 'main', cwd=self.remote))
+        self.assertEqual(set(self.git('diff', '--name-only', previous, 'HEAD').splitlines()),
+                         {'web/application/images/1.png', 'publication.json'})
+
+    def test_staged_release_keeps_source_current_and_publishes_verified_assets(self):
+        self.publish()
+        staged = '20261113T000000Z-abcdef123456'
+        target = self.models / 'releases' / staged
+        (target / 'index').mkdir(parents=True)
+        body = b'New recording'
+        sha = hashlib.sha256(body).hexdigest()
+        source = self.models / 'objects' / sha[:2] / sha
+        source.parent.mkdir(parents=True, exist_ok=True)
+        source.write_bytes(body)
+        (target / 'index/models.json').write_text(json.dumps({'sound.wav': [sha, len(body)]}))
+        (target / 'release.json').write_text(json.dumps({'release': staged}))
+        self.publish('--model-release', staged)
+        self.assertEqual((self.models / 'current').read_text(), self.release)
+        self.assertEqual(self.git('show', 'main:modelviewer/current', cwd=self.remote), staged)
+        self.assertEqual(self.manifest()['model_release'], staged)
+        self.assertEqual(self.manifest()['files']['modelviewer/objects/' + sha[:2] + '/' + sha]['sha256'], sha)
+        self.assertEqual(self.git('show', 'main:modelviewer/objects/' + sha[:2] + '/' + sha, cwd=self.remote), body.decode())
 
 
 if __name__ == '__main__':

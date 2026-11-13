@@ -29,6 +29,7 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--web-root', required=True, type=Path)
     parser.add_argument('--model-root', required=True, type=Path)
+    parser.add_argument('--model-release', help='Publish a staged model release without activating the source archive')
     parser.add_argument('--repo', type=Path, default=Path(__file__).resolve().parents[1])
     parser.add_argument('--git-user', default='')
     args = parser.parse_args()
@@ -102,7 +103,7 @@ def main() -> None:
                 put(file, 'web/' + file.relative_to(args.web_root).as_posix())
         print(json.dumps({'copied': relative, 'files': len(records)}), flush=True)
 
-    release = (args.model_root / 'current').read_text().strip()
+    release = args.model_release or (args.model_root / 'current').read_text().strip()
     if not re.fullmatch(r'[0-9]{8}T[0-9]{6}Z-[0-9a-f]{12}', release):
         raise RuntimeError('Invalid model release')
     release_root = args.model_root / 'releases' / release
@@ -124,7 +125,13 @@ def main() -> None:
         if i % 10000 == 0:
             print(json.dumps({'model_objects': i, 'total': len(objects)}), flush=True)
     put(release_root / 'release.json', 'modelviewer/releases/' + release + '/release.json')
-    put(args.model_root / 'current', 'modelviewer/current')
+    # The serving archive may still use its previous release during this upload.
+    # Do not change that pointer until the complete Git publication can be selected.
+    pointer = state / 'model-current'
+    if pointer.exists():
+        pointer.unlink()  # put() may have linked the preceding publication to it.
+    pointer.write_text(release + '\n')
+    put(pointer, 'modelviewer/current')
     inventory = {'created_at': datetime.datetime.now(datetime.timezone.utc).isoformat(),
                  'model_release': release, 'files': records, 'count': len(records),
                  'bytes': sum(v['bytes'] for v in records.values())}
@@ -148,9 +155,13 @@ def main() -> None:
         paths.write_bytes(b'\0'.join(p.encode() for p in batch) + b'\0')
         paths.chmod(0o644)
         git('add', '--pathspec-from-file=' + str(paths), '--pathspec-file-nul')
-        changed = git('diff', '--cached', '--name-only', text=True).splitlines()
+        owned = {p.encode() for p in batch}
+        changed = [p for p in git('diff', '--cached', '--name-only', '-z').split(b'\0') if p in owned]
         if changed:
-            git('commit', '-m', 'Publica recursos de Angalor (' + str(len(changed)) + ' archivos)')
+            git('commit', '--only', '--pathspec-from-file=' + str(paths), '--pathspec-file-nul',
+                '-m', 'Media/Assets: Publica recursos de Angalor',
+                '-m', f'Incorpora {len(changed)} archivos verificados para la publicación {release}.\n\n'
+                      'Conserva el catálogo completo anterior hasta terminar todos los lotes.')
             git('push', 'origin', 'main')
             print(json.dumps({'pushed': len(changed), 'commit': git('rev-parse', 'HEAD', text=True).strip()}), flush=True)
 
@@ -169,7 +180,9 @@ def main() -> None:
     shutil.copyfile(state / 'inventory.json', target)
     target.chmod(0o644)
     git('add', 'publication.json')
-    git('commit', '-m', 'Completa el catálogo público de media')
+    git('commit', '--only', '-m', 'Media/Catálogo: Publica el inventario completo',
+        '-m', f'Registra {len(records)} archivos y sus SHA-256 tras publicar todos los lotes.\n\n'
+              f'La publicación del visor es {release}.', '--', 'publication.json')
     git('push', 'origin', 'main')
     print(json.dumps({'complete': True, 'commit': git('rev-parse', 'HEAD', text=True).strip(),
                       'files': len(records), 'bytes': inventory['bytes']}), flush=True)

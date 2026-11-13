@@ -10,7 +10,7 @@ cuentas, claves, adjuntos privados ni ejecutables de los reinos.
 - `publication.json` registra los archivos y sus SHA-256. Se publica después de
   los archivos; su presencia identifica una exportación completa.
 
-Los archivos se preparan y suben desde el dedicado. No se utiliza GitHub Actions
+Los archivos se preparan y suben desde el servidor. No se utiliza GitHub Actions
 ni Git LFS. `tools/publish.py` actualiza esta copia desde los directorios públicos
 instalados, comprueba sus archivos y divide la subida en lotes. Si se interrumpe,
 volver a ejecutar el mismo comando continúa la subida de los archivos conservados.
@@ -28,26 +28,34 @@ autores. Este repositorio no cambia su licencia ni su atribución.
 
 ## Origen de entrega
 
-El dedicado utiliza `/srv/angalor/media`. La web y el foro conservan sus URL públicas;
+El servidor utiliza `/srv/angalor/media`. La web y el foro conservan sus URL públicas;
 Nginx redirige sus imágenes, fuentes y vídeos al commit completo de este repositorio.
 El visor redirige sus modelos y texturas por SHA-256. El código JavaScript/CSS se
 sirve desde la web con su tipo MIME correcto. Cloudflare puede conservar copias
 válidas de archivos ya descargados.
 
-Para seleccionar GitHub en el dedicado, el comando de infraestructura es:
+Para seleccionar GitHub, el comando de infraestructura es:
 
 ```sh
 sudo python3 /srv/angalor/local-ecosystem/tools/configure-public-media.py --apply --receipt /var/lib/angalor/media-github-AAAA-MM-DD
 ```
 
 Usa un directorio de recibo nuevo en cada cambio. Añadir `--local` sirve los archivos
-desde este mismo repositorio en el dedicado. Para otro servidor, copia allí `web/`
+desde este mismo repositorio. Para otro servidor, copia allí `web/`
 y `modelviewer/` del mismo commit completo y añade `--origin https://media.tu-dominio/ruta`.
 Ese servidor debe permitir lectura CORS de los recursos públicos. Sin `--apply`,
 el comando comprueba la publicación y muestra el cambio sin activarlo.
 
 Para actualizar los recursos, ejecuta primero `tools/publish.py` con `--web-root
 /srv/angalor/fusioncms/htdocs --model-root /srv/angalor/local-ecosystem/runtime/data/modelviewer
---repo /srv/angalor/media --git-user debian` como administrador del dedicado.
+--repo /srv/angalor/media --git-user debian` como administrador del servidor.
 Después selecciona la publicación completa con el comando anterior. Una exportación
 incompleta se rechaza; no se activa el último lote a medio subir.
+
+Para una generación preparada con `modelviewer_archive.py publish --stage`, añade
+`--model-release ID` al publicador. El `current` del archivo fuente permanece intacto.
+Durante la subida, los lectores deben seguir usando ese archivo y la publicación
+anterior, no el `current` del checkout que se está modificando. Después de terminar
+y verificar la subida, `configure-public-media.py` selecciona el checkout completo
+y su nuevo origen. Los commits sólo incluyen las rutas de cada lote y conservan
+cualquier trabajo ajeno que ya esté en el índice de Git.
